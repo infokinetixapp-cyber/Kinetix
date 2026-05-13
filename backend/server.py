@@ -2419,6 +2419,89 @@ async def download_web_build():
     return FileResponse(zip_path, media_type="application/zip", filename="kinetix-web.zip")
 
 
+# ---- Admin: seed premium routines (idempotente) ----
+@api.post("/admin/seed-premium-routines")
+async def admin_seed_premium_routines(user=Depends(get_current_user)):
+    """Crea las 3 rutinas premium de ejemplo si no existen. Solo admin."""
+    if not _is_admin(user):
+        raise HTTPException(403, "Solo admin")
+
+    PREMIUM_ROUTINES = [
+        {
+            "name": "💪 Full Body Hipertrofia 3x/sem",
+            "description": "Plan completo 3 días por semana para ganar músculo. Programación de expertos con ejercicios compuestos y aislados.",
+            "price_eur": 3.99,
+            "exercises": [
+                {"name": "Sentadilla con Barra", "sets": 4, "reps": 8, "weight": 0, "rest_seconds": 120, "muscle_group": "Cuádriceps"},
+                {"name": "Press Banca", "sets": 4, "reps": 8, "weight": 0, "rest_seconds": 120, "muscle_group": "Pecho"},
+                {"name": "Peso Muerto Rumano", "sets": 4, "reps": 10, "weight": 0, "rest_seconds": 120, "muscle_group": "Isquios"},
+                {"name": "Remo con Barra", "sets": 4, "reps": 10, "weight": 0, "rest_seconds": 90, "muscle_group": "Espalda"},
+                {"name": "Press Militar con Barra", "sets": 4, "reps": 8, "weight": 0, "rest_seconds": 90, "muscle_group": "Hombros"},
+                {"name": "Dominadas", "sets": 4, "reps": 8, "weight": 0, "rest_seconds": 120, "muscle_group": "Dorsal"},
+                {"name": "Curl con Barra", "sets": 3, "reps": 12, "weight": 0, "rest_seconds": 60, "muscle_group": "Bíceps"},
+                {"name": "Tríceps en Polea", "sets": 3, "reps": 12, "weight": 0, "rest_seconds": 60, "muscle_group": "Tríceps"},
+                {"name": "Plancha", "sets": 3, "reps": 60, "weight": 0, "rest_seconds": 60, "muscle_group": "Core"},
+            ],
+        },
+        {
+            "name": "🔥 Quema Grasa HIIT 20min",
+            "description": "Sesiones intensas de 20 minutos tipo HIIT. Quema calorías como una caldera y mejora tu capacidad cardiovascular.",
+            "price_eur": 3.99,
+            "exercises": [
+                {"name": "Burpee", "sets": 5, "reps": 12, "weight": 0, "rest_seconds": 30, "muscle_group": "Cardio"},
+                {"name": "Mountain Climbers", "sets": 5, "reps": 30, "weight": 0, "rest_seconds": 30, "muscle_group": "Cardio"},
+                {"name": "Jumping Jacks", "sets": 5, "reps": 40, "weight": 0, "rest_seconds": 30, "muscle_group": "Cardio"},
+                {"name": "Rodillas Arriba (High Knees)", "sets": 5, "reps": 30, "weight": 0, "rest_seconds": 30, "muscle_group": "Cardio"},
+                {"name": "Sentadilla con salto", "sets": 4, "reps": 15, "weight": 0, "rest_seconds": 45, "muscle_group": "Piernas"},
+                {"name": "Flexión de pecho", "sets": 4, "reps": 12, "weight": 0, "rest_seconds": 45, "muscle_group": "Pecho"},
+                {"name": "Plancha", "sets": 3, "reps": 45, "weight": 0, "rest_seconds": 30, "muscle_group": "Core"},
+            ],
+        },
+        {
+            "name": "🏋️ Fuerza Pura 5x5",
+            "description": "Método 5x5 clásico para ganar fuerza bruta. Pecho, espalda, piernas en 3 días. Progresión lineal.",
+            "price_eur": 3.99,
+            "exercises": [
+                {"name": "Sentadilla con Barra", "sets": 5, "reps": 5, "weight": 0, "rest_seconds": 180, "muscle_group": "Cuádriceps"},
+                {"name": "Press Banca", "sets": 5, "reps": 5, "weight": 0, "rest_seconds": 180, "muscle_group": "Pecho"},
+                {"name": "Peso Muerto", "sets": 3, "reps": 5, "weight": 0, "rest_seconds": 240, "muscle_group": "Espalda"},
+                {"name": "Press Militar con Barra", "sets": 5, "reps": 5, "weight": 0, "rest_seconds": 180, "muscle_group": "Hombros"},
+                {"name": "Remo con Barra", "sets": 5, "reps": 5, "weight": 0, "rest_seconds": 150, "muscle_group": "Espalda"},
+            ],
+        },
+    ]
+
+    admin = await db.users.find_one({"email": "admin@fitness.com"})
+    if not admin:
+        raise HTTPException(500, "Admin user no encontrado")
+
+    created = []
+    skipped = []
+    for r in PREMIUM_ROUTINES:
+        existing = await db.routines.find_one({"name": r["name"], "is_premium_routine": True})
+        if existing:
+            skipped.append(r["name"])
+            continue
+        # Inyectar IDs únicos a cada ejercicio
+        exercises_with_ids = [{**ex, "id": str(uuid.uuid4())} for ex in r["exercises"]]
+        doc = {
+            "id": str(uuid.uuid4()),
+            "user_id": admin["id"],
+            "name": r["name"],
+            "description": r["description"],
+            "exercises": exercises_with_ids,
+            "is_public": True,
+            "is_premium_routine": True,
+            "price_eur": r["price_eur"],
+            "is_predefined": False,
+            "created_at": datetime.now(timezone.utc).isoformat(),
+        }
+        await db.routines.insert_one(doc)
+        created.append(r["name"])
+
+    return {"created": created, "skipped": skipped, "total_created": len(created)}
+
+
 
 @app.on_event("startup")
 async def on_startup():
