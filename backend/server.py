@@ -43,6 +43,65 @@ if STRIPE_API_KEY:
 FREE_ROUTINE_LIMIT = 4
 FREE_AI_LIMIT = 2
 
+# ---------------- XP & LEVELS SYSTEM ----------------
+import math as _math
+XP_REWARDS = {
+    "workout": 50,
+    "cardio": 30,
+    "pr": 100,
+    "achievement": 150,
+    "follow": 5,
+    "publish_routine": 20,
+    "body_entry": 10,
+    "streak_bonus_7": 50,
+}
+
+def xp_to_level(xp: int) -> int:
+    """level = floor(sqrt(xp/100)). Lvl 1=100xp, 2=400, 3=900, 4=1600, 5=2500..."""
+    return int(_math.sqrt(max(0, xp) / 100))
+
+def xp_for_level(level: int) -> int:
+    """Total XP required to REACH this level."""
+    return int(level * level * 100)
+
+async def add_xp(user_id: str, amount: int, reason: str) -> dict:
+    """Add XP, persist, return {added, total_xp, level, leveled_up, new_level}."""
+    if amount <= 0 or not user_id:
+        return {"added": 0}
+    u = await db.users.find_one({"id": user_id}, {"xp": 1, "level": 1})
+    if not u:
+        return {"added": 0}
+    old_xp = int(u.get("xp", 0) or 0)
+    old_level = xp_to_level(old_xp)
+    new_xp = old_xp + amount
+    new_level = xp_to_level(new_xp)
+    leveled_up = new_level > old_level
+    await db.users.update_one(
+        {"id": user_id},
+        {
+            "$set": {"xp": new_xp, "level": new_level},
+            "$push": {
+                "xp_history": {
+                    "$each": [{
+                        "amount": amount,
+                        "reason": reason,
+                        "date": datetime.now(timezone.utc).isoformat(),
+                        "level_after": new_level,
+                    }],
+                    "$slice": -200,
+                }
+            },
+        }
+    )
+    return {
+        "added": amount,
+        "total_xp": new_xp,
+        "level": new_level,
+        "leveled_up": leveled_up,
+        "new_level": new_level if leveled_up else None,
+        "reason": reason,
+    }
+
 # ---------------- Exercise GIF mapping ----------------
 GIF_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "static", "gifs")
 try:
@@ -179,6 +238,8 @@ class UserOut(BaseModel):
     days_per_week: Optional[int] = None
     avatar_url: Optional[str] = None
     created_at: str
+    xp: int = 0
+    level: int = 0
 
 class AuthOut(BaseModel):
     user: UserOut
@@ -692,7 +753,12 @@ async def follow_user(uid: str, user=Depends(get_current_user)):
     target = await db.users.find_one({"id": uid})
     if not target:
         raise HTTPException(404, "Usuario no encontrado")
+    me = await db.users.find_one({"id": user["id"]}, {"following": 1})
+    already_following = uid in (me.get("following", []) if me else [])
     await db.users.update_one({"id": user["id"]}, {"$addToSet": {"following": uid}})
+    # ── XP (solo si es nuevo follow) ──
+    if not already_following:
+        await add_xp(user["id"], XP_REWARDS["follow"], f"follow:{uid}")
     return {"following": True}
 
 @api.delete("/users/{uid}/follow")
@@ -762,6 +828,9 @@ async def log_workout(body: WorkoutSessionIn, user=Depends(get_current_user)):
     }
     await db.workouts.insert_one(doc)
     doc.pop("_id", None)
+    # ── XP ──
+    xp_result = await add_xp(user["id"], XP_REWARDS["workout"], "workout")
+    doc["xp_gained"] = xp_result
     return doc
 
 @api.get("/workouts", response_model=List[WorkoutSession])
@@ -781,6 +850,9 @@ async def log_cardio(body: CardioSessionIn, user=Depends(get_current_user)):
     }
     await db.cardio.insert_one(doc)
     doc.pop("_id", None)
+    # ── XP ──
+    xp_result = await add_xp(user["id"], XP_REWARDS["cardio"], "cardio")
+    doc["xp_gained"] = xp_result
     return doc
 
 @api.get("/cardio", response_model=List[CardioSession])
@@ -1782,6 +1854,12 @@ async def check_achievements(user_id: str) -> List[str]:
     new = [k for k in unlocked_now if k not in existing]
     if union != existing:
         await db.users.update_one({"id": user_id}, {"$set": {"achievements": sorted(union)}})
+    # ── XP por cada logro NUEVO ──
+    if new:
+        try:
+            await add_xp(user_id, XP_REWARDS["achievement"] * len(new), f"achievements:{','.join(new)}")
+        except Exception:
+            pass
     return new
 
 
@@ -2417,6 +2495,64 @@ async def download_web_build():
     if not os.path.exists(zip_path):
         raise HTTPException(404, "Build no disponible. Pide al agente que regenere el build.")
     return FileResponse(zip_path, media_type="application/zip", filename="kinetix-web.zip")
+
+
+# ============================================================
+# ────────── XP & LEVELS API ──────────
+# ============================================================
+@api.get("/me/xp")
+async def get_my_xp(user=Depends(get_current_user)):
+    """Returns current XP, level, progress to next level, and recent history."""
+    u = await db.users.find_one({"id": user["id"]}, {"_id": 0, "xp": 1, "level": 1, "xp_history": 1})
+    xp = int((u or {}).get("xp", 0) or 0)
+    level = xp_to_level(xp)
+    current_level_xp = xp_for_level(level)
+    next_level_xp = xp_for_level(level + 1)
+    xp_in_level = xp - current_level_xp
+    xp_needed_for_next = next_level_xp - current_level_xp
+    progress_pct = (xp_in_level / xp_needed_for_next * 100) if xp_needed_for_next > 0 else 100
+    history = list(reversed((u or {}).get("xp_history", []) or []))[:30]
+    return {
+        "xp": xp,
+        "level": level,
+        "current_level_xp": current_level_xp,
+        "next_level_xp": next_level_xp,
+        "xp_in_level": xp_in_level,
+        "xp_to_next_level": max(0, next_level_xp - xp),
+        "progress_pct": round(progress_pct, 1),
+        "rewards": XP_REWARDS,
+        "recent_history": history,
+    }
+
+
+@api.get("/leaderboard/xp")
+async def leaderboard_xp(user=Depends(get_current_user), limit: int = 100):
+    """Top users globally by XP."""
+    limit = max(1, min(200, limit))
+    cursor = db.users.find(
+        {"is_banned": {"$ne": True}, "xp": {"$gt": 0}},
+        {"_id": 0, "id": 1, "name": 1, "avatar_url": 1, "xp": 1, "level": 1, "is_premium": 1}
+    ).sort("xp", -1).limit(limit)
+    items = await cursor.to_list(limit)
+    # Find my position even if I'm beyond the limit
+    me = await db.users.find_one({"id": user["id"]}, {"_id": 0, "xp": 1, "level": 1, "name": 1, "avatar_url": 1})
+    my_xp = int((me or {}).get("xp", 0) or 0)
+    my_rank = None
+    for idx, it in enumerate(items, start=1):
+        if it.get("id") == user["id"]:
+            my_rank = idx
+            break
+    if my_rank is None and my_xp > 0:
+        # Count how many users have MORE xp than me
+        higher = await db.users.count_documents({"xp": {"$gt": my_xp}, "is_banned": {"$ne": True}})
+        my_rank = higher + 1
+    return {
+        "items": [{**it, "rank": idx} for idx, it in enumerate(items, start=1)],
+        "my_rank": my_rank,
+        "my_xp": my_xp,
+        "my_level": xp_to_level(my_xp),
+        "total": len(items),
+    }
 
 
 # ---- Admin: seed premium routines (idempotente) ----
