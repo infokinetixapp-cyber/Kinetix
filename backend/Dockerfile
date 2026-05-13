@@ -10,7 +10,12 @@ RUN apt-get update && apt-get install -y \
 
 # Install python deps first for better Docker layer caching
 COPY requirements.txt .
-RUN pip install --no-cache-dir -r requirements.txt
+# emergentintegrations is hosted on Emergent's public CDN (not on pypi.org), so we
+# explicitly add their index as an extra source. This lets the package resolver
+# find it during build on Render / any non-Emergent host.
+RUN pip install --no-cache-dir \
+    --extra-index-url https://d33sy5i8bnduze.cloudfront.net/simple/ \
+    -r requirements.txt
 
 # Copy app source
 COPY . .
