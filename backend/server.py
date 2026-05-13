@@ -22,8 +22,8 @@ from starlette.middleware.cors import CORSMiddleware
 from motor.motor_asyncio import AsyncIOMotorClient
 from pydantic import BaseModel, Field, EmailStr
 
-from emergentintegrations.llm.chat import LlmChat, UserMessage
-from emergentintegrations.payments.stripe.checkout import StripeCheckout, CheckoutSessionRequest
+from emergent_compat import LlmChat, UserMessage
+from emergent_compat import StripeCheckout, CheckoutSessionRequest
 import json as json_lib
 import re
 import stripe as stripe_sdk
