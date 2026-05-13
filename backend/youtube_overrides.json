@@ -1,0 +1,2182 @@
+{
+  "press-banca-inclinado": {
+    "youtube_id": "rT7DgCr-3pg",
+    "original": "8urDOYBgvBs",
+    "pool": "chest"
+  },
+  "press-suelo": {
+    "youtube_id": "vcBig73ojpE",
+    "original": "yznhmJtybVU",
+    "pool": "chest"
+  },
+  "svend-press": {
+    "youtube_id": "4Y2ZdHCOXok",
+    "original": "GNL1sITBvO0",
+    "pool": "chest"
+  },
+  "pullover": {
+    "youtube_id": "eGo4IYlbE5g",
+    "original": "vBezhuOFWvQ",
+    "pool": "back"
+  },
+  "elevaciones-frontales": {
+    "youtube_id": "2yjwXTZQDDI",
+    "original": "sxeY3aMYviQ",
+    "pool": "shoulders"
+  },
+  "remo-menton": {
+    "youtube_id": "B-aVuyhvLHU",
+    "original": "lub2NbjUzXk",
+    "pool": "shoulders"
+  },
+  "curl-concentrado": {
+    "youtube_id": "kwG2ipFRgfo",
+    "original": "0AUGkch3tGc",
+    "pool": "biceps"
+  },
+  "curl-21": {
+    "youtube_id": "JnLFSFurrqQ",
+    "original": "vQyQK3Ymwe4",
+    "pool": "biceps"
+  },
+  "patada-triceps": {
+    "youtube_id": "d_KZxkY_0cM",
+    "original": "ZHVc9-LFE-Y",
+    "pool": "triceps"
+  },
+  "press-cerrado": {
+    "youtube_id": "2-LAMcpzODU",
+    "original": "wxwY_aOAbVY",
+    "pool": "triceps"
+  },
+  "sentadilla-frontal": {
+    "youtube_id": "ultWZbUMPL8",
+    "original": "uYumuL_G4Vo",
+    "pool": "legs"
+  },
+  "buenos-dias": {
+    "youtube_id": "U3HlEF_E9fo",
+    "original": "fM26pTvRyZ4",
+    "pool": "legs"
+  },
+  "patada-cable": {
+    "youtube_id": "SW_C1A-rejs",
+    "original": "qLzqpTNKdvI",
+    "pool": "legs"
+  },
+  "abductor": {
+    "youtube_id": "Dy28eq2PjcM",
+    "original": "5tLg5z9hl-U",
+    "pool": "legs"
+  },
+  "hollow-hold": {
+    "youtube_id": "Xyd_fa5zoEU",
+    "original": "wDyTsFJB_3o",
+    "pool": "core"
+  },
+  "rueda-abdominal": {
+    "youtube_id": "pSHjTRCQxIw",
+    "original": "0KSZ8zmDQpY",
+    "pool": "core"
+  },
+  "battle-ropes": {
+    "youtube_id": "c4DAnQ6DtF8",
+    "original": "JJcRJg5GBYw",
+    "pool": "cardio"
+  },
+  "kettlebell-swing": {
+    "youtube_id": "ZZZoCNMU48U",
+    "original": "sSESeQAtNNw",
+    "pool": "cardio"
+  },
+  "run-skipping-alto": {
+    "youtube_id": "c4DAnQ6DtF8",
+    "original": "YHNI8qLBjZA",
+    "pool": "cardio"
+  },
+  "run-skipping-bajo": {
+    "youtube_id": "ZZZoCNMU48U",
+    "original": "9YUgUmgmNew",
+    "pool": "cardio"
+  },
+  "run-talones-glutes": {
+    "youtube_id": "c4DAnQ6DtF8",
+    "original": "9-Bjk4LnEwY",
+    "pool": "cardio"
+  },
+  "run-zancadas-largas": {
+    "youtube_id": "op9kVnSso6Q",
+    "original": "ZQjQ0eLbEvc",
+    "pool": "legs"
+  },
+  "run-sentadilla-pliometrica": {
+    "youtube_id": "1uDiW5--rAE",
+    "original": "U0pVAA6mGZ8",
+    "pool": "legs"
+  },
+  "run-zancada-saltada": {
+    "youtube_id": "IZxyjW7MPJQ",
+    "original": "0AvF7E1sXRo",
+    "pool": "legs"
+  },
+  "run-saltos-caja-unilateral": {
+    "youtube_id": "YyvSfVjQeL0",
+    "original": "uHKLbQRYbS0",
+    "pool": "legs"
+  },
+  "run-step-up-rodilla": {
+    "youtube_id": "oAPCPjnU1wA",
+    "original": "VDR1xXlDw70",
+    "pool": "legs"
+  },
+  "run-peso-muerto-unilateral": {
+    "youtube_id": "YyvSfVjQeL0",
+    "original": "EFo0r0DLNg8",
+    "pool": "legs"
+  },
+  "run-zancada-laterales": {
+    "youtube_id": "ultWZbUMPL8",
+    "original": "lqaBR_F5TTg",
+    "pool": "legs"
+  },
+  "run-puente-glúteo": {
+    "youtube_id": "U3HlEF_E9fo",
+    "original": "Mwzd6PnyMIA",
+    "pool": "legs"
+  },
+  "run-puente-unilateral": {
+    "youtube_id": "SW_C1A-rejs",
+    "original": "yZW3JcwwBwU",
+    "pool": "legs"
+  },
+  "run-clamshells": {
+    "youtube_id": "Dy28eq2PjcM",
+    "original": "QQpHKxbsmMk",
+    "pool": "legs"
+  },
+  "run-monster-walk": {
+    "youtube_id": "op9kVnSso6Q",
+    "original": "OLtZ73DVw4U",
+    "pool": "legs"
+  },
+  "run-bunny-hops": {
+    "youtube_id": "1uDiW5--rAE",
+    "original": "ZjRKGMZGv0c",
+    "pool": "legs"
+  },
+  "run-pogo-hops": {
+    "youtube_id": "IZxyjW7MPJQ",
+    "original": "tF1Y6m7qd4Y",
+    "pool": "legs"
+  },
+  "run-a-skip": {
+    "youtube_id": "ZZZoCNMU48U",
+    "original": "ESxV2cKTjm8",
+    "pool": "cardio"
+  },
+  "run-b-skip": {
+    "youtube_id": "c4DAnQ6DtF8",
+    "original": "y0ZoIMpA7kY",
+    "pool": "cardio"
+  },
+  "run-c-skip": {
+    "youtube_id": "ZZZoCNMU48U",
+    "original": "_nuLfP6q5Zw",
+    "pool": "cardio"
+  },
+  "run-acelaracion-progresiva": {
+    "youtube_id": "c4DAnQ6DtF8",
+    "original": "gImEQwtLJqo",
+    "pool": "cardio"
+  },
+  "run-zancada-cuesta": {
+    "youtube_id": "YyvSfVjQeL0",
+    "original": "1u_VJM8lCKw",
+    "pool": "legs"
+  },
+  "run-saltos-caja-multiple": {
+    "youtube_id": "oAPCPjnU1wA",
+    "original": "_FbJX7gLA8M",
+    "pool": "legs"
+  },
+  "run-step-down": {
+    "youtube_id": "YyvSfVjQeL0",
+    "original": "j-AhaOpNVHo",
+    "pool": "legs"
+  },
+  "run-paso-saltado": {
+    "youtube_id": "ZZZoCNMU48U",
+    "original": "v-VZksBjtm4",
+    "pool": "cardio"
+  },
+  "run-rotacion-tronco": {
+    "youtube_id": "ASdvN_XEl_c",
+    "original": "DTC9qhgXLrY",
+    "pool": "core"
+  },
+  "run-toe-yoga": {
+    "youtube_id": "c4DAnQ6DtF8",
+    "original": "cs4U-zCk9w0",
+    "pool": "cardio"
+  },
+  "run-dynamic-warmup": {
+    "youtube_id": "ZZZoCNMU48U",
+    "original": "qK-7wo8jWk0",
+    "pool": "cardio"
+  },
+  "run-cooldown": {
+    "youtube_id": "c4DAnQ6DtF8",
+    "original": "lWGmkmcONA0",
+    "pool": "cardio"
+  },
+  "run-foam-roll": {
+    "youtube_id": "ZZZoCNMU48U",
+    "original": "5fXGuy1KhWk",
+    "pool": "cardio"
+  },
+  "run-prensa-unilateral": {
+    "youtube_id": "ultWZbUMPL8",
+    "original": "5Rr3oNZtvqQ",
+    "pool": "legs"
+  },
+  "run-banded-march": {
+    "youtube_id": "c4DAnQ6DtF8",
+    "original": "-_6M9NBT3WM",
+    "pool": "cardio"
+  },
+  "run-banded-monster": {
+    "youtube_id": "ZZZoCNMU48U",
+    "original": "OLtZ73DVw4U",
+    "pool": "cardio"
+  },
+  "run-runners-stretch": {
+    "youtube_id": "c4DAnQ6DtF8",
+    "original": "-OxsJrQmkPM",
+    "pool": "cardio"
+  },
+  "run-zancada-reversa": {
+    "youtube_id": "U3HlEF_E9fo",
+    "original": "1c2X7zNkEGw",
+    "pool": "legs"
+  },
+  "preg-kegel": {
+    "youtube_id": "nmwgirgXLYM",
+    "original": "QklbBfLIIv0",
+    "pool": "core"
+  },
+  "preg-bisagra-cadera": {
+    "youtube_id": "SW_C1A-rejs",
+    "original": "U7bb4dfsqSw",
+    "pool": "legs"
+  },
+  "preg-sentadilla-asistida": {
+    "youtube_id": "Dy28eq2PjcM",
+    "original": "b1gj0r-aaKc",
+    "pool": "legs"
+  },
+  "preg-puente-modificado": {
+    "youtube_id": "op9kVnSso6Q",
+    "original": "lo38Y-nJrLE",
+    "pool": "legs"
+  },
+  "preg-gato-vaca": {
+    "youtube_id": "XxWcirHIwVo",
+    "original": "y_C9CNJDfMk",
+    "pool": "back"
+  },
+  "preg-pelota-suiza-puente": {
+    "youtube_id": "1uDiW5--rAE",
+    "original": "Q4tj7QoxwnQ",
+    "pool": "legs"
+  },
+  "preg-pelota-rotacion": {
+    "youtube_id": "JB2oyawG9KI",
+    "original": "DJg2wOK86eY",
+    "pool": "core"
+  },
+  "preg-aductor-suave": {
+    "youtube_id": "IZxyjW7MPJQ",
+    "original": "QQpHKxbsmMk",
+    "pool": "legs"
+  },
+  "preg-lateral-leg-lift": {
+    "youtube_id": "YyvSfVjQeL0",
+    "original": "L5vPDVkSqYw",
+    "pool": "legs"
+  },
+  "preg-clamshell-suave": {
+    "youtube_id": "oAPCPjnU1wA",
+    "original": "QQpHKxbsmMk",
+    "pool": "legs"
+  },
+  "preg-marcha-silla": {
+    "youtube_id": "ZZZoCNMU48U",
+    "original": "M2Hgnh6kzNk",
+    "pool": "cardio"
+  },
+  "preg-elevacion-talon": {
+    "youtube_id": "YyvSfVjQeL0",
+    "original": "Lkua1aTJxcQ",
+    "pool": "legs"
+  },
+  "preg-cadera-flexor-stretch": {
+    "youtube_id": "wkD8rjkodUI",
+    "original": "FYKQHfJg4ww",
+    "pool": "core"
+  },
+  "preg-mariposa-stretch": {
+    "youtube_id": "auBLPXO8Fww",
+    "original": "tD9xlc9gyW4",
+    "pool": "core"
+  },
+  "preg-rotacion-hombros": {
+    "youtube_id": "qEwKCR5JCog",
+    "original": "L83x4xjr-Ec",
+    "pool": "shoulders"
+  },
+  "preg-hombro-stretch": {
+    "youtube_id": "Xyd_fa5zoEU",
+    "original": "vMI93gB1xcs",
+    "pool": "core"
+  },
+  "preg-cuello-stretch": {
+    "youtube_id": "pSHjTRCQxIw",
+    "original": "vMI93gB1xcs",
+    "pool": "core"
+  },
+  "preg-pared-flexion": {
+    "youtube_id": "gRVjAtPip0Y",
+    "original": "nXMonWtYjvA",
+    "pool": "chest"
+  },
+  "preg-press-banda": {
+    "youtube_id": "LfyQBUKR8SE",
+    "original": "lt9pixmhNO0",
+    "pool": "chest"
+  },
+  "preg-mariposa-respiracion": {
+    "youtube_id": "ASdvN_XEl_c",
+    "original": "1cNthsKD9Yg",
+    "pool": "core"
+  },
+  "preg-postura-recuperacion": {
+    "youtube_id": "CAwf7n6Luuc",
+    "original": "1cNthsKD9Yg",
+    "pool": "back"
+  },
+  "preg-camino-controlado": {
+    "youtube_id": "c4DAnQ6DtF8",
+    "original": "GQHhpzRTUBE",
+    "pool": "cardio"
+  },
+  "preg-pelota-rebote": {
+    "youtube_id": "nmwgirgXLYM",
+    "original": "DJg2wOK86eY",
+    "pool": "core"
+  },
+  "preg-piscina-caminar": {
+    "youtube_id": "ZZZoCNMU48U",
+    "original": "9aYBGppcyW0",
+    "pool": "cardio"
+  },
+  "preg-natacion-suave": {
+    "youtube_id": "c4DAnQ6DtF8",
+    "original": "Gh-mWVlV-N8",
+    "pool": "cardio"
+  },
+  "preg-pose-nino": {
+    "youtube_id": "JB2oyawG9KI",
+    "original": "kH7AwdTsGN8",
+    "pool": "core"
+  },
+  "preg-glutes-fire-hydrant": {
+    "youtube_id": "ultWZbUMPL8",
+    "original": "5wXFWCb9OfQ",
+    "pool": "legs"
+  },
+  "preg-respiracion-diafragmatica": {
+    "youtube_id": "wkD8rjkodUI",
+    "original": "PZhqyZqyo0Y",
+    "pool": "core"
+  },
+  "preg-pelota-press-pared": {
+    "youtube_id": "IODxDxX7oi4",
+    "original": "nXMonWtYjvA",
+    "pool": "chest"
+  },
+  "preg-rotacion-cadera": {
+    "youtube_id": "auBLPXO8Fww",
+    "original": "DJg2wOK86eY",
+    "pool": "core"
+  },
+  "preg-piernas-pared": {
+    "youtube_id": "Xyd_fa5zoEU",
+    "original": "RcvVnAWdDW0",
+    "pool": "core"
+  },
+  "preg-marcha-de-pie": {
+    "youtube_id": "ZZZoCNMU48U",
+    "original": "qK-7wo8jWk0",
+    "pool": "cardio"
+  },
+  "preg-sentadilla-pelota": {
+    "youtube_id": "U3HlEF_E9fo",
+    "original": "b1gj0r-aaKc",
+    "pool": "legs"
+  },
+  "preg-pelvic-tilt": {
+    "youtube_id": "pSHjTRCQxIw",
+    "original": "Hzz8fmcW7Hk",
+    "pool": "core"
+  },
+  "preg-yoga-flow": {
+    "youtube_id": "ASdvN_XEl_c",
+    "original": "1U6q8xtcgWk",
+    "pool": "core"
+  },
+  "stretch-isquios-pie": {
+    "youtube_id": "eqVMAPM00DM",
+    "original": "8gBO7QFOK0g",
+    "pool": "stretching"
+  },
+  "stretch-isquios-suelo": {
+    "youtube_id": "kqnua4rHVVA",
+    "original": "FvCgs3KzaCw",
+    "pool": "stretching"
+  },
+  "stretch-cuadriceps-pie": {
+    "youtube_id": "eqVMAPM00DM",
+    "original": "h3OWwrQE_-w",
+    "pool": "stretching"
+  },
+  "stretch-cuadriceps-tumbado": {
+    "youtube_id": "kqnua4rHVVA",
+    "original": "FK4cPONa2C8",
+    "pool": "stretching"
+  },
+  "stretch-gemelos-pared": {
+    "youtube_id": "eqVMAPM00DM",
+    "original": "vQQOiL5hUIs",
+    "pool": "stretching"
+  },
+  "stretch-soleo": {
+    "youtube_id": "kqnua4rHVVA",
+    "original": "vQQOiL5hUIs",
+    "pool": "stretching"
+  },
+  "stretch-flexor-cadera": {
+    "youtube_id": "eqVMAPM00DM",
+    "original": "FYKQHfJg4ww",
+    "pool": "stretching"
+  },
+  "stretch-piriforme": {
+    "youtube_id": "kqnua4rHVVA",
+    "original": "WHEadWFa7tY",
+    "pool": "stretching"
+  },
+  "stretch-mariposa": {
+    "youtube_id": "eqVMAPM00DM",
+    "original": "tD9xlc9gyW4",
+    "pool": "stretching"
+  },
+  "stretch-pareja-piernas": {
+    "youtube_id": "kqnua4rHVVA",
+    "original": "FvCgs3KzaCw",
+    "pool": "stretching"
+  },
+  "stretch-cobra": {
+    "youtube_id": "eqVMAPM00DM",
+    "original": "kJoIRGY-Bjk",
+    "pool": "stretching"
+  },
+  "stretch-nino": {
+    "youtube_id": "kqnua4rHVVA",
+    "original": "kH7AwdTsGN8",
+    "pool": "stretching"
+  },
+  "stretch-perro-cabeza-abajo": {
+    "youtube_id": "eqVMAPM00DM",
+    "original": "v3MmBIUXk8E",
+    "pool": "stretching"
+  },
+  "stretch-hombros-cruzado": {
+    "youtube_id": "kqnua4rHVVA",
+    "original": "vMI93gB1xcs",
+    "pool": "stretching"
+  },
+  "stretch-triceps": {
+    "youtube_id": "eqVMAPM00DM",
+    "original": "wYsmKUTVgCk",
+    "pool": "stretching"
+  },
+  "stretch-pecho-marco": {
+    "youtube_id": "kqnua4rHVVA",
+    "original": "vMI93gB1xcs",
+    "pool": "stretching"
+  },
+  "stretch-cuello-lateral": {
+    "youtube_id": "eqVMAPM00DM",
+    "original": "vMI93gB1xcs",
+    "pool": "stretching"
+  },
+  "stretch-cuello-rotacion": {
+    "youtube_id": "kqnua4rHVVA",
+    "original": "vMI93gB1xcs",
+    "pool": "stretching"
+  },
+  "stretch-espalda-rotacion": {
+    "youtube_id": "eqVMAPM00DM",
+    "original": "1iaxqQ7AYzU",
+    "pool": "stretching"
+  },
+  "stretch-gato-vaca": {
+    "youtube_id": "kqnua4rHVVA",
+    "original": "y_C9CNJDfMk",
+    "pool": "stretching"
+  },
+  "stretch-yoga-warrior": {
+    "youtube_id": "eqVMAPM00DM",
+    "original": "kEC9aUeoY1w",
+    "pool": "stretching"
+  },
+  "stretch-yoga-triangulo": {
+    "youtube_id": "kqnua4rHVVA",
+    "original": "fLymN9VDhh4",
+    "pool": "stretching"
+  },
+  "stretch-paloma": {
+    "youtube_id": "eqVMAPM00DM",
+    "original": "F4wZ8s_24K0",
+    "pool": "stretching"
+  },
+  "stretch-mecedora-tobillos": {
+    "youtube_id": "kqnua4rHVVA",
+    "original": "8XfktzKBvuc",
+    "pool": "stretching"
+  },
+  "stretch-sentado-90-90": {
+    "youtube_id": "eqVMAPM00DM",
+    "original": "OBnfGqx9hWM",
+    "pool": "stretching"
+  },
+  "stretch-press-pared-rotacion": {
+    "youtube_id": "kqnua4rHVVA",
+    "original": "vMI93gB1xcs",
+    "pool": "stretching"
+  },
+  "stretch-figura-4": {
+    "youtube_id": "eqVMAPM00DM",
+    "original": "WHEadWFa7tY",
+    "pool": "stretching"
+  },
+  "stretch-banda-isquios": {
+    "youtube_id": "kqnua4rHVVA",
+    "original": "8gBO7QFOK0g",
+    "pool": "stretching"
+  },
+  "stretch-supino-twist": {
+    "youtube_id": "eqVMAPM00DM",
+    "original": "1iaxqQ7AYzU",
+    "pool": "stretching"
+  },
+  "stretch-banda-cuadriceps": {
+    "youtube_id": "kqnua4rHVVA",
+    "original": "FK4cPONa2C8",
+    "pool": "stretching"
+  },
+  "stretch-pose-camello": {
+    "youtube_id": "eqVMAPM00DM",
+    "original": "I3CAQO_oa0w",
+    "pool": "stretching"
+  },
+  "stretch-mariposa-tumbado": {
+    "youtube_id": "kqnua4rHVVA",
+    "original": "tD9xlc9gyW4",
+    "pool": "stretching"
+  },
+  "stretch-piernas-pared-rec": {
+    "youtube_id": "eqVMAPM00DM",
+    "original": "RcvVnAWdDW0",
+    "pool": "stretching"
+  },
+  "stretch-flexion-lateral": {
+    "youtube_id": "kqnua4rHVVA",
+    "original": "Vfb8jYwDV-A",
+    "pool": "stretching"
+  },
+  "stretch-banda-hombros": {
+    "youtube_id": "eqVMAPM00DM",
+    "original": "L83x4xjr-Ec",
+    "pool": "stretching"
+  },
+  "stretch-oracion": {
+    "youtube_id": "kqnua4rHVVA",
+    "original": "kH7AwdTsGN8",
+    "pool": "stretching"
+  },
+  "stretch-isquios-banda-tumbado": {
+    "youtube_id": "eqVMAPM00DM",
+    "original": "8gBO7QFOK0g",
+    "pool": "stretching"
+  },
+  "stretch-cobra-rotacion": {
+    "youtube_id": "kqnua4rHVVA",
+    "original": "kJoIRGY-Bjk",
+    "pool": "stretching"
+  },
+  "stretch-rutina-completa": {
+    "youtube_id": "eqVMAPM00DM",
+    "original": "MHTtMTNUYkc",
+    "pool": "stretching"
+  },
+  "mob-cat-cow-flow": {
+    "youtube_id": "kqnua4rHVVA",
+    "original": "y_C9CNJDfMk",
+    "pool": "stretching"
+  },
+  "mob-thoracic-rotation": {
+    "youtube_id": "eqVMAPM00DM",
+    "original": "I0KxEztQGFU",
+    "pool": "stretching"
+  },
+  "mob-world-greatest-stretch": {
+    "youtube_id": "kqnua4rHVVA",
+    "original": "kRA-BzqGLLU",
+    "pool": "stretching"
+  },
+  "mob-lunge-rotation": {
+    "youtube_id": "eqVMAPM00DM",
+    "original": "DFvKZWj8wOA",
+    "pool": "stretching"
+  },
+  "mob-90-90-transition": {
+    "youtube_id": "kqnua4rHVVA",
+    "original": "OBnfGqx9hWM",
+    "pool": "stretching"
+  },
+  "mob-cossack-squat": {
+    "youtube_id": "eqVMAPM00DM",
+    "original": "JYMq3vnrFvw",
+    "pool": "stretching"
+  },
+  "mob-deep-squat-hold": {
+    "youtube_id": "kqnua4rHVVA",
+    "original": "k2ImDM93SEI",
+    "pool": "stretching"
+  },
+  "mob-hip-cars": {
+    "youtube_id": "eqVMAPM00DM",
+    "original": "WtBhE4rYxWQ",
+    "pool": "stretching"
+  },
+  "mob-shoulder-cars": {
+    "youtube_id": "3VcKaXpzqRo",
+    "original": "L83x4xjr-Ec",
+    "pool": "shoulders"
+  },
+  "mob-spine-cars": {
+    "youtube_id": "kqnua4rHVVA",
+    "original": "QDg0vWxuYaY",
+    "pool": "stretching"
+  },
+  "mob-jefferson-curl": {
+    "youtube_id": "eqVMAPM00DM",
+    "original": "z02Bl8dl-uA",
+    "pool": "stretching"
+  },
+  "mob-shin-stretch": {
+    "youtube_id": "kqnua4rHVVA",
+    "original": "Cy8BJtVMkcc",
+    "pool": "stretching"
+  },
+  "mob-ankle-rocks": {
+    "youtube_id": "eqVMAPM00DM",
+    "original": "8XfktzKBvuc",
+    "pool": "stretching"
+  },
+  "mob-pigeon-active": {
+    "youtube_id": "kqnua4rHVVA",
+    "original": "F4wZ8s_24K0",
+    "pool": "stretching"
+  },
+  "mob-banded-distraction-hip": {
+    "youtube_id": "eqVMAPM00DM",
+    "original": "Q0JN7gUMVic",
+    "pool": "stretching"
+  },
+  "mob-shoulder-banded-passes": {
+    "youtube_id": "-t7fuZ0KhDA",
+    "original": "L83x4xjr-Ec",
+    "pool": "shoulders"
+  },
+  "mob-wall-slides": {
+    "youtube_id": "hRJ6tR5-if0",
+    "original": "1bg9-mFwhNI",
+    "pool": "shoulders"
+  },
+  "mob-prone-y-w-t": {
+    "youtube_id": "rep-qVOkqgk",
+    "original": "Z1lf08RRpqM",
+    "pool": "shoulders"
+  },
+  "mob-thoracic-extension-roll": {
+    "youtube_id": "kqnua4rHVVA",
+    "original": "RP1nuHB1OIY",
+    "pool": "stretching"
+  },
+  "mob-couch-stretch": {
+    "youtube_id": "eqVMAPM00DM",
+    "original": "FYKQHfJg4ww",
+    "pool": "stretching"
+  },
+  "mob-banded-shoulder-dislocates": {
+    "youtube_id": "2yjwXTZQDDI",
+    "original": "L83x4xjr-Ec",
+    "pool": "shoulders"
+  },
+  "mob-scorpion-stretch": {
+    "youtube_id": "kqnua4rHVVA",
+    "original": "1iaxqQ7AYzU",
+    "pool": "stretching"
+  },
+  "mob-spiderman-walks": {
+    "youtube_id": "eqVMAPM00DM",
+    "original": "DFvKZWj8wOA",
+    "pool": "stretching"
+  },
+  "mob-childs-pose-flow": {
+    "youtube_id": "vT2GjY_Umpw",
+    "original": "kH7AwdTsGN8",
+    "pool": "back"
+  },
+  "mob-thread-the-needle": {
+    "youtube_id": "kqnua4rHVVA",
+    "original": "1iaxqQ7AYzU",
+    "pool": "stretching"
+  },
+  "mob-sumo-squat-hold": {
+    "youtube_id": "eqVMAPM00DM",
+    "original": "k2ImDM93SEI",
+    "pool": "stretching"
+  },
+  "mob-frog-stretch": {
+    "youtube_id": "SW_C1A-rejs",
+    "original": "g4TKj3KCqsg",
+    "pool": "legs"
+  },
+  "mob-side-lunge-flow": {
+    "youtube_id": "kqnua4rHVVA",
+    "original": "lqaBR_F5TTg",
+    "pool": "stretching"
+  },
+  "mob-leg-swings-front": {
+    "youtube_id": "eqVMAPM00DM",
+    "original": "_C8H8GnL1Yo",
+    "pool": "stretching"
+  },
+  "mob-leg-swings-side": {
+    "youtube_id": "kqnua4rHVVA",
+    "original": "_C8H8GnL1Yo",
+    "pool": "stretching"
+  },
+  "mob-arm-circles": {
+    "youtube_id": "B-aVuyhvLHU",
+    "original": "L83x4xjr-Ec",
+    "pool": "shoulders"
+  },
+  "mob-sciatica-stretch": {
+    "youtube_id": "FWJR5Ve8bnQ",
+    "original": "WHEadWFa7tY",
+    "pool": "back"
+  },
+  "mob-banded-ankle-mob": {
+    "youtube_id": "eqVMAPM00DM",
+    "original": "8XfktzKBvuc",
+    "pool": "stretching"
+  },
+  "mob-hand-wrist-flow": {
+    "youtube_id": "kqnua4rHVVA",
+    "original": "GJDSNPZ4DqM",
+    "pool": "stretching"
+  },
+  "mob-foam-glutes": {
+    "youtube_id": "Dy28eq2PjcM",
+    "original": "TpGW7y9JHsk",
+    "pool": "legs"
+  },
+  "mob-foam-back": {
+    "youtube_id": "G8l_8chR5BE",
+    "original": "RP1nuHB1OIY",
+    "pool": "back"
+  },
+  "mob-lacrosse-glute": {
+    "youtube_id": "op9kVnSso6Q",
+    "original": "TpGW7y9JHsk",
+    "pool": "legs"
+  },
+  "mob-banded-good-morning": {
+    "youtube_id": "eqVMAPM00DM",
+    "original": "fM26pTvRyZ4",
+    "pool": "stretching"
+  },
+  "mob-rutina-mananera": {
+    "youtube_id": "kqnua4rHVVA",
+    "original": "QDg0vWxuYaY",
+    "pool": "stretching"
+  },
+  "pil-the-hundred": {
+    "youtube_id": "nmwgirgXLYM",
+    "original": "wd1m5HXsLM4",
+    "pool": "core"
+  },
+  "pil-roll-up": {
+    "youtube_id": "JB2oyawG9KI",
+    "original": "p_lEIu3K7nE",
+    "pool": "core"
+  },
+  "pil-roll-over": {
+    "youtube_id": "wkD8rjkodUI",
+    "original": "AYUNa3KqKVM",
+    "pool": "core"
+  },
+  "pil-single-leg-circles": {
+    "youtube_id": "eqVMAPM00DM",
+    "original": "S5LhmJYobYU",
+    "pool": "stretching"
+  },
+  "pil-single-leg-stretch": {
+    "youtube_id": "auBLPXO8Fww",
+    "original": "VFxaRYcNNEs",
+    "pool": "core"
+  },
+  "pil-double-leg-stretch": {
+    "youtube_id": "Xyd_fa5zoEU",
+    "original": "lL2SjB-bbBk",
+    "pool": "core"
+  },
+  "pil-criss-cross": {
+    "youtube_id": "pSHjTRCQxIw",
+    "original": "VifYDTLAa5o",
+    "pool": "core"
+  },
+  "pil-spine-stretch": {
+    "youtube_id": "T3N-TO4reLQ",
+    "original": "uMtoRxiZqMw",
+    "pool": "back"
+  },
+  "pil-saw": {
+    "youtube_id": "r4MzxtBKyNE",
+    "original": "9pwdJ2XzmFg",
+    "pool": "back"
+  },
+  "pil-swan": {
+    "youtube_id": "AweC3UaM14o",
+    "original": "kJoIRGY-Bjk",
+    "pool": "back"
+  },
+  "pil-single-leg-kick": {
+    "youtube_id": "1uDiW5--rAE",
+    "original": "Yp4Xtv5BBhg",
+    "pool": "legs"
+  },
+  "pil-double-leg-kick": {
+    "youtube_id": "0oeIB6wi3es",
+    "original": "Mt5tqMFvFGw",
+    "pool": "back"
+  },
+  "pil-neck-pull": {
+    "youtube_id": "ASdvN_XEl_c",
+    "original": "p_lEIu3K7nE",
+    "pool": "core"
+  },
+  "pil-shoulder-bridge": {
+    "youtube_id": "IZxyjW7MPJQ",
+    "original": "Mwzd6PnyMIA",
+    "pool": "legs"
+  },
+  "pil-spine-twist": {
+    "youtube_id": "nmwgirgXLYM",
+    "original": "1iaxqQ7AYzU",
+    "pool": "core"
+  },
+  "pil-jacknife": {
+    "youtube_id": "JB2oyawG9KI",
+    "original": "AYUNa3KqKVM",
+    "pool": "core"
+  },
+  "pil-sidekick-series": {
+    "youtube_id": "YyvSfVjQeL0",
+    "original": "VtGTd4MYK_M",
+    "pool": "legs"
+  },
+  "pil-teaser": {
+    "youtube_id": "wkD8rjkodUI",
+    "original": "uXKChhGc--I",
+    "pool": "core"
+  },
+  "pil-side-bend": {
+    "youtube_id": "auBLPXO8Fww",
+    "original": "Vfb8jYwDV-A",
+    "pool": "core"
+  },
+  "pil-boomerang": {
+    "youtube_id": "Xyd_fa5zoEU",
+    "original": "uXKChhGc--I",
+    "pool": "core"
+  },
+  "pil-corkscrew": {
+    "youtube_id": "pSHjTRCQxIw",
+    "original": "S5LhmJYobYU",
+    "pool": "core"
+  },
+  "pil-control-balance": {
+    "youtube_id": "ASdvN_XEl_c",
+    "original": "AYUNa3KqKVM",
+    "pool": "core"
+  },
+  "pil-pelvic-curl": {
+    "youtube_id": "oAPCPjnU1wA",
+    "original": "Mwzd6PnyMIA",
+    "pool": "legs"
+  },
+  "pil-clam": {
+    "youtube_id": "YyvSfVjQeL0",
+    "original": "QQpHKxbsmMk",
+    "pool": "legs"
+  },
+  "pil-hip-roll": {
+    "youtube_id": "nmwgirgXLYM",
+    "original": "1iaxqQ7AYzU",
+    "pool": "core"
+  },
+  "pil-marching": {
+    "youtube_id": "JB2oyawG9KI",
+    "original": "M2Hgnh6kzNk",
+    "pool": "core"
+  },
+  "pil-bridge-march": {
+    "youtube_id": "ultWZbUMPL8",
+    "original": "Mwzd6PnyMIA",
+    "pool": "legs"
+  },
+  "pil-side-leg-lift": {
+    "youtube_id": "U3HlEF_E9fo",
+    "original": "L5vPDVkSqYw",
+    "pool": "legs"
+  },
+  "pil-mermaid": {
+    "youtube_id": "kqnua4rHVVA",
+    "original": "Vfb8jYwDV-A",
+    "pool": "stretching"
+  },
+  "pil-cat-stretch": {
+    "youtube_id": "eGo4IYlbE5g",
+    "original": "y_C9CNJDfMk",
+    "pool": "back"
+  },
+  "pad-sentadilla-pliometrica": {
+    "youtube_id": "SW_C1A-rejs",
+    "original": "U0pVAA6mGZ8",
+    "pool": "legs"
+  },
+  "pad-skater-jumps": {
+    "youtube_id": "Dy28eq2PjcM",
+    "original": "yz3qsRdJK1Y",
+    "pool": "legs"
+  },
+  "pad-zancada-lateral": {
+    "youtube_id": "op9kVnSso6Q",
+    "original": "lqaBR_F5TTg",
+    "pool": "legs"
+  },
+  "pad-sentadilla-lateral": {
+    "youtube_id": "1uDiW5--rAE",
+    "original": "yz3qsRdJK1Y",
+    "pool": "legs"
+  },
+  "pad-rotacion-medicina": {
+    "youtube_id": "wkD8rjkodUI",
+    "original": "DTC9qhgXLrY",
+    "pool": "core"
+  },
+  "pad-lanzamiento-pared": {
+    "youtube_id": "qEwKCR5JCog",
+    "original": "S2Q8oGSr08U",
+    "pool": "shoulders"
+  },
+  "pad-pasos-rapidos": {
+    "youtube_id": "c4DAnQ6DtF8",
+    "original": "mNKZ8YGZGvY",
+    "pool": "cardio"
+  },
+  "pad-multiples-direcciones": {
+    "youtube_id": "ZZZoCNMU48U",
+    "original": "YlVnY8wNoMI",
+    "pool": "cardio"
+  },
+  "pad-sprint-corto": {
+    "youtube_id": "c4DAnQ6DtF8",
+    "original": "qK-7wo8jWk0",
+    "pool": "cardio"
+  },
+  "pad-banda-rotacion-externa": {
+    "youtube_id": "3VcKaXpzqRo",
+    "original": "VmIkP4bYMTU",
+    "pool": "shoulders"
+  },
+  "pad-banda-rotacion-interna": {
+    "youtube_id": "-t7fuZ0KhDA",
+    "original": "VmIkP4bYMTU",
+    "pool": "shoulders"
+  },
+  "pad-flexion-explosiva": {
+    "youtube_id": "0pkjOk0EiAk",
+    "original": "C1tdoKaSPMM",
+    "pool": "chest"
+  },
+  "pad-clap-pushup": {
+    "youtube_id": "2z8JmcrW-As",
+    "original": "C1tdoKaSPMM",
+    "pool": "chest"
+  },
+  "pad-saltos-laterales-conos": {
+    "youtube_id": "ZZZoCNMU48U",
+    "original": "yz3qsRdJK1Y",
+    "pool": "cardio"
+  },
+  "pad-rotacion-trono": {
+    "youtube_id": "auBLPXO8Fww",
+    "original": "DTC9qhgXLrY",
+    "pool": "core"
+  },
+  "pad-puente-cadera": {
+    "youtube_id": "IZxyjW7MPJQ",
+    "original": "Mwzd6PnyMIA",
+    "pool": "legs"
+  },
+  "pad-zancada-rotacion-padel": {
+    "youtube_id": "Xyd_fa5zoEU",
+    "original": "DFvKZWj8wOA",
+    "pool": "core"
+  },
+  "pad-paso-largo-rapido": {
+    "youtube_id": "pSHjTRCQxIw",
+    "original": "qK-7wo8jWk0",
+    "pool": "core"
+  },
+  "pad-empuñadura": {
+    "youtube_id": "ASdvN_XEl_c",
+    "original": "GJDSNPZ4DqM",
+    "pool": "core"
+  },
+  "pad-muneca-flexion": {
+    "youtube_id": "nmwgirgXLYM",
+    "original": "f1y_PIz_xc8",
+    "pool": "core"
+  },
+  "pad-muneca-extension": {
+    "youtube_id": "JB2oyawG9KI",
+    "original": "f1y_PIz_xc8",
+    "pool": "core"
+  },
+  "pad-saltos-asimetricos": {
+    "youtube_id": "YyvSfVjQeL0",
+    "original": "uHKLbQRYbS0",
+    "pool": "legs"
+  },
+  "pad-defensa-rapida": {
+    "youtube_id": "oAPCPjnU1wA",
+    "original": "mNKZ8YGZGvY",
+    "pool": "legs"
+  },
+  "pad-warmup-padel": {
+    "youtube_id": "c4DAnQ6DtF8",
+    "original": "qK-7wo8jWk0",
+    "pool": "cardio"
+  },
+  "pad-cooldown-padel": {
+    "youtube_id": "wkD8rjkodUI",
+    "original": "MHTtMTNUYkc",
+    "pool": "core"
+  },
+  "pad-pase-medicina": {
+    "youtube_id": "auBLPXO8Fww",
+    "original": "S2Q8oGSr08U",
+    "pool": "core"
+  },
+  "pad-circuito-padel": {
+    "youtube_id": "Xyd_fa5zoEU",
+    "original": "qK-7wo8jWk0",
+    "pool": "core"
+  },
+  "fut-sprint": {
+    "youtube_id": "ZZZoCNMU48U",
+    "original": "qK-7wo8jWk0",
+    "pool": "cardio"
+  },
+  "fut-sprint-curva": {
+    "youtube_id": "c4DAnQ6DtF8",
+    "original": "qK-7wo8jWk0",
+    "pool": "cardio"
+  },
+  "fut-acelerar-frenar": {
+    "youtube_id": "ZZZoCNMU48U",
+    "original": "YlVnY8wNoMI",
+    "pool": "cardio"
+  },
+  "fut-lanzaderas": {
+    "youtube_id": "c4DAnQ6DtF8",
+    "original": "YlVnY8wNoMI",
+    "pool": "cardio"
+  },
+  "fut-zigzag-conos": {
+    "youtube_id": "pSHjTRCQxIw",
+    "original": "YlVnY8wNoMI",
+    "pool": "core"
+  },
+  "fut-escalera-agilidad": {
+    "youtube_id": "ASdvN_XEl_c",
+    "original": "S5G2gpC2Ry4",
+    "pool": "core"
+  },
+  "fut-saltos-vallas": {
+    "youtube_id": "ZZZoCNMU48U",
+    "original": "_FbJX7gLA8M",
+    "pool": "cardio"
+  },
+  "fut-sentadilla-salto": {
+    "youtube_id": "YyvSfVjQeL0",
+    "original": "U0pVAA6mGZ8",
+    "pool": "legs"
+  },
+  "fut-lunge-salto": {
+    "youtube_id": "ultWZbUMPL8",
+    "original": "0AvF7E1sXRo",
+    "pool": "legs"
+  },
+  "fut-saltos-uno-pie": {
+    "youtube_id": "U3HlEF_E9fo",
+    "original": "uHKLbQRYbS0",
+    "pool": "legs"
+  },
+  "fut-skipping-rodilla": {
+    "youtube_id": "c4DAnQ6DtF8",
+    "original": "YHNI8qLBjZA",
+    "pool": "cardio"
+  },
+  "fut-talones-glutes": {
+    "youtube_id": "ZZZoCNMU48U",
+    "original": "9-Bjk4LnEwY",
+    "pool": "cardio"
+  },
+  "fut-defensor-postura": {
+    "youtube_id": "SW_C1A-rejs",
+    "original": "mNKZ8YGZGvY",
+    "pool": "legs"
+  },
+  "fut-cambio-direccion": {
+    "youtube_id": "nmwgirgXLYM",
+    "original": "YlVnY8wNoMI",
+    "pool": "core"
+  },
+  "fut-disparo-isometrico": {
+    "youtube_id": "Dy28eq2PjcM",
+    "original": "1c2X7zNkEGw",
+    "pool": "legs"
+  },
+  "fut-aductores-banda": {
+    "youtube_id": "op9kVnSso6Q",
+    "original": "QQpHKxbsmMk",
+    "pool": "legs"
+  },
+  "fut-abductores-banda": {
+    "youtube_id": "1uDiW5--rAE",
+    "original": "QQpHKxbsmMk",
+    "pool": "legs"
+  },
+  "fut-nordic-curl": {
+    "youtube_id": "JB2oyawG9KI",
+    "original": "Mu5tDhvI1qY",
+    "pool": "core"
+  },
+  "fut-puente-glutes": {
+    "youtube_id": "IZxyjW7MPJQ",
+    "original": "Mwzd6PnyMIA",
+    "pool": "legs"
+  },
+  "fut-puente-pierna-uno": {
+    "youtube_id": "YyvSfVjQeL0",
+    "original": "yZW3JcwwBwU",
+    "pool": "legs"
+  },
+  "fut-sentadilla-frontal-fut": {
+    "youtube_id": "oAPCPjnU1wA",
+    "original": "uYumuL_G4Vo",
+    "pool": "legs"
+  },
+  "fut-saltos-vallas-laterales": {
+    "youtube_id": "YyvSfVjQeL0",
+    "original": "_FbJX7gLA8M",
+    "pool": "legs"
+  },
+  "fut-pasos-cono-rapido": {
+    "youtube_id": "wkD8rjkodUI",
+    "original": "S5G2gpC2Ry4",
+    "pool": "core"
+  },
+  "fut-rotacion-tronco-fut": {
+    "youtube_id": "auBLPXO8Fww",
+    "original": "DTC9qhgXLrY",
+    "pool": "core"
+  },
+  "fut-lunge-rotacion-fut": {
+    "youtube_id": "Xyd_fa5zoEU",
+    "original": "DFvKZWj8wOA",
+    "pool": "core"
+  },
+  "fut-arrancadas-cono": {
+    "youtube_id": "c4DAnQ6DtF8",
+    "original": "qK-7wo8jWk0",
+    "pool": "cardio"
+  },
+  "fut-cabezazo-isometrico": {
+    "youtube_id": "pSHjTRCQxIw",
+    "original": "rkLxmsIz7eU",
+    "pool": "core"
+  },
+  "fut-warmup-fut": {
+    "youtube_id": "ZZZoCNMU48U",
+    "original": "qK-7wo8jWk0",
+    "pool": "cardio"
+  },
+  "fut-cooldown-fut": {
+    "youtube_id": "ASdvN_XEl_c",
+    "original": "MHTtMTNUYkc",
+    "pool": "core"
+  },
+  "fut-circuit-fifa11": {
+    "youtube_id": "nmwgirgXLYM",
+    "original": "qK-7wo8jWk0",
+    "pool": "core"
+  },
+  "ab-toques-talones": {
+    "youtube_id": "JB2oyawG9KI",
+    "original": "DA0kPJiuxiI",
+    "pool": "core"
+  },
+  "ab-tijeras": {
+    "youtube_id": "wkD8rjkodUI",
+    "original": "UWv_xV1lr6w",
+    "pool": "core"
+  },
+  "ab-rodillas-pecho": {
+    "youtube_id": "auBLPXO8Fww",
+    "original": "ZGZ3dcpVcQE",
+    "pool": "core"
+  },
+  "ab-rueda-abdominal": {
+    "youtube_id": "Xyd_fa5zoEU",
+    "original": "vM0HF5XqCMU",
+    "pool": "core"
+  },
+  "ab-v-up": {
+    "youtube_id": "pSHjTRCQxIw",
+    "original": "iP5UZf2arAQ",
+    "pool": "core"
+  },
+  "ab-hollow-hold": {
+    "youtube_id": "ASdvN_XEl_c",
+    "original": "GbnLBYmLdjA",
+    "pool": "core"
+  },
+  "ab-hollow-rocks": {
+    "youtube_id": "nmwgirgXLYM",
+    "original": "fGaJoUtJsP4",
+    "pool": "core"
+  },
+  "ab-jackknife": {
+    "youtube_id": "JB2oyawG9KI",
+    "original": "Nh99CxAImXg",
+    "pool": "core"
+  },
+  "ab-windshield-wiper": {
+    "youtube_id": "wkD8rjkodUI",
+    "original": "qmFjXzy5Z3M",
+    "pool": "core"
+  },
+  "ab-l-sit": {
+    "youtube_id": "auBLPXO8Fww",
+    "original": "IOY2pp2tQXI",
+    "pool": "core"
+  },
+  "ab-dragon-flag": {
+    "youtube_id": "Xyd_fa5zoEU",
+    "original": "PBhZsM05y6Y",
+    "pool": "core"
+  },
+  "ab-knee-tucks-banco": {
+    "youtube_id": "pSHjTRCQxIw",
+    "original": "dKw71RJpLww",
+    "pool": "core"
+  },
+  "ab-ab-rollouts-barra": {
+    "youtube_id": "ASdvN_XEl_c",
+    "original": "vM0HF5XqCMU",
+    "pool": "core"
+  },
+  "ab-cocoon": {
+    "youtube_id": "nmwgirgXLYM",
+    "original": "Nh99CxAImXg",
+    "pool": "core"
+  },
+  "gym-pullover": {
+    "youtube_id": "rT7DgCr-3pg",
+    "original": "S5sYEYyV_2A",
+    "pool": "chest"
+  },
+  "gym-face-pull": {
+    "youtube_id": "hRJ6tR5-if0",
+    "original": "rep-fERoeg8",
+    "pool": "shoulders"
+  },
+  "gym-good-morning": {
+    "youtube_id": "ultWZbUMPL8",
+    "original": "vKPGe8zb2S0",
+    "pool": "legs"
+  },
+  "gym-extension-triceps-polea": {
+    "youtube_id": "6Fzep104f0s",
+    "original": "X3MeBp3qrNY",
+    "pool": "triceps"
+  },
+  "run-ankle-jumps": {
+    "youtube_id": "c4DAnQ6DtF8",
+    "original": "8YpwnbVA1cw",
+    "pool": "cardio"
+  },
+  "run-zancadas-saltadas": {
+    "youtube_id": "U3HlEF_E9fo",
+    "original": "WTLcGhgFTLk",
+    "pool": "legs"
+  },
+  "run-fartlek": {
+    "youtube_id": "ZZZoCNMU48U",
+    "original": "gJ7kJ2YKSpA",
+    "pool": "cardio"
+  },
+  "run-tempo-run": {
+    "youtube_id": "c4DAnQ6DtF8",
+    "original": "MmxjjbWWzZE",
+    "pool": "cardio"
+  },
+  "preg-elevaciones-talon": {
+    "youtube_id": "JB2oyawG9KI",
+    "original": "HkTuwSxnfcQ",
+    "pool": "core"
+  },
+  "str-mariposa": {
+    "youtube_id": "SW_C1A-rejs",
+    "original": "C6JG9vG8tDo",
+    "pool": "legs"
+  },
+  "str-paloma": {
+    "youtube_id": "Dy28eq2PjcM",
+    "original": "0_zPqAznUdc",
+    "pool": "legs"
+  },
+  "str-cobra": {
+    "youtube_id": "XxWcirHIwVo",
+    "original": "-VZ6OzaWtxs",
+    "pool": "back"
+  },
+  "str-figura-4": {
+    "youtube_id": "op9kVnSso6Q",
+    "original": "sQfnE7Cn1FA",
+    "pool": "legs"
+  },
+  "pad-cambios-direccion": {
+    "youtube_id": "ZZZoCNMU48U",
+    "original": "ihNLyQdsEuc",
+    "pool": "cardio"
+  },
+  "pad-rotacion-medicinal": {
+    "youtube_id": "wkD8rjkodUI",
+    "original": "DFvKZWj8wOA",
+    "pool": "core"
+  },
+  "fut-sprint-arrancada": {
+    "youtube_id": "c4DAnQ6DtF8",
+    "original": "qK-7wo8jWk0",
+    "pool": "cardio"
+  },
+  "fut-coordinacion-escalera": {
+    "youtube_id": "ZZZoCNMU48U",
+    "original": "qK-7wo8jWk0",
+    "pool": "cardio"
+  },
+  "ch-press-banca-cerrado": {
+    "youtube_id": "vcBig73ojpE",
+    "original": "wxhiOFs6gKE",
+    "pool": "chest"
+  },
+  "ch-press-spoto": {
+    "youtube_id": "4Y2ZdHCOXok",
+    "original": "M59vAYz3nvQ",
+    "pool": "chest"
+  },
+  "ch-press-pin": {
+    "youtube_id": "gRVjAtPip0Y",
+    "original": "EbAPAY-D0wQ",
+    "pool": "chest"
+  },
+  "ch-press-suelo": {
+    "youtube_id": "LfyQBUKR8SE",
+    "original": "UdPkFnRrCsg",
+    "pool": "chest"
+  },
+  "ch-press-maquina-pecho": {
+    "youtube_id": "IODxDxX7oi4",
+    "original": "TS80zzzAfaQ",
+    "pool": "chest"
+  },
+  "ch-pec-deck": {
+    "youtube_id": "0pkjOk0EiAk",
+    "original": "Z5wGW9JtyOM",
+    "pool": "chest"
+  },
+  "ch-pullover-barra": {
+    "youtube_id": "2z8JmcrW-As",
+    "original": "1gbeT3pp0iY",
+    "pool": "chest"
+  },
+  "ch-pullover-polea": {
+    "youtube_id": "rT7DgCr-3pg",
+    "original": "wcJ5vBNPCMo",
+    "pool": "chest"
+  },
+  "ch-flexion-diamante": {
+    "youtube_id": "vcBig73ojpE",
+    "original": "0SqmoEgWALY",
+    "pool": "chest"
+  },
+  "ch-flexion-explosiva": {
+    "youtube_id": "4Y2ZdHCOXok",
+    "original": "73qg9OXHvc8",
+    "pool": "chest"
+  },
+  "ch-fondos-banco": {
+    "youtube_id": "0326dy_-CzM",
+    "original": "tKjcgfu44sI",
+    "pool": "triceps"
+  },
+  "ch-svend-press": {
+    "youtube_id": "gRVjAtPip0Y",
+    "original": "GNL1sITBvO0",
+    "pool": "chest"
+  },
+  "ch-pinch-press": {
+    "youtube_id": "LfyQBUKR8SE",
+    "original": "BBe8frXh7H8",
+    "pool": "chest"
+  },
+  "ch-jm-press-pecho": {
+    "youtube_id": "IODxDxX7oi4",
+    "original": "WWdZUM_BkQE",
+    "pool": "chest"
+  },
+  "ch-press-landmine": {
+    "youtube_id": "0pkjOk0EiAk",
+    "original": "OYjA1BCK2yI",
+    "pool": "chest"
+  },
+  "ch-press-bottoms-up": {
+    "youtube_id": "2z8JmcrW-As",
+    "original": "YlrwvU3eEYQ",
+    "pool": "chest"
+  },
+  "ch-flexion-spiderman": {
+    "youtube_id": "rT7DgCr-3pg",
+    "original": "WI88aTu4kkk",
+    "pool": "chest"
+  },
+  "ch-bench-press-paws": {
+    "youtube_id": "vcBig73ojpE",
+    "original": "M59vAYz3nvQ",
+    "pool": "chest"
+  },
+  "bk-jalon-supino": {
+    "youtube_id": "CAwf7n6Luuc",
+    "original": "MgWbgwBzkJU",
+    "pool": "back"
+  },
+  "bk-jalon-cerrado": {
+    "youtube_id": "vT2GjY_Umpw",
+    "original": "jUkAH-2BvdI",
+    "pool": "back"
+  },
+  "bk-jalon-1mano": {
+    "youtube_id": "FWJR5Ve8bnQ",
+    "original": "qsqPrI4yZNg",
+    "pool": "back"
+  },
+  "bk-jalon-recto": {
+    "youtube_id": "G8l_8chR5BE",
+    "original": "wcJ5vBNPCMo",
+    "pool": "back"
+  },
+  "bk-dominada-neutra": {
+    "youtube_id": "T3N-TO4reLQ",
+    "original": "PgKjsiCHGrU",
+    "pool": "back"
+  },
+  "bk-dominada-asistida": {
+    "youtube_id": "r4MzxtBKyNE",
+    "original": "EbAPAY-D0wQ",
+    "pool": "back"
+  },
+  "bk-pendlay-row": {
+    "youtube_id": "AweC3UaM14o",
+    "original": "v34g7-mAhRk",
+    "pool": "back"
+  },
+  "bk-remo-maquina": {
+    "youtube_id": "0oeIB6wi3es",
+    "original": "tnpltY9TKsM",
+    "pool": "back"
+  },
+  "bk-remo-cintura-banco": {
+    "youtube_id": "eGo4IYlbE5g",
+    "original": "QkWeNCMbzKw",
+    "pool": "back"
+  },
+  "bk-remo-meadows": {
+    "youtube_id": "XxWcirHIwVo",
+    "original": "P9hcdsQYEZU",
+    "pool": "back"
+  },
+  "bk-good-morning-barra": {
+    "youtube_id": "CAwf7n6Luuc",
+    "original": "vKPGe8zb2S0",
+    "pool": "back"
+  },
+  "bk-hyperextension": {
+    "youtube_id": "vT2GjY_Umpw",
+    "original": "5_ovEW_J7VQ",
+    "pool": "back"
+  },
+  "bk-hyperextension-glute": {
+    "youtube_id": "1uDiW5--rAE",
+    "original": "5_ovEW_J7VQ",
+    "pool": "legs"
+  },
+  "bk-face-pull-banda": {
+    "youtube_id": "FWJR5Ve8bnQ",
+    "original": "rep-fERoeg8",
+    "pool": "back"
+  },
+  "bk-pull-up-australian": {
+    "youtube_id": "G8l_8chR5BE",
+    "original": "U6h_BPaW3qU",
+    "pool": "back"
+  },
+  "bk-renegade-row": {
+    "youtube_id": "T3N-TO4reLQ",
+    "original": "ITZsuv-PUg0",
+    "pool": "back"
+  },
+  "sh-press-landmine": {
+    "youtube_id": "rep-qVOkqgk",
+    "original": "OYjA1BCK2yI",
+    "pool": "shoulders"
+  },
+  "sh-press-maquina-hombro": {
+    "youtube_id": "2yjwXTZQDDI",
+    "original": "qfNWLeo7yPk",
+    "pool": "shoulders"
+  },
+  "sh-elevacion-lateral-cable": {
+    "youtube_id": "B-aVuyhvLHU",
+    "original": "0ku7ZZbJoDU",
+    "pool": "shoulders"
+  },
+  "sh-elevacion-frontal-disco": {
+    "youtube_id": "qEwKCR5JCog",
+    "original": "tj0NAa4kFco",
+    "pool": "shoulders"
+  },
+  "sh-elevacion-frontal-mancuerna": {
+    "youtube_id": "3VcKaXpzqRo",
+    "original": "h8B5GEwj5Cw",
+    "pool": "shoulders"
+  },
+  "sh-elevacion-frontal-polea": {
+    "youtube_id": "-t7fuZ0KhDA",
+    "original": "h8B5GEwj5Cw",
+    "pool": "shoulders"
+  },
+  "sh-pajaro-mancuerna": {
+    "youtube_id": "hRJ6tR5-if0",
+    "original": "lP-FjzkTKR0",
+    "pool": "shoulders"
+  },
+  "sh-pajaro-maquina": {
+    "youtube_id": "rep-qVOkqgk",
+    "original": "yYrDSz67-IQ",
+    "pool": "shoulders"
+  },
+  "sh-face-pull-cuerda": {
+    "youtube_id": "r4MzxtBKyNE",
+    "original": "rep-fERoeg8",
+    "pool": "back"
+  },
+  "sh-remo-erguido": {
+    "youtube_id": "AweC3UaM14o",
+    "original": "x9eVnkP8Cms",
+    "pool": "back"
+  },
+  "sh-cuban-press": {
+    "youtube_id": "2yjwXTZQDDI",
+    "original": "8VtULmzAmzU",
+    "pool": "shoulders"
+  },
+  "sh-y-raise": {
+    "youtube_id": "0oeIB6wi3es",
+    "original": "5DI04YOgfrU",
+    "pool": "back"
+  },
+  "sh-handstand-pushup": {
+    "youtube_id": "B-aVuyhvLHU",
+    "original": "sk2LCB6yJ-c",
+    "pool": "shoulders"
+  },
+  "sh-press-pike": {
+    "youtube_id": "qEwKCR5JCog",
+    "original": "x7gYvXyvCwE",
+    "pool": "shoulders"
+  },
+  "sh-press-z": {
+    "youtube_id": "3VcKaXpzqRo",
+    "original": "U2vRPEWrOLU",
+    "pool": "shoulders"
+  },
+  "bi-curl-barra-z": {
+    "youtube_id": "ykJmrZ5v0Oo",
+    "original": "EZS8hKHIxhI",
+    "pool": "biceps"
+  },
+  "bi-curl-martillo-cuerda": {
+    "youtube_id": "TwD-YGVP4Bk",
+    "original": "tj-cZAYEpfA",
+    "pool": "biceps"
+  },
+  "bi-curl-spider": {
+    "youtube_id": "zC3nLlEvin4",
+    "original": "UpxsPV2Jpz0",
+    "pool": "biceps"
+  },
+  "bi-curl-concentrado": {
+    "youtube_id": "fIWP-FRFNU0",
+    "original": "0AUGkch3tGc",
+    "pool": "biceps"
+  },
+  "bi-curl-cable-1mano": {
+    "youtube_id": "kwG2ipFRgfo",
+    "original": "85ZQzFVwtsk",
+    "pool": "biceps"
+  },
+  "bi-curl-cable-barra": {
+    "youtube_id": "JnLFSFurrqQ",
+    "original": "tj-cZAYEpfA",
+    "pool": "biceps"
+  },
+  "bi-curl-cable-cuerda": {
+    "youtube_id": "ykJmrZ5v0Oo",
+    "original": "85ZQzFVwtsk",
+    "pool": "biceps"
+  },
+  "bi-curl-21s": {
+    "youtube_id": "TwD-YGVP4Bk",
+    "original": "WRFL6FY3xks",
+    "pool": "biceps"
+  },
+  "bi-curl-arrastre": {
+    "youtube_id": "zC3nLlEvin4",
+    "original": "G-7CnQX6BPg",
+    "pool": "biceps"
+  },
+  "bi-curl-reverse": {
+    "youtube_id": "fIWP-FRFNU0",
+    "original": "_0_TPN1U21M",
+    "pool": "biceps"
+  },
+  "bi-curl-pinch": {
+    "youtube_id": "kwG2ipFRgfo",
+    "original": "_0_TPN1U21M",
+    "pool": "biceps"
+  },
+  "bi-curl-tate": {
+    "youtube_id": "JnLFSFurrqQ",
+    "original": "0AUGkch3tGc",
+    "pool": "biceps"
+  },
+  "tr-press-frances-mancuerna": {
+    "youtube_id": "6kALZikXxLc",
+    "original": "Bk6L7FZqLBI",
+    "pool": "triceps"
+  },
+  "tr-press-cerrado": {
+    "youtube_id": "4Y2ZdHCOXok",
+    "original": "wxhiOFs6gKE",
+    "pool": "chest"
+  },
+  "tr-jm-press": {
+    "youtube_id": "d_KZxkY_0cM",
+    "original": "RTZIZQQ5wO0",
+    "pool": "triceps"
+  },
+  "tr-extension-overhead-cuerda": {
+    "youtube_id": "2-LAMcpzODU",
+    "original": "X3MeBp3qrNY",
+    "pool": "triceps"
+  },
+  "tr-kickback": {
+    "youtube_id": "6Fzep104f0s",
+    "original": "ZIuVpvogi9c",
+    "pool": "triceps"
+  },
+  "tr-kickback-cable": {
+    "youtube_id": "0326dy_-CzM",
+    "original": "ZIuVpvogi9c",
+    "pool": "triceps"
+  },
+  "tr-fondos-banco-tri": {
+    "youtube_id": "6kALZikXxLc",
+    "original": "tKjcgfu44sI",
+    "pool": "triceps"
+  },
+  "tr-diamond-pushup": {
+    "youtube_id": "d_KZxkY_0cM",
+    "original": "0SqmoEgWALY",
+    "pool": "triceps"
+  },
+  "tr-tricep-press-maquina": {
+    "youtube_id": "2-LAMcpzODU",
+    "original": "iPI6qkv-vBU",
+    "pool": "triceps"
+  },
+  "tr-tate-press": {
+    "youtube_id": "6Fzep104f0s",
+    "original": "Bk6L7FZqLBI",
+    "pool": "triceps"
+  },
+  "tr-pushup-decline": {
+    "youtube_id": "0326dy_-CzM",
+    "original": "0SqmoEgWALY",
+    "pool": "triceps"
+  },
+  "tr-press-frances-suelo": {
+    "youtube_id": "6kALZikXxLc",
+    "original": "Bk6L7FZqLBI",
+    "pool": "triceps"
+  },
+  "fa-wrist-curl": {
+    "youtube_id": "auBLPXO8Fww",
+    "original": "kkVMOGfkmpE",
+    "pool": "core"
+  },
+  "fa-reverse-wrist-curl": {
+    "youtube_id": "Xyd_fa5zoEU",
+    "original": "kkVMOGfkmpE",
+    "pool": "core"
+  },
+  "fa-finger-curl": {
+    "youtube_id": "pSHjTRCQxIw",
+    "original": "kkVMOGfkmpE",
+    "pool": "core"
+  },
+  "fa-plate-pinch": {
+    "youtube_id": "ASdvN_XEl_c",
+    "original": "lJiZJ2-Pl-c",
+    "pool": "core"
+  },
+  "fa-dead-hang": {
+    "youtube_id": "-t7fuZ0KhDA",
+    "original": "rUaUvabsnjs",
+    "pool": "shoulders"
+  },
+  "fa-reverse-curl": {
+    "youtube_id": "ykJmrZ5v0Oo",
+    "original": "_0_TPN1U21M",
+    "pool": "biceps"
+  },
+  "fa-hammer-curl-cuerda": {
+    "youtube_id": "TwD-YGVP4Bk",
+    "original": "tj-cZAYEpfA",
+    "pool": "biceps"
+  },
+  "fa-grip-trainer": {
+    "youtube_id": "nmwgirgXLYM",
+    "original": "kkVMOGfkmpE",
+    "pool": "core"
+  },
+  "fa-towel-row": {
+    "youtube_id": "eGo4IYlbE5g",
+    "original": "U6h_BPaW3qU",
+    "pool": "back"
+  },
+  "le-sentadilla-zercher": {
+    "youtube_id": "IZxyjW7MPJQ",
+    "original": "wWIVN-2WBmU",
+    "pool": "legs"
+  },
+  "le-sentadilla-overhead": {
+    "youtube_id": "hRJ6tR5-if0",
+    "original": "Tjgz_AjMYS4",
+    "pool": "shoulders"
+  },
+  "le-pistol-squat": {
+    "youtube_id": "YyvSfVjQeL0",
+    "original": "wKTRy-FLFRY",
+    "pool": "legs"
+  },
+  "le-leg-extension": {
+    "youtube_id": "oAPCPjnU1wA",
+    "original": "GuIrxR1Ye-w",
+    "pool": "legs"
+  },
+  "le-leg-curl-pelota": {
+    "youtube_id": "YyvSfVjQeL0",
+    "original": "Bjvw_J6kCHE",
+    "pool": "legs"
+  },
+  "le-good-morning-pierna": {
+    "youtube_id": "XxWcirHIwVo",
+    "original": "vKPGe8zb2S0",
+    "pool": "back"
+  },
+  "le-zancada-lateral": {
+    "youtube_id": "ultWZbUMPL8",
+    "original": "QRKNgwWbm5M",
+    "pool": "legs"
+  },
+  "le-sissy-squat": {
+    "youtube_id": "U3HlEF_E9fo",
+    "original": "VnNEh4XmJDg",
+    "pool": "legs"
+  },
+  "le-cossack-squat": {
+    "youtube_id": "SW_C1A-rejs",
+    "original": "8Wu_sWUWvWc",
+    "pool": "legs"
+  },
+  "le-trap-bar-deadlift": {
+    "youtube_id": "CAwf7n6Luuc",
+    "original": "kI7H-V09bF8",
+    "pool": "back"
+  },
+  "le-elevacion-talones-pie": {
+    "youtube_id": "Dy28eq2PjcM",
+    "original": "HkTuwSxnfcQ",
+    "pool": "legs"
+  },
+  "le-saltos-cajón": {
+    "youtube_id": "op9kVnSso6Q",
+    "original": "8Pq_IAPj5Hk",
+    "pool": "legs"
+  },
+  "le-broad-jump": {
+    "youtube_id": "1uDiW5--rAE",
+    "original": "lU1QSKIu6gs",
+    "pool": "legs"
+  },
+  "gl-kickback-cable": {
+    "youtube_id": "IZxyjW7MPJQ",
+    "original": "iJW8Q-VhM7M",
+    "pool": "legs"
+  },
+  "gl-kickback-maquina": {
+    "youtube_id": "YyvSfVjQeL0",
+    "original": "iJW8Q-VhM7M",
+    "pool": "legs"
+  },
+  "gl-cable-pull-through": {
+    "youtube_id": "oAPCPjnU1wA",
+    "original": "DeXWQHCiH9c",
+    "pool": "legs"
+  },
+  "gl-rdl-mancuerna": {
+    "youtube_id": "YyvSfVjQeL0",
+    "original": "FQ-6acrlfXU",
+    "pool": "legs"
+  },
+  "gl-rdl-1pierna": {
+    "youtube_id": "ultWZbUMPL8",
+    "original": "Z3Yfey5sTIw",
+    "pool": "legs"
+  },
+  "gl-clamshell": {
+    "youtube_id": "U3HlEF_E9fo",
+    "original": "g4_Q1Pra5gI",
+    "pool": "legs"
+  },
+  "gl-fire-hydrant": {
+    "youtube_id": "SW_C1A-rejs",
+    "original": "DZbaGifIQT0",
+    "pool": "legs"
+  },
+  "gl-abductor-maquina": {
+    "youtube_id": "Dy28eq2PjcM",
+    "original": "JzVwrn0EE5Q",
+    "pool": "legs"
+  },
+  "gl-aductor-maquina": {
+    "youtube_id": "op9kVnSso6Q",
+    "original": "JzVwrn0EE5Q",
+    "pool": "legs"
+  },
+  "gl-walking-banda": {
+    "youtube_id": "1uDiW5--rAE",
+    "original": "h-RFOZ5MQXk",
+    "pool": "legs"
+  },
+  "co-decline-reverse-crunch": {
+    "youtube_id": "JB2oyawG9KI",
+    "original": "yVVwKipqASA",
+    "pool": "core"
+  },
+  "co-hanging-knee-raise": {
+    "youtube_id": "wkD8rjkodUI",
+    "original": "ZGZ3dcpVcQE",
+    "pool": "core"
+  },
+  "co-windshield-wiper": {
+    "youtube_id": "auBLPXO8Fww",
+    "original": "qmFjXzy5Z3M",
+    "pool": "core"
+  },
+  "co-dragon-flag": {
+    "youtube_id": "Xyd_fa5zoEU",
+    "original": "PBhZsM05y6Y",
+    "pool": "core"
+  },
+  "co-l-sit": {
+    "youtube_id": "pSHjTRCQxIw",
+    "original": "IOY2pp2tQXI",
+    "pool": "core"
+  },
+  "co-ab-wheel": {
+    "youtube_id": "ASdvN_XEl_c",
+    "original": "vM0HF5XqCMU",
+    "pool": "core"
+  },
+  "co-v-up": {
+    "youtube_id": "nmwgirgXLYM",
+    "original": "iP5UZf2arAQ",
+    "pool": "core"
+  },
+  "co-cocoon": {
+    "youtube_id": "JB2oyawG9KI",
+    "original": "Nh99CxAImXg",
+    "pool": "core"
+  },
+  "ch-flexion-pike": {
+    "youtube_id": "gRVjAtPip0Y",
+    "original": "b9X8fSPtKBs",
+    "pool": "chest"
+  },
+  "ch-flexion-archer": {
+    "youtube_id": "LfyQBUKR8SE",
+    "original": "RE6wBSZUmXk",
+    "pool": "chest"
+  },
+  "ch-svend-press-disco": {
+    "youtube_id": "IODxDxX7oi4",
+    "original": "GNL1sITBvO0",
+    "pool": "chest"
+  },
+  "bk-meadows-row": {
+    "youtube_id": "vT2GjY_Umpw",
+    "original": "mzLxBNuTM34",
+    "pool": "back"
+  },
+  "bk-remo-gorilla": {
+    "youtube_id": "FWJR5Ve8bnQ",
+    "original": "X1UfBGwj2O0",
+    "pool": "back"
+  },
+  "le-nordic-curl": {
+    "youtube_id": "IZxyjW7MPJQ",
+    "original": "w1djqMvs9W0",
+    "pool": "legs"
+  },
+  "gl-kickback-polea": {
+    "youtube_id": "YyvSfVjQeL0",
+    "original": "6tX5lVSKa_Y",
+    "pool": "legs"
+  },
+  "gl-rdl-sl": {
+    "youtube_id": "oAPCPjnU1wA",
+    "original": "Xrve9E8Bf5w",
+    "pool": "legs"
+  },
+  "co-plank-up-down": {
+    "youtube_id": "wkD8rjkodUI",
+    "original": "QLgYsNgwq_w",
+    "pool": "core"
+  },
+  "co-plank-tocar-hombro": {
+    "youtube_id": "auBLPXO8Fww",
+    "original": "CxenTrlFK_A",
+    "pool": "core"
+  },
+  "co-knee-tuck-bench": {
+    "youtube_id": "Xyd_fa5zoEU",
+    "original": "Y9uGqmCNb_U",
+    "pool": "core"
+  },
+  "co-around-world": {
+    "youtube_id": "pSHjTRCQxIw",
+    "original": "UwM1j6CSxMI",
+    "pool": "core"
+  },
+  "co-plank-reach": {
+    "youtube_id": "ASdvN_XEl_c",
+    "original": "xBfxmwm3CwE",
+    "pool": "core"
+  },
+  "co-dragon-flag-bent": {
+    "youtube_id": "nmwgirgXLYM",
+    "original": "PBhZsM05y6Y",
+    "pool": "core"
+  },
+  "co-suitcase-carry": {
+    "youtube_id": "JB2oyawG9KI",
+    "original": "A_gjLUq6JLM",
+    "pool": "core"
+  },
+  "co-medicine-slam": {
+    "youtube_id": "wkD8rjkodUI",
+    "original": "eITiwa7zFx4",
+    "pool": "core"
+  },
+  "co-sit-up-v": {
+    "youtube_id": "auBLPXO8Fww",
+    "original": "iP5UZf2arAQ",
+    "pool": "core"
+  },
+  "co-scissor-kicks": {
+    "youtube_id": "Xyd_fa5zoEU",
+    "original": "XYd_Ps4Y3l4",
+    "pool": "core"
+  },
+  "co-rotational-chop": {
+    "youtube_id": "pSHjTRCQxIw",
+    "original": "iSnzBppXVWE",
+    "pool": "core"
+  },
+  "run-fartlek-basico": {
+    "youtube_id": "c4DAnQ6DtF8",
+    "original": "5zmdPnY1ptM",
+    "pool": "cardio"
+  },
+  "run-intervalos-400": {
+    "youtube_id": "ZZZoCNMU48U",
+    "original": "KiGBZCyZlws",
+    "pool": "cardio"
+  },
+  "run-tempo-20min": {
+    "youtube_id": "c4DAnQ6DtF8",
+    "original": "ZvgOLxSG9oM",
+    "pool": "cardio"
+  },
+  "run-escalera": {
+    "youtube_id": "ZZZoCNMU48U",
+    "original": "DfGHnUEPZ74",
+    "pool": "cardio"
+  },
+  "cardio-step-touch": {
+    "youtube_id": "c4DAnQ6DtF8",
+    "original": "KhBmA_nQjI4",
+    "pool": "cardio"
+  },
+  "cardio-bici-hiit": {
+    "youtube_id": "ZZZoCNMU48U",
+    "original": "uhpAZn5Nnf0",
+    "pool": "cardio"
+  },
+  "st-couch-stretch": {
+    "youtube_id": "YyvSfVjQeL0",
+    "original": "vtt3e9Uev7Y",
+    "pool": "legs"
+  },
+  "st-pigeon-pose": {
+    "youtube_id": "ultWZbUMPL8",
+    "original": "oX6I9nJYKP0",
+    "pool": "legs"
+  },
+  "st-cobra-stretch": {
+    "youtube_id": "ASdvN_XEl_c",
+    "original": "eFuu9GA1amM",
+    "pool": "core"
+  },
+  "st-downward-dog": {
+    "youtube_id": "G8l_8chR5BE",
+    "original": "BF_ylSl6W7U",
+    "pool": "back"
+  },
+  "st-world-greatest": {
+    "youtube_id": "eqVMAPM00DM",
+    "original": "KhumM1wjQdw",
+    "pool": "stretching"
+  },
+  "st-seated-forward-fold": {
+    "youtube_id": "kqnua4rHVVA",
+    "original": "XKc9hL-wvsw",
+    "pool": "stretching"
+  },
+  "st-butterfly-stretch": {
+    "youtube_id": "U3HlEF_E9fo",
+    "original": "KcHjNP__q_o",
+    "pool": "legs"
+  },
+  "st-spinal-twist": {
+    "youtube_id": "nmwgirgXLYM",
+    "original": "PEnDE7lKb4E",
+    "pool": "core"
+  },
+  "st-calf-stretch": {
+    "youtube_id": "SW_C1A-rejs",
+    "original": "Wv6nVjjvVqg",
+    "pool": "legs"
+  },
+  "st-wall-angels": {
+    "youtube_id": "eqVMAPM00DM",
+    "original": "1utOWAPD9lg",
+    "pool": "stretching"
+  },
+  "mo-90-90-hip": {
+    "youtube_id": "kqnua4rHVVA",
+    "original": "LLp2f87Yrgc",
+    "pool": "stretching"
+  },
+  "bw-squat-jump": {
+    "youtube_id": "Dy28eq2PjcM",
+    "original": "YziLy4dDi6w",
+    "pool": "legs"
+  },
+  "bw-inchworm": {
+    "youtube_id": "JB2oyawG9KI",
+    "original": "qqIsQ3t4XVM",
+    "pool": "core"
+  },
+  "bw-bear-crawl": {
+    "youtube_id": "rep-qVOkqgk",
+    "original": "0p_XHQQiWgg",
+    "pool": "shoulders"
+  },
+  "bw-glute-bridge-pulses": {
+    "youtube_id": "op9kVnSso6Q",
+    "original": "Fw4i7iDh2Y0",
+    "pool": "legs"
+  }
+}

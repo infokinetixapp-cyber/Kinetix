@@ -1,0 +1,29 @@
+# Secretos
+.env
+.env.*
+!.env.example
+*.pem
+*credentials.json*
+*token.json*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Test
+.pytest_cache/
+.coverage

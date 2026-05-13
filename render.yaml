@@ -1,0 +1,43 @@
+services:
+  - type: web
+    name: kinetix-backend
+    runtime: docker
+    plan: starter             # $7/mes — siempre activo, sin cold start
+    region: frankfurt          # Europa (más cerca de España = más rápido)
+    dockerfilePath: ./backend/Dockerfile
+    dockerContext: ./backend
+    healthCheckPath: /api/exercises/categories
+    envVars:
+      - key: PORT
+        value: "10000"          # Render usa este puerto interno
+      - key: PYTHON_VERSION
+        value: "3.11"
+      # Las siguientes se RELLENAN MANUALMENTE en el panel de Render para mantener seguridad:
+      - key: MONGO_URL
+        sync: false             # Se introduce en el panel (secreto)
+      - key: DB_NAME
+        sync: false
+      - key: JWT_SECRET
+        sync: false
+      - key: STRIPE_API_KEY
+        sync: false
+      - key: EMERGENT_LLM_KEY
+        sync: false
+      - key: EXERCISEDB_HOST
+        sync: false
+      - key: EXERCISEDB_API_KEY
+        sync: false
+      - key: ADMIN_EMAIL
+        sync: false
+      - key: ADMIN_PASSWORD
+        sync: false
+      - key: SMTP_HOST
+        sync: false
+      - key: SMTP_PORT
+        sync: false
+      - key: SMTP_USER
+        sync: false
+      - key: SMTP_PASSWORD
+        sync: false
+      - key: SMTP_FROM_NAME
+        sync: false

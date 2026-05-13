@@ -1,0 +1,3974 @@
+{
+  "21s con Barra": {
+    "en": "Barbell 21s",
+    "zh": "杠铃21响",
+    "fr": "21s avec Barre",
+    "it": "21s con Bilanciere"
+  },
+  "90-90 Cadera": {
+    "en": "90-90 Hip Rotation",
+    "zh": "90-90髋关节旋转",
+    "fr": "Rotation de Hanche 90-90",
+    "it": "Rotazione Anca 90-90"
+  },
+  "A-Skip": {
+    "en": "A-Skip",
+    "zh": "A型跳",
+    "fr": "A-Skip",
+    "it": "A-Skip"
+  },
+  "Ab Rollouts con Barra": {
+    "en": "Barbell Ab Rollouts",
+    "zh": "杠铃腹肌轮",
+    "fr": "Rouleaux Abdominaux avec Barre",
+    "it": "Ab Rollout con Bilanciere"
+  },
+  "Abductor en Máquina": {
+    "en": "Machine Abduction",
+    "zh": "器械外展",
+    "fr": "Abduction à la Machine",
+    "it": "Abduttore alla Macchina"
+  },
+  "Abductores con Banda": {
+    "en": "Band Abductions",
+    "zh": "弹力带外展",
+    "fr": "Abductions avec Bande",
+    "it": "Abduttori con Fascia Elastica"
+  },
+  "Aceleraciones Progresivas (Strides)": {
+    "en": "Progressive Accelerations (Strides)",
+    "zh": "渐进式加速跑",
+    "fr": "Accélérations Progressives (Strides)",
+    "it": "Accelerazioni Progressive (Strides)"
+  },
+  "Acelerar y Frenar": {
+    "en": "Accelerate and Decelerate Drills",
+    "zh": "加速与减速",
+    "fr": "Accélérer et Freiner",
+    "it": "Accelerare e Decelerare"
+  },
+  "Aductor Suave": {
+    "en": "Gentle Adductor Stretch",
+    "zh": "轻柔内收肌拉伸",
+    "fr": "Adducteur Doux",
+    "it": "Adduttore Delicato"
+  },
+  "Aductor en Máquina": {
+    "en": "Machine Adduction",
+    "zh": "器械内收",
+    "fr": "Adduction à la Machine",
+    "it": "Adduttore alla Macchina"
+  },
+  "Aductores con Banda": {
+    "en": "Band Adductions",
+    "zh": "弹力带内收",
+    "fr": "Adductions avec Bande",
+    "it": "Adduttori con Fascia Elastica"
+  },
+  "Aguante Sentadilla Sumo": {
+    "en": "Sumo Squat Hold",
+    "zh": "相扑深蹲保持",
+    "fr": "Maintien en Squat Sumo",
+    "it": "Mantenimento Squat Sumo"
+  },
+  "Aguante en Sentadilla Profunda": {
+    "en": "Deep Squat Hold",
+    "zh": "深蹲保持",
+    "fr": "Maintien en Squat Profond",
+    "it": "Mantenimento Squat Profondo"
+  },
+  "Andar del Oso": {
+    "en": "Bear Crawl",
+    "zh": "熊爬",
+    "fr": "Marche de l'Ours",
+    "it": "Camminata dell'Orso"
+  },
+  "Ankle Jumps": {
+    "en": "Ankle Jumps",
+    "zh": "踝关节跳",
+    "fr": "Sauts à la Cheville",
+    "it": "Salti di Caviglia"
+  },
+  "Apertura Pecho con Pared": {
+    "en": "Wall Chest Stretch",
+    "zh": "靠墙胸部拉伸",
+    "fr": "Ouverture Poitrine au Mur",
+    "it": "Apertura Petto al Muro"
+  },
+  "Aperturas con Mancuernas": {
+    "en": "Dumbbell Flyes",
+    "zh": "哑铃飞鸟",
+    "fr": "Écartés avec Haltères",
+    "it": "Croci con Manubri"
+  },
+  "Arnold Press": {
+    "en": "Arnold Press",
+    "zh": "阿诺德推举",
+    "fr": "Développé Arnold",
+    "it": "Arnold Press"
+  },
+  "Around the World": {
+    "en": "Around the World",
+    "zh": "环绕世界",
+    "fr": "Autour du Monde",
+    "it": "Giro del Mondo"
+  },
+  "Arrancadas desde Cono": {
+    "en": "Cone Starts",
+    "zh": "锥筒冲刺",
+    "fr": "Démarrages depuis Cône",
+    "it": "Partenze dal Cono"
+  },
+  "Australian Pull-up (remo invertido)": {
+    "en": "Australian Pull-up (Inverted Row)",
+    "zh": "澳大利亚引体向上 (倒立划船)",
+    "fr": "Tractions Australiennes (Rameur Inversé)",
+    "it": "Australian Pull-up (Rematore Inverso)"
+  },
+  "B-Skip": {
+    "en": "B-Skip",
+    "zh": "B型跳",
+    "fr": "B-Skip",
+    "it": "B-Skip"
+  },
+  "Balanceos Pierna Frontales": {
+    "en": "Front Leg Swings",
+    "zh": "前摆腿",
+    "fr": "Balancements de Jambe Frontaux",
+    "it": "Oscillazioni Gamba Frontali"
+  },
+  "Balanceos Pierna Laterales": {
+    "en": "Lateral Leg Swings",
+    "zh": "侧摆腿",
+    "fr": "Balancements de Jambe Latéraux",
+    "it": "Oscillazioni Gamba Laterali"
+  },
+  "Banda Frontal Hombros": {
+    "en": "Band Front Raises (Shoulders)",
+    "zh": "弹力带前平举",
+    "fr": "Élévations Frontales Épaules avec Bande",
+    "it": "Alzate Frontali Spalle con Fascia"
+  },
+  "Battle Ropes": {
+    "en": "Battle Ropes",
+    "zh": "战绳",
+    "fr": "Cordes Ondulatoires",
+    "it": "Battle Ropes"
+  },
+  "Belt Squat": {
+    "en": "Belt Squat",
+    "zh": "腰带深蹲",
+    "fr": "Squat à la Ceinture",
+    "it": "Belt Squat"
+  },
+  "Bicicleta Abdominal": {
+    "en": "Bicycle Crunches",
+    "zh": "仰卧自行车",
+    "fr": "Bicyclette Abdominale",
+    "it": "Bicicletta Addominale"
+  },
+  "Bird Dog": {
+    "en": "Bird Dog",
+    "zh": "鸟狗式",
+    "fr": "Bird Dog",
+    "it": "Bird Dog"
+  },
+  "Bird Dog Embarazo": {
+    "en": "Pregnancy Bird Dog",
+    "zh": "孕期鸟狗式",
+    "fr": "Bird Dog pour la Grossesse",
+    "it": "Bird Dog in Gravidanza"
+  },
+  "Bird Dog Modificado": {
+    "en": "Modified Bird Dog",
+    "zh": "鸟狗式变式",
+    "fr": "Bird Dog Modifié",
+    "it": "Bird Dog Modificato"
+  },
+  "Bisagra de Cadera con Apoyo": {
+    "en": "Supported Hip Hinge",
+    "zh": "支撑式髋铰链",
+    "fr": "Charnière de Hanche avec Appui",
+    "it": "Cerniera dell'Anca con Supporto"
+  },
+  "Boomerang": {
+    "en": "Boomerang (Ab Exercise)",
+    "zh": "回旋镖",
+    "fr": "Boomerang",
+    "it": "Boomerang"
+  },
+  "Box Jumps (Saltos al Cajón)": {
+    "en": "Box Jumps",
+    "zh": "箱跳",
+    "fr": "Box Jumps (Sauts sur Box)",
+    "it": "Box Jumps (Salti sul Box)"
+  },
+  "Bradford Press": {
+    "en": "Bradford Press",
+    "zh": "布拉德福德推举",
+    "fr": "Développé Bradford",
+    "it": "Bradford Press"
+  },
+  "Buenos Días": {
+    "en": "Good Mornings",
+    "zh": "早安式",
+    "fr": "Good Mornings",
+    "it": "Good Mornings"
+  },
+  "Buenos Días con Banda": {
+    "en": "Band Good Mornings",
+    "zh": "弹力带早安式",
+    "fr": "Good Mornings avec Bande",
+    "it": "Good Mornings con Fascia Elastica"
+  },
+  "Bunny Hops": {
+    "en": "Bunny Hops",
+    "zh": "兔子跳",
+    "fr": "Sauts de Lapin",
+    "it": "Saltelli a Coniglio"
+  },
+  "Burpee Completo": {
+    "en": "Full Burpee",
+    "zh": "标准波比跳",
+    "fr": "Burpee Complet",
+    "it": "Burpee Completo"
+  },
+  "Burpee Lateral": {
+    "en": "Lateral Burpee",
+    "zh": "侧向波比跳",
+    "fr": "Burpee Latéral",
+    "it": "Burpee Laterale"
+  },
+  "Burpees": {
+    "en": "Burpees",
+    "zh": "波比跳",
+    "fr": "Burpees",
+    "it": "Burpees"
+  },
+  "Báscula Pélvica de Pie": {
+    "en": "Standing Pelvic Tilt",
+    "zh": "站立骨盆倾斜",
+    "fr": "Bascule pelvienne debout",
+    "it": "Tilt pelvico in piedi"
+  },
+  "C-Skip": {
+    "en": "C-Skip",
+    "zh": "C型跳步",
+    "fr": "C-Skip",
+    "it": "C-Skip"
+  },
+  "CARs de Cadera": {
+    "en": "Hip CARs",
+    "zh": "髋关节控制性关节旋转",
+    "fr": "CARs de hanche",
+    "it": "CARs dell'anca"
+  },
+  "CARs de Columna": {
+    "en": "Spine CARs",
+    "zh": "脊柱控制性关节旋转",
+    "fr": "CARs de colonne vertébrale",
+    "it": "CARs della colonna vertebrale"
+  },
+  "CARs de Hombro": {
+    "en": "Shoulder CARs",
+    "zh": "肩关节控制性关节旋转",
+    "fr": "CARs d'épaule",
+    "it": "CARs della spalla"
+  },
+  "Cabezazo Isométrico": {
+    "en": "Isometric Headbutt",
+    "zh": "等长头撞",
+    "fr": "Coup de tête isométrique",
+    "it": "Testata isometrica"
+  },
+  "Cable Pull-Through": {
+    "en": "Cable Pull-Through",
+    "zh": "绳索后拉",
+    "fr": "Tirage au câble entre les jambes",
+    "it": "Tirata al cavo tra le gambe"
+  },
+  "Calentamiento Dinámico Corredor": {
+    "en": "Dynamic Runner Warm-up",
+    "zh": "跑者动态热身",
+    "fr": "Échauffement dynamique pour coureur",
+    "it": "Riscaldamento dinamico per corridore"
+  },
+  "Calentamiento Padel": {
+    "en": "Padel Warm-up",
+    "zh": "板式网球热身",
+    "fr": "Échauffement Padel",
+    "it": "Riscaldamento Padel"
+  },
+  "Calentamiento Pre Partido": {
+    "en": "Pre-Match Warm-up",
+    "zh": "赛前热身",
+    "fr": "Échauffement d'avant-match",
+    "it": "Riscaldamento pre-partita"
+  },
+  "Cambios de Dirección": {
+    "en": "Changes of Direction",
+    "zh": "方向改变",
+    "fr": "Changements de direction",
+    "it": "Cambi di direzione"
+  },
+  "Cambios de Dirección con Cono": {
+    "en": "Cone Direction Changes",
+    "zh": "绕锥筒变向",
+    "fr": "Changements de direction avec cône",
+    "it": "Cambi di direzione con cono"
+  },
+  "Caminar Controlado": {
+    "en": "Controlled Walking",
+    "zh": "控制性行走",
+    "fr": "Marche contrôlée",
+    "it": "Camminata controllata"
+  },
+  "Caminar en Piscina": {
+    "en": "Pool Walking",
+    "zh": "泳池行走",
+    "fr": "Marche en piscine",
+    "it": "Camminata in piscina"
+  },
+  "Caminata Lateral con Banda": {
+    "en": "Banded Lateral Walk",
+    "zh": "弹力带侧向行走",
+    "fr": "Marche latérale avec bande",
+    "it": "Camminata laterale con banda"
+  },
+  "Chin-up Negativo": {
+    "en": "Negative Chin-up",
+    "zh": "反向引体向上（下放）",
+    "fr": "Chin-up négatif",
+    "it": "Chin-up negativo"
+  },
+  "Chop Rotacional en Polea": {
+    "en": "Cable Rotational Chop",
+    "zh": "绳索旋转砍劈",
+    "fr": "Chop rotationnel à la poulie",
+    "it": "Chop rotazionale al cavo"
+  },
+  "Cierre Isométrico": {
+    "en": "Isometric Hold",
+    "zh": "等长保持",
+    "fr": "Maintien isométrique",
+    "it": "Tenuta isometrica"
+  },
+  "Circuito FIFA 11+": {
+    "en": "FIFA 11+ Circuit",
+    "zh": "FIFA 11+ 训练方案",
+    "fr": "Circuit FIFA 11+",
+    "it": "Circuito FIFA 11+"
+  },
+  "Circuito Pádel Completo": {
+    "en": "Full Padel Circuit",
+    "zh": "完整板式网球训练",
+    "fr": "Circuit Padel complet",
+    "it": "Circuito Padel completo"
+  },
+  "Clam": {
+    "en": "Clam",
+    "zh": "蚌式",
+    "fr": "Palourde",
+    "it": "Clam"
+  },
+  "Clamshell": {
+    "en": "Clamshell",
+    "zh": "蚌式开合",
+    "fr": "Clamshell",
+    "it": "Clamshell"
+  },
+  "Clamshells (Almejas)": {
+    "en": "Clamshells",
+    "zh": "蚌式开合",
+    "fr": "Clamshells (Palourdes)",
+    "it": "Clamshells"
+  },
+  "Clamshells Suaves": {
+    "en": "Gentle Clamshells",
+    "zh": "温和蚌式开合",
+    "fr": "Clamshells doux",
+    "it": "Clamshells delicati"
+  },
+  "Cobra (Yoga)": {
+    "en": "Cobra Pose (Yoga)",
+    "zh": "眼镜蛇式 (瑜伽)",
+    "fr": "Cobra (Yoga)",
+    "it": "Cobra (Yoga)"
+  },
+  "Cobra con Rotación": {
+    "en": "Cobra with Rotation",
+    "zh": "眼镜蛇式带旋转",
+    "fr": "Cobra avec rotation",
+    "it": "Cobra con rotazione"
+  },
+  "Cocoon": {
+    "en": "Cocoon",
+    "zh": "茧式卷腹",
+    "fr": "Cocoon",
+    "it": "Cocoon"
+  },
+  "Comba Doble Bajo": {
+    "en": "Double Under Jump Rope",
+    "zh": "跳绳双摇",
+    "fr": "Double under (corde à sauter)",
+    "it": "Corda doppia sotto"
+  },
+  "Control Balance": {
+    "en": "Balance Control",
+    "zh": "平衡控制",
+    "fr": "Contrôle de l'équilibre",
+    "it": "Controllo dell'equilibrio"
+  },
+  "Coordinación de Escalera": {
+    "en": "Ladder Coordination",
+    "zh": "敏捷梯协调",
+    "fr": "Coordination échelle d'agilité",
+    "it": "Coordinazione sulla scaletta"
+  },
+  "Corkscrew (Sacacorchos)": {
+    "en": "Corkscrew",
+    "zh": "螺旋式 (普拉提)",
+    "fr": "Tire-bouchon",
+    "it": "Cavatappi"
+  },
+  "Couch Stretch": {
+    "en": "Couch Stretch",
+    "zh": "沙发伸展",
+    "fr": "Étirement du canapé",
+    "it": "Couch Stretch"
+  },
+  "Criss Cross": {
+    "en": "Criss Cross",
+    "zh": "交叉剪刀腿",
+    "fr": "Criss Cross",
+    "it": "Criss Cross"
+  },
+  "Cruce de Poleas (Bajo a Alto)": {
+    "en": "Cable Crossover (Low to High)",
+    "zh": "绳索交叉 (低到高)",
+    "fr": "Croisement de poulies (bas vers haut)",
+    "it": "Crossover ai cavi (dal basso all'alto)"
+  },
+  "Cruce en Poleas": {
+    "en": "Cable Crossover",
+    "zh": "绳索交叉",
+    "fr": "Croisement aux poulies",
+    "it": "Crossover ai cavi"
+  },
+  "Cruces de Polea Alta": {
+    "en": "High Cable Crossovers",
+    "zh": "高位绳索交叉",
+    "fr": "Crossovers à la poulie haute",
+    "it": "Crossover ai cavi alti"
+  },
+  "Cruces de Polea Baja": {
+    "en": "Low Cable Crossovers",
+    "zh": "低位绳索交叉",
+    "fr": "Crossovers à la poulie basse",
+    "it": "Crossover ai cavi bassi"
+  },
+  "Crunch Abdominal": {
+    "en": "Abdominal Crunch",
+    "zh": "腹部卷腹",
+    "fr": "Crunch abdominal",
+    "it": "Crunch addominale"
+  },
+  "Crunch Clásico": {
+    "en": "Classic Crunch",
+    "zh": "经典卷腹",
+    "fr": "Crunch classique",
+    "it": "Crunch classico"
+  },
+  "Crunch Invertido Declinado": {
+    "en": "Decline Reverse Crunch",
+    "zh": "下斜反向卷腹",
+    "fr": "Crunch inversé décliné",
+    "it": "Crunch inverso declinato"
+  },
+  "Crunch en Polea": {
+    "en": "Cable Crunch",
+    "zh": "绳索卷腹",
+    "fr": "Crunch à la poulie",
+    "it": "Crunch al cavo"
+  },
+  "Cuadrupedia Brazo-Pierna": {
+    "en": "Bird-Dog",
+    "zh": "鸟狗式",
+    "fr": "Chien-oiseau (quadrupédie bras-jambe)",
+    "it": "Bird-Dog"
+  },
+  "Cuban Press": {
+    "en": "Cuban Press",
+    "zh": "古巴推举",
+    "fr": "Développé cubain",
+    "it": "Cuban Press"
+  },
+  "Curl 21s": {
+    "en": "Bicep Curl 21s",
+    "zh": "21响弯举",
+    "fr": "Curl 21",
+    "it": "Curl 21"
+  },
+  "Curl Alterno con Mancuerna": {
+    "en": "Alternating Dumbbell Curl",
+    "zh": "交替哑铃弯举",
+    "fr": "Curl haltère alterné",
+    "it": "Curl manubrio alternato"
+  },
+  "Curl Bíceps Ligero": {
+    "en": "Light Bicep Curl",
+    "zh": "轻量二头肌弯举",
+    "fr": "Curl biceps léger",
+    "it": "Curl bicipiti leggero"
+  },
+  "Curl Concentrado": {
+    "en": "Concentration Curl",
+    "zh": "集中弯举",
+    "fr": "Curl de concentration",
+    "it": "Curl di concentrazione"
+  },
+  "Curl Cuerda Bayesian (lateral)": {
+    "en": "Cable Lateral Curl",
+    "zh": "绳索侧向弯举",
+    "fr": "Curl latéral à la corde (poulie)",
+    "it": "Curl laterale al cavo (con corda)"
+  },
+  "Curl Femoral Sentado": {
+    "en": "Seated Hamstring Curl",
+    "zh": "坐姿腿弯举",
+    "fr": "Leg curl assis",
+    "it": "Leg curl seduto"
+  },
+  "Curl Femoral Tumbado": {
+    "en": "Lying Hamstring Curl",
+    "zh": "俯卧腿弯举",
+    "fr": "Leg curl allongé",
+    "it": "Leg curl sdraiato"
+  },
+  "Curl Femoral con Pelota": {
+    "en": "Stability Ball Hamstring Curl",
+    "zh": "健身球腿弯举",
+    "fr": "Curl ischio-jambiers avec ballon",
+    "it": "Leg curl con palla"
+  },
+  "Curl Inclinado Mancuernas": {
+    "en": "Incline Dumbbell Curl",
+    "zh": "上斜哑铃弯举",
+    "fr": "Curl haltères incliné",
+    "it": "Curl manubri inclinato"
+  },
+  "Curl Inclinado en Banco": {
+    "en": "Incline Bench Curl",
+    "zh": "上斜凳弯举",
+    "fr": "Curl incliné sur banc",
+    "it": "Curl su panca inclinata"
+  },
+  "Curl Inclinado en Polea": {
+    "en": "Incline Cable Curl",
+    "zh": "上斜绳索弯举",
+    "fr": "Curl incliné à la poulie",
+    "it": "Curl inclinato al cavo"
+  },
+  "Curl Mancuernas": {
+    "en": "Dumbbell Curl",
+    "zh": "哑铃弯举",
+    "fr": "Curl haltères",
+    "it": "Curl manubri"
+  },
+  "Curl Martillo": {
+    "en": "Hammer Curl",
+    "zh": "锤式弯举",
+    "fr": "Curl marteau",
+    "it": "Hammer Curl"
+  },
+  "Curl Martillo de Pie": {
+    "en": "Standing Hammer Curl",
+    "zh": "站姿锤式弯举",
+    "fr": "Curl marteau debout",
+    "it": "Hammer Curl in piedi"
+  },
+  "Curl Martillo en Polea con Cuerda": {
+    "en": "Cable Rope Hammer Curl",
+    "zh": "绳索锤式弯举",
+    "fr": "Curl marteau à la poulie avec corde",
+    "it": "Hammer Curl al cavo con corda"
+  },
+  "Curl Predicador": {
+    "en": "Preacher Curl",
+    "zh": "牧师凳弯举",
+    "fr": "Curl pupitre (ou Curl Preacher)",
+    "it": "Preacher Curl"
+  },
+  "Curl Simultáneo Mancuernas": {
+    "en": "Simultaneous Dumbbell Curl",
+    "zh": "同时哑铃弯举",
+    "fr": "Curl haltères simultané",
+    "it": "Curl manubri simultaneo"
+  },
+  "Curl Spider": {
+    "en": "Spider Curl",
+    "zh": "蜘蛛弯举",
+    "fr": "Curl araignée",
+    "it": "Spider Curl"
+  },
+  "Curl Zottman": {
+    "en": "Zottman Curl",
+    "zh": "祖特曼弯举",
+    "fr": "Curl Zottman",
+    "it": "Zottman Curl"
+  },
+  "Curl con Barra": {
+    "en": "Barbell Curl",
+    "zh": "杠铃弯举",
+    "fr": "Curl barre",
+    "it": "Curl con bilanciere"
+  },
+  "Curl con Barra Recta": {
+    "en": "Straight Bar Curl",
+    "zh": "直杆弯举",
+    "fr": "Curl barre droite",
+    "it": "Curl con bilanciere dritto"
+  },
+  "Curl con Barra Z": {
+    "en": "EZ Bar Curl",
+    "zh": "曲杆弯举",
+    "fr": "Curl barre EZ",
+    "it": "Curl con bilanciere EZ"
+  },
+  "Curl con Barra en Polea": {
+    "en": "Cable Bar Curl",
+    "zh": "绳索杆弯举",
+    "fr": "Curl barre à la poulie",
+    "it": "Curl con bilanciere al cavo"
+  },
+  "Curl con Pesa Rusa": {
+    "en": "Kettlebell Curl",
+    "zh": "壶铃弯举",
+    "fr": "Curl kettlebell",
+    "it": "Curl con kettlebell"
+  },
+  "Curl con Rotación": {
+    "en": "Rotating Dumbbell Curl",
+    "zh": "旋转弯举",
+    "fr": "Curl avec rotation",
+    "it": "Curl con rotazione"
+  },
+  "Curl de Pelvis": {
+    "en": "Pelvic Curl",
+    "zh": "骨盆卷动",
+    "fr": "Curl pelvien",
+    "it": "Curl pelvico"
+  },
+  "Curl en Banco Scott (Predicador)": {
+    "en": "Preacher Curl (Scott Bench Curl)",
+    "zh": "牧师凳弯举 (斯科特凳弯举)",
+    "fr": "Curl pupitre (Curl Scott)",
+    "it": "Preacher Curl (Curl Scott)"
+  },
+  "Curl en Polea 1 Brazo": {
+    "en": "Single Arm Cable Curl",
+    "zh": "单臂绳索弯举",
+    "fr": "Curl unilatéral à la poulie",
+    "it": "Curl al cavo mono braccio"
+  },
+  "Cuádriceps con Banda": {
+    "en": "Banded Quad Exercise",
+    "zh": "弹力带股四头肌训练",
+    "fr": "Exercice quadriceps avec bande",
+    "it": "Quadricipiti con banda"
+  },
+  "Círculos con Una Pierna": {
+    "en": "Single Leg Circles",
+    "zh": "单腿画圈",
+    "fr": "Cercles de jambe",
+    "it": "Cerchi con una gamba"
+  },
+  "Círculos de Brazos": {
+    "en": "Arm Circles",
+    "zh": "绕臂",
+    "fr": "Cercles de bras",
+    "it": "Cerchi di braccia"
+  },
+  "Dead Bug": {
+    "en": "Dead Bug",
+    "zh": "死虫式",
+    "fr": "Dead Bug",
+    "it": "Dead Bug"
+  },
+  "Dead Bug Pilates": {
+    "en": "Pilates Dead Bug",
+    "zh": "普拉提死虫式",
+    "fr": "Dead Bug Pilates",
+    "it": "Dead Bug Pilates"
+  },
+  "Dead Hang": {
+    "en": "Dead Hang",
+    "zh": "悬吊",
+    "fr": "Suspension complète",
+    "it": "Dead Hang"
+  },
+  "Deadbug": {
+    "en": "Dead Bug",
+    "zh": "死虫式",
+    "fr": "Dead Bug",
+    "it": "Dead Bug"
+  },
+  "Distracción Cadera con Banda": {
+    "en": "Banded Hip Distraction",
+    "zh": "弹力带髋关节牵引",
+    "fr": "Distraction de hanche avec bande",
+    "it": "Distrazione dell'anca con banda"
+  },
+  "Dominada Agarre Neutro": {
+    "en": "Neutral Grip Pull-up",
+    "zh": "中立握引体向上",
+    "fr": "Traction prise neutre",
+    "it": "Trazione presa neutra"
+  },
+  "Dominada Asistida": {
+    "en": "Assisted Pull-up",
+    "zh": "辅助引体向上",
+    "fr": "Traction assistée",
+    "it": "Trazione assistita"
+  },
+  "Dominada Lastrada": {
+    "en": "Weighted Pull-up",
+    "zh": "负重引体向上",
+    "fr": "Traction lestée",
+    "it": "Trazione zavorrata"
+  },
+  "Dominada Prona": {
+    "en": "Pronated Grip Pull-up",
+    "zh": "俯握引体向上",
+    "fr": "Traction prise pronation",
+    "it": "Trazione presa prona"
+  },
+  "Dominada Supina (Chin-up)": {
+    "en": "Supinated Grip Pull-up (Chin-up)",
+    "zh": "仰握引体向上 (引体向上)",
+    "fr": "Traction prise supination (Chin-up)",
+    "it": "Trazione presa supina (Chin-up)"
+  },
+  "Dominada con Peso": {
+    "en": "Weighted Pull-up",
+    "zh": "负重引体向上",
+    "fr": "Traction avec poids",
+    "it": "Trazione con peso"
+  },
+  "Dominada con Toalla": {
+    "en": "Towel Pull-up",
+    "zh": "毛巾引体向上",
+    "fr": "Traction à la serviette",
+    "it": "Trazione con asciugamano"
+  },
+  "Dominadas": {
+    "en": "Pull-ups",
+    "zh": "引体向上",
+    "fr": "Tractions",
+    "it": "Trazioni"
+  },
+  "Dominadas Supinas (Chin-ups)": {
+    "en": "Chin-ups",
+    "zh": "仰握引体向上",
+    "fr": "Tractions en supination (Chin-ups)",
+    "it": "Trazioni supine (Chin-ups)"
+  },
+  "Donkey Calf Raise": {
+    "en": "Donkey Calf Raise",
+    "zh": "驴式提踵",
+    "fr": "Mollets à la donkey",
+    "it": "Calf raise donkey"
+  },
+  "Drag Curl": {
+    "en": "Drag Curl",
+    "zh": "贴身弯举",
+    "fr": "Curl traîné",
+    "it": "Curl trascinato"
+  },
+  "Dragon Flag": {
+    "en": "Dragon Flag",
+    "zh": "龙旗",
+    "fr": "Dragon Flag",
+    "it": "Dragon Flag"
+  },
+  "Dragon Flag (Rodillas)": {
+    "en": "Tuck Dragon Flag",
+    "zh": "屈膝龙旗",
+    "fr": "Dragon Flag (genoux repliés)",
+    "it": "Dragon Flag (ginocchia piegate)"
+  },
+  "Ejercicios de Kegel": {
+    "en": "Kegel Exercises",
+    "zh": "凯格尔运动",
+    "fr": "Exercices de Kegel",
+    "it": "Esercizi di Kegel"
+  },
+  "Elevaciones Frontales": {
+    "en": "Front Raises",
+    "zh": "前平举",
+    "fr": "Élévations frontales",
+    "it": "Alzate frontali"
+  },
+  "Elevaciones Laterales": {
+    "en": "Lateral Raises",
+    "zh": "侧平举",
+    "fr": "Élévations latérales",
+    "it": "Alzate laterali"
+  },
+  "Elevaciones de Piernas": {
+    "en": "Leg Raises",
+    "zh": "抬腿",
+    "fr": "Élévations de jambes",
+    "it": "Alzate delle gambe"
+  },
+  "Elevaciones de Talón": {
+    "en": "Heel Raises",
+    "zh": "提踵",
+    "fr": "Élévations de talons",
+    "it": "Alzate dei talloni"
+  },
+  "Elevación Frontal Mancuernas": {
+    "en": "Dumbbell Front Raise",
+    "zh": "哑铃前平举",
+    "fr": "Élévation frontale haltères",
+    "it": "Alzate frontali con manubri"
+  },
+  "Elevación Frontal con Disco": {
+    "en": "Plate Front Raise",
+    "zh": "杠铃片前平举",
+    "fr": "Élévation frontale avec disque",
+    "it": "Alzate frontali con disco"
+  },
+  "Elevación Frontal en Polea": {
+    "en": "Cable Front Raise",
+    "zh": "绳索前平举",
+    "fr": "Élévation frontale à la poulie",
+    "it": "Alzate frontali al cavo"
+  },
+  "Elevación Gemelos Unilateral": {
+    "en": "Single Leg Calf Raise",
+    "zh": "单腿提踵",
+    "fr": "Élévation mollets unilatérale",
+    "it": "Alzata polpaccio monolaterale"
+  },
+  "Elevación Lateral Mancuerna": {
+    "en": "Dumbbell Lateral Raise",
+    "zh": "哑铃侧平举",
+    "fr": "Élévation latérale haltère",
+    "it": "Alzata laterale con manubrio"
+  },
+  "Elevación Lateral Suave": {
+    "en": "Controlled Lateral Raise",
+    "zh": "平稳侧平举",
+    "fr": "Élévation latérale contrôlée",
+    "it": "Alzata laterale controllata"
+  },
+  "Elevación Lateral de Pierna": {
+    "en": "Side Leg Raise",
+    "zh": "侧抬腿",
+    "fr": "Élévation latérale de jambe",
+    "it": "Alzata laterale della gamba"
+  },
+  "Elevación Lateral en Polea": {
+    "en": "Cable Lateral Raise",
+    "zh": "绳索侧平举",
+    "fr": "Élévation latérale à la poulie",
+    "it": "Alzata laterale al cavo"
+  },
+  "Elevación Talones en Prensa": {
+    "en": "Leg Press Calf Raise",
+    "zh": "腿举机提踵",
+    "fr": "Élévation talons à la presse",
+    "it": "Alzata talloni alla pressa"
+  },
+  "Elevación de Piernas": {
+    "en": "Leg Raises",
+    "zh": "抬腿",
+    "fr": "Élévation de jambes",
+    "it": "Alzate delle gambe"
+  },
+  "Elevación de Talones": {
+    "en": "Heel Raises",
+    "zh": "提踵",
+    "fr": "Élévation de talons",
+    "it": "Alzate dei talloni"
+  },
+  "Elevación de Talones Sentado": {
+    "en": "Seated Calf Raise",
+    "zh": "坐姿提踵",
+    "fr": "Élévation de talons assis",
+    "it": "Alzata talloni da seduto"
+  },
+  "Elevación de Talones de Pie": {
+    "en": "Standing Calf Raise",
+    "zh": "站姿提踵",
+    "fr": "Élévation de talons debout",
+    "it": "Alzata talloni in piedi"
+  },
+  "Encogimientos (Trapecio)": {
+    "en": "Shrugs (Traps)",
+    "zh": "耸肩 (斜方肌)",
+    "fr": "Shrugs (trapèzes)",
+    "it": "Scrollate (trapezi)"
+  },
+  "Encogimientos con Barra": {
+    "en": "Barbell Shrugs",
+    "zh": "杠铃耸肩",
+    "fr": "Shrugs à la barre",
+    "it": "Scrollate con bilanciere"
+  },
+  "Encogimientos con Mancuernas": {
+    "en": "Dumbbell Shrugs",
+    "zh": "哑铃耸肩",
+    "fr": "Shrugs avec haltères",
+    "it": "Scrollate con manubri"
+  },
+  "Escalera de Agilidad": {
+    "en": "Agility Ladder",
+    "zh": "敏捷梯",
+    "fr": "Échelle d'agilité",
+    "it": "Scala di agilità"
+  },
+  "Escorpión": {
+    "en": "Scorpion Stretch",
+    "zh": "蝎子式伸展",
+    "fr": "Scorpion",
+    "it": "Scorpione"
+  },
+  "Estiramiento 90/90": {
+    "en": "90/90 Stretch",
+    "zh": "90/90伸展",
+    "fr": "Étirement 90/90",
+    "it": "Allungamento 90/90"
+  },
+  "Estiramiento Cadena Posterior": {
+    "en": "Posterior Chain Stretch",
+    "zh": "后链伸展",
+    "fr": "Étirement chaîne postérieure",
+    "it": "Allungamento catena posteriore"
+  },
+  "Estiramiento Ciática": {
+    "en": "Sciatic Nerve Stretch",
+    "zh": "坐骨神经伸展",
+    "fr": "Étirement sciatique",
+    "it": "Allungamento per la sciatica"
+  },
+  "Estiramiento Cobra": {
+    "en": "Cobra Stretch",
+    "zh": "眼镜蛇式伸展",
+    "fr": "Étirement du cobra",
+    "it": "Allungamento del cobra"
+  },
+  "Estiramiento Cuello": {
+    "en": "Neck Stretch",
+    "zh": "颈部拉伸",
+    "fr": "Étirement du cou",
+    "it": "Allungamento del collo"
+  },
+  "Estiramiento Cuello Lateral": {
+    "en": "Lateral Neck Stretch",
+    "zh": "颈部侧拉伸",
+    "fr": "Étirement latéral du cou",
+    "it": "Allungamento laterale del collo"
+  },
+  "Estiramiento Cuádriceps Tumbado": {
+    "en": "Lying Quadriceps Stretch",
+    "zh": "仰卧股四头肌拉伸",
+    "fr": "Étirement des quadriceps couché",
+    "it": "Allungamento del quadricipite da sdraiato"
+  },
+  "Estiramiento Cuádriceps de Pie": {
+    "en": "Standing Quadriceps Stretch",
+    "zh": "站立股四头肌拉伸",
+    "fr": "Étirement des quadriceps debout",
+    "it": "Allungamento del quadricipite in piedi"
+  },
+  "Estiramiento Doble Pierna": {
+    "en": "Double Leg Stretch",
+    "zh": "双腿拉伸",
+    "fr": "Étirement double jambe",
+    "it": "Allungamento doppia gamba"
+  },
+  "Estiramiento Figura 4": {
+    "en": "Figure 4 Stretch",
+    "zh": "4字拉伸",
+    "fr": "Étirement figure 4",
+    "it": "Allungamento figura 4"
+  },
+  "Estiramiento Flexor de Cadera": {
+    "en": "Hip Flexor Stretch",
+    "zh": "髋屈肌拉伸",
+    "fr": "Étirement des fléchisseurs de la hanche",
+    "it": "Allungamento flessore dell'anca"
+  },
+  "Estiramiento Flexores de Cadera": {
+    "en": "Hip Flexors Stretch",
+    "zh": "髋屈肌拉伸",
+    "fr": "Étirement des fléchisseurs de la hanche",
+    "it": "Allungamento dei flessori dell'anca"
+  },
+  "Estiramiento Gato Pilates": {
+    "en": "Pilates Cat Stretch",
+    "zh": "普拉提猫式拉伸",
+    "fr": "Étirement du chat Pilates",
+    "it": "Allungamento del gatto Pilates"
+  },
+  "Estiramiento Gemelo": {
+    "en": "Calf Stretch",
+    "zh": "小腿拉伸",
+    "fr": "Étirement du mollet",
+    "it": "Allungamento del polpaccio"
+  },
+  "Estiramiento Gemelos en Pared": {
+    "en": "Wall Calf Stretch",
+    "zh": "靠墙小腿拉伸",
+    "fr": "Étirement des mollets au mur",
+    "it": "Allungamento dei polpacci al muro"
+  },
+  "Estiramiento Hombro Cruzado": {
+    "en": "Cross-Body Shoulder Stretch",
+    "zh": "交叉体肩部拉伸",
+    "fr": "Étirement d'épaule croisé",
+    "it": "Allungamento della spalla incrociato"
+  },
+  "Estiramiento Isquios de Pie": {
+    "en": "Standing Hamstring Stretch",
+    "zh": "站立腿筋拉伸",
+    "fr": "Étirement des ischio-jambiers debout",
+    "it": "Allungamento dei posteriori della coscia in piedi"
+  },
+  "Estiramiento Isquios en Suelo": {
+    "en": "Seated Hamstring Stretch",
+    "zh": "坐姿腿筋拉伸",
+    "fr": "Étirement des ischio-jambiers au sol",
+    "it": "Allungamento dei posteriori della coscia a terra"
+  },
+  "Estiramiento Mariposa": {
+    "en": "Butterfly Stretch",
+    "zh": "蝴蝶式拉伸",
+    "fr": "Étirement papillon",
+    "it": "Allungamento a farfalla"
+  },
+  "Estiramiento Paloma": {
+    "en": "Pigeon Stretch",
+    "zh": "鸽式拉伸",
+    "fr": "Étirement du pigeon",
+    "it": "Allungamento del piccione"
+  },
+  "Estiramiento Pecho en Marco": {
+    "en": "Doorway Chest Stretch",
+    "zh": "门框胸部拉伸",
+    "fr": "Étirement de la poitrine dans l'encadrement de porte",
+    "it": "Allungamento del petto nella cornice della porta"
+  },
+  "Estiramiento Piernas Abiertas": {
+    "en": "Straddle Stretch",
+    "zh": "开腿拉伸",
+    "fr": "Étirement jambes écartées",
+    "it": "Allungamento gambe aperte"
+  },
+  "Estiramiento Piriforme": {
+    "en": "Piriformis Stretch",
+    "zh": "梨状肌拉伸",
+    "fr": "Étirement du piriforme",
+    "it": "Allungamento del piriforme"
+  },
+  "Estiramiento Sóleo": {
+    "en": "Soleus Stretch",
+    "zh": "比目鱼肌拉伸",
+    "fr": "Étirement du soléaire",
+    "it": "Allungamento del soleo"
+  },
+  "Estiramiento Tríceps": {
+    "en": "Triceps Stretch",
+    "zh": "三头肌拉伸",
+    "fr": "Étirement des triceps",
+    "it": "Allungamento dei tricipiti"
+  },
+  "Estiramiento Una Pierna": {
+    "en": "Single Leg Stretch",
+    "zh": "单腿拉伸",
+    "fr": "Étirement une jambe",
+    "it": "Allungamento una gamba"
+  },
+  "Estiramiento de Columna": {
+    "en": "Spine Stretch",
+    "zh": "脊柱拉伸",
+    "fr": "Étirement de la colonne vertébrale",
+    "it": "Allungamento della colonna vertebrale"
+  },
+  "Estiramiento de Rana": {
+    "en": "Frog Stretch",
+    "zh": "青蛙式拉伸",
+    "fr": "Étirement de la grenouille",
+    "it": "Allungamento della rana"
+  },
+  "Estiramiento de Tibial": {
+    "en": "Tibialis Stretch",
+    "zh": "胫骨前肌拉伸",
+    "fr": "Étirement du tibial",
+    "it": "Allungamento del tibiale"
+  },
+  "Estiramiento del Corredor": {
+    "en": "Runner's Stretch",
+    "zh": "跑步者拉伸",
+    "fr": "Étirement du coureur",
+    "it": "Allungamento del corridore"
+  },
+  "Extensiones Cuádriceps": {
+    "en": "Quadriceps Extensions",
+    "zh": "股四头肌伸展",
+    "fr": "Extensions des quadriceps",
+    "it": "Estensioni quadricipiti"
+  },
+  "Extensión 1 Mano en Polea": {
+    "en": "Single Arm Cable Extension",
+    "zh": "单臂绳索伸展",
+    "fr": "Extension à une main à la poulie",
+    "it": "Estensione a una mano al cavo"
+  },
+  "Extensión Francesa de Pie": {
+    "en": "Standing French Press",
+    "zh": "站姿法式推举",
+    "fr": "Extension française debout",
+    "it": "Estensione francese in piedi"
+  },
+  "Extensión Muñeca con Mancuerna": {
+    "en": "Dumbbell Wrist Extension",
+    "zh": "哑铃腕伸展",
+    "fr": "Extension du poignet avec haltère",
+    "it": "Estensione del polso con manubrio"
+  },
+  "Extensión Overhead 1 Mancuerna": {
+    "en": "Single Dumbbell Overhead Extension",
+    "zh": "单哑铃过头伸展",
+    "fr": "Extension overhead à un haltère",
+    "it": "Estensione overhead a un manubrio"
+  },
+  "Extensión Overhead Polea con Cuerda": {
+    "en": "Cable Rope Overhead Extension",
+    "zh": "绳索过头伸展",
+    "fr": "Extension overhead à la poulie avec corde",
+    "it": "Estensione overhead al cavo con corda"
+  },
+  "Extensión Torácica con Foam": {
+    "en": "Thoracic Extension with Foam Roller",
+    "zh": "泡沫轴胸椎伸展",
+    "fr": "Extension thoracique avec rouleau en mousse",
+    "it": "Estensione toracica con foam roller"
+  },
+  "Extensión Tras Nuca con Barra": {
+    "en": "Overhead Barbell Extension",
+    "zh": "颈后杠铃伸展",
+    "fr": "Extension nuque avec barre",
+    "it": "Estensione dietro la nuca con bilanciere"
+  },
+  "Extensión Triceps en Polea": {
+    "en": "Cable Triceps Extension",
+    "zh": "绳索三头肌伸展",
+    "fr": "Extension des triceps à la poulie",
+    "it": "Estensione dei tricipiti al cavo"
+  },
+  "Extensión de Cuádriceps": {
+    "en": "Quadriceps Extension",
+    "zh": "股四头肌伸展",
+    "fr": "Extension de quadriceps",
+    "it": "Estensione del quadricipite"
+  },
+  "Extensión en Polea": {
+    "en": "Cable Extension",
+    "zh": "绳索伸展",
+    "fr": "Extension à la poulie",
+    "it": "Estensione al cavo"
+  },
+  "Face Pull": {
+    "en": "Face Pull",
+    "zh": "面拉",
+    "fr": "Tirage à la face",
+    "it": "Face Pull"
+  },
+  "Face Pull con Banda": {
+    "en": "Resistance Band Face Pull",
+    "zh": "弹力带面拉",
+    "fr": "Tirage à la face avec bande élastique",
+    "it": "Face Pull con elastico"
+  },
+  "Face Pull con Cuerda": {
+    "en": "Cable Rope Face Pull",
+    "zh": "绳索面拉",
+    "fr": "Tirage à la face avec corde",
+    "it": "Face Pull con corda"
+  },
+  "Farmer's Walk": {
+    "en": "Farmer's Walk",
+    "zh": "农夫行走",
+    "fr": "Marche du fermier",
+    "it": "Camminata del contadino"
+  },
+  "Fartlek (Juego de Velocidades)": {
+    "en": "Fartlek (Speed Play)",
+    "zh": "法特莱克跑 (速度游戏)",
+    "fr": "Fartlek (Jeu de vitesses)",
+    "it": "Fartlek (Gioco di velocità)"
+  },
+  "Fartlek 30 min": {
+    "en": "Fartlek 30 min",
+    "zh": "30分钟法特莱克跑",
+    "fr": "Fartlek 30 min",
+    "it": "Fartlek 30 min"
+  },
+  "Figura 4 Tumbado": {
+    "en": "Supine Figure 4 Stretch",
+    "zh": "仰卧4字拉伸",
+    "fr": "Étirement figure 4 couché",
+    "it": "Figura 4 supina"
+  },
+  "Finger Curl": {
+    "en": "Finger Curl",
+    "zh": "手指卷曲",
+    "fr": "Flexion des doigts",
+    "it": "Curl per le dita"
+  },
+  "Fire Hydrant": {
+    "en": "Fire Hydrant",
+    "zh": "消防栓式",
+    "fr": "L'hydrant",
+    "it": "Idrante"
+  },
+  "Flexiones": {
+    "en": "Push-ups",
+    "zh": "俯卧撑",
+    "fr": "Pompes",
+    "it": "Piegamenti"
+  },
+  "Flexiones (Push-up)": {
+    "en": "Push-ups",
+    "zh": "俯卧撑",
+    "fr": "Pompes",
+    "it": "Piegamenti (Push-up)"
+  },
+  "Flexiones Archer": {
+    "en": "Archer Push-ups",
+    "zh": "弓箭手俯卧撑",
+    "fr": "Pompes archer",
+    "it": "Piegamenti arciere"
+  },
+  "Flexiones Declinadas": {
+    "en": "Decline Push-ups",
+    "zh": "下斜俯卧撑",
+    "fr": "Pompes déclinées",
+    "it": "Piegamenti declinati"
+  },
+  "Flexiones Declinadas Cerradas": {
+    "en": "Close-Grip Decline Push-ups",
+    "zh": "窄距下斜俯卧撑",
+    "fr": "Pompes déclinées serrées",
+    "it": "Piegamenti declinati stretti"
+  },
+  "Flexiones Diamante": {
+    "en": "Diamond Push-ups",
+    "zh": "钻石俯卧撑",
+    "fr": "Pompes diamant",
+    "it": "Piegamenti a diamante"
+  },
+  "Flexiones Explosivas": {
+    "en": "Explosive Push-ups",
+    "zh": "爆发式俯卧撑",
+    "fr": "Pompes explosives",
+    "it": "Piegamenti esplosivi"
+  },
+  "Flexiones Pike": {
+    "en": "Pike Push-ups",
+    "zh": "派克俯卧撑",
+    "fr": "Pompes brochet",
+    "it": "Piegamenti a squadra (Pike)"
+  },
+  "Flexiones con Déficit": {
+    "en": "Deficit Push-ups",
+    "zh": "欠缺式俯卧撑",
+    "fr": "Pompes avec déficit",
+    "it": "Piegamenti con deficit"
+  },
+  "Flexiones de Arquero": {
+    "en": "Archer Push-ups",
+    "zh": "弓箭手俯卧撑",
+    "fr": "Pompes d'archer",
+    "it": "Piegamenti dell'arciere"
+  },
+  "Flexión Explosiva": {
+    "en": "Explosive Push-up",
+    "zh": "爆发式俯卧撑",
+    "fr": "Pompe explosive",
+    "it": "Piegamento esplosivo"
+  },
+  "Flexión Lateral del Tronco": {
+    "en": "Side Bend",
+    "zh": "躯干侧屈",
+    "fr": "Flexion latérale du tronc",
+    "it": "Flessione laterale del tronco"
+  },
+  "Flexión Muñeca con Mancuerna": {
+    "en": "Dumbbell Wrist Curl",
+    "zh": "哑铃腕弯举",
+    "fr": "Flexion des poignets avec haltère",
+    "it": "Flessione del polso con manubrio"
+  },
+  "Flexión Sentado": {
+    "en": "Seated Flexion",
+    "zh": "坐姿屈曲",
+    "fr": "Flexion assise",
+    "it": "Flessione seduta"
+  },
+  "Flexión Spider-Man": {
+    "en": "Spider-Man Push-up",
+    "zh": "蜘蛛侠俯卧撑",
+    "fr": "Pompe Spider-Man",
+    "it": "Piegamento Spider-Man"
+  },
+  "Flexión con Aplauso": {
+    "en": "Clapping Push-up",
+    "zh": "拍手俯卧撑",
+    "fr": "Pompe avec applaudissement",
+    "it": "Piegamento con battito di mani"
+  },
+  "Flexión en Pared": {
+    "en": "Wall Push-up",
+    "zh": "靠墙俯卧撑",
+    "fr": "Pompe au mur",
+    "it": "Piegamento al muro"
+  },
+  "Flujo de Yoga Prenatal": {
+    "en": "Prenatal Yoga Flow",
+    "zh": "产前瑜伽流",
+    "fr": "Flow de yoga prénatal",
+    "it": "Flow di yoga prenatale"
+  },
+  "Flutter Kicks": {
+    "en": "Flutter Kicks",
+    "zh": "剪刀腿",
+    "fr": "Battements de jambes",
+    "it": "Flutter Kicks"
+  },
+  "Foam Roll Espalda": {
+    "en": "Foam Roll Back",
+    "zh": "泡沫轴滚背",
+    "fr": "Rouleau de massage dos",
+    "it": "Foam roller schiena"
+  },
+  "Foam Roll Glúteos": {
+    "en": "Foam Roll Glutes",
+    "zh": "泡沫轴滚臀",
+    "fr": "Rouleau de massage fessiers",
+    "it": "Foam roller glutei"
+  },
+  "Foam Roll Piernas": {
+    "en": "Foam Roll Legs",
+    "zh": "泡沫轴滚腿",
+    "fr": "Rouleau de massage jambes",
+    "it": "Foam roller gambe"
+  },
+  "Fondos Verticales para Tríceps": {
+    "en": "Vertical Dips for Triceps",
+    "zh": "垂直臂屈伸 (三头肌)",
+    "fr": "Dips verticaux pour triceps",
+    "it": "Dips verticali per tricipiti"
+  },
+  "Fondos en Anillas": {
+    "en": "Ring Dips",
+    "zh": "吊环臂屈伸",
+    "fr": "Dips aux anneaux",
+    "it": "Dips agli anelli"
+  },
+  "Fondos en Banco": {
+    "en": "Bench Dips",
+    "zh": "凳上臂屈伸",
+    "fr": "Dips sur banc",
+    "it": "Dips alla panca"
+  },
+  "Fondos en Banco (Bench Dips)": {
+    "en": "Bench Dips",
+    "zh": "凳上臂屈伸",
+    "fr": "Dips sur banc",
+    "it": "Dips alla panca"
+  },
+  "Fondos en Banco para Tríceps": {
+    "en": "Bench Dips for Triceps",
+    "zh": "凳上臂屈伸 (三头肌)",
+    "fr": "Dips sur banc pour triceps",
+    "it": "Dips alla panca per tricipiti"
+  },
+  "Fondos en Paralelas": {
+    "en": "Parallel Bar Dips",
+    "zh": "双杠臂屈伸",
+    "fr": "Dips aux barres parallèles",
+    "it": "Dips alle parallele"
+  },
+  "Frog Pump": {
+    "en": "Frog Pump",
+    "zh": "蛙式臀桥",
+    "fr": "Frog pump",
+    "it": "Frog pump"
+  },
+  "Gato-Vaca": {
+    "en": "Cat-Cow",
+    "zh": "猫牛式",
+    "fr": "Chat-vache",
+    "it": "Gatto-mucca"
+  },
+  "Gato-Vaca (Cat-Cow)": {
+    "en": "Cat-Cow",
+    "zh": "猫牛式",
+    "fr": "Chat-vache",
+    "it": "Gatto-mucca"
+  },
+  "Gato-Vaca Dinámico": {
+    "en": "Dynamic Cat-Cow",
+    "zh": "动态猫牛式",
+    "fr": "Chat-vache dynamique",
+    "it": "Gatto-mucca dinamico"
+  },
+  "Gemelo a 1 Pierna": {
+    "en": "Single Leg Calf Raise",
+    "zh": "单腿提踵",
+    "fr": "Mollet à une jambe",
+    "it": "Polpaccio a una gamba"
+  },
+  "Gemelos Sentado": {
+    "en": "Seated Calf Raises",
+    "zh": "坐姿提踵",
+    "fr": "Mollets assis",
+    "it": "Polpacci seduti"
+  },
+  "Gemelos de Pie": {
+    "en": "Standing Calf Raises",
+    "zh": "站姿提踵",
+    "fr": "Élévations des mollets debout",
+    "it": "Polpacci in piedi"
+  },
+  "Glute Kickback en Máquina": {
+    "en": "Machine Glute Kickback",
+    "zh": "器械臀部后踢",
+    "fr": "Extension de hanche à la machine",
+    "it": "Kickback gluteo alla macchina"
+  },
+  "Glute Kickback en Polea": {
+    "en": "Cable Glute Kickback",
+    "zh": "绳索臀部后踢",
+    "fr": "Extension de hanche à la poulie",
+    "it": "Kickback gluteo al cavo"
+  },
+  "Good Morning": {
+    "en": "Good Morning",
+    "zh": "早安式",
+    "fr": "Good Morning",
+    "it": "Good Morning"
+  },
+  "Good Morning con Barra": {
+    "en": "Barbell Good Morning",
+    "zh": "杠铃早安式",
+    "fr": "Good Morning avec barre",
+    "it": "Good Morning con bilanciere"
+  },
+  "HIIT Remo 15 min": {
+    "en": "15 min Rowing HIIT",
+    "zh": "15分钟划船高强度间歇训练",
+    "fr": "HIIT Rameur 15 min",
+    "it": "HIIT Vogatore 15 min"
+  },
+  "HIIT en Bici Estática": {
+    "en": "Stationary Bike HIIT",
+    "zh": "动感单车高强度间歇训练",
+    "fr": "HIIT Vélo stationnaire",
+    "it": "HIIT Bici statica"
+  },
+  "Hack Squat": {
+    "en": "Hack Squat",
+    "zh": "哈克深蹲",
+    "fr": "Hack Squat",
+    "it": "Hack Squat"
+  },
+  "Hammer Curl en Polea": {
+    "en": "Cable Hammer Curl",
+    "zh": "绳索锤式弯举",
+    "fr": "Curl marteau à la poulie",
+    "it": "Curl a martello al cavo"
+  },
+  "Hand Gripper": {
+    "en": "Hand Gripper",
+    "zh": "握力器",
+    "fr": "Pince de musculation",
+    "it": "Hand Gripper"
+  },
+  "Handstand Push-up": {
+    "en": "Handstand Push-up",
+    "zh": "倒立撑",
+    "fr": "Pompes en équilibre",
+    "it": "Piegamenti in verticale"
+  },
+  "Hip Roll": {
+    "en": "Hip Roll",
+    "zh": "髋部滚动",
+    "fr": "Roulement de hanche",
+    "it": "Rotazione dell'anca"
+  },
+  "Hip Thrust": {
+    "en": "Hip Thrust",
+    "zh": "臀冲",
+    "fr": "Hip Thrust",
+    "it": "Hip Thrust"
+  },
+  "Hip Thrust 1 Pierna": {
+    "en": "Single Leg Hip Thrust",
+    "zh": "单腿臀冲",
+    "fr": "Hip Thrust une jambe",
+    "it": "Hip Thrust monopodalico"
+  },
+  "Hip Thrust con Barra": {
+    "en": "Barbell Hip Thrust",
+    "zh": "杠铃臀冲",
+    "fr": "Hip Thrust avec barre",
+    "it": "Hip Thrust con bilanciere"
+  },
+  "Hip Thrust con Mancuerna": {
+    "en": "Dumbbell Hip Thrust",
+    "zh": "哑铃臀冲",
+    "fr": "Hip Thrust avec haltère",
+    "it": "Hip Thrust con manubrio"
+  },
+  "Hiperextensiones": {
+    "en": "Hyperextensions",
+    "zh": "超伸",
+    "fr": "Hyperextensions",
+    "it": "Iperestensioni"
+  },
+  "Hiperextensión": {
+    "en": "Hyperextension",
+    "zh": "超伸",
+    "fr": "Hyperextension",
+    "it": "Iperestensione"
+  },
+  "Hiperextensión con Énfasis Glúteo": {
+    "en": "Glute-Focused Hyperextension",
+    "zh": "强调臀部的超伸",
+    "fr": "Hyperextension avec accent sur les fessiers",
+    "it": "Iperestensione con enfasi sui glutei"
+  },
+  "Hollow Hold": {
+    "en": "Hollow Hold",
+    "zh": "空心支撑",
+    "fr": "Hollow Hold",
+    "it": "Hollow Hold"
+  },
+  "Hollow Rock": {
+    "en": "Hollow Rock",
+    "zh": "空心摇摆",
+    "fr": "Hollow Rock",
+    "it": "Hollow Rock"
+  },
+  "Hollow Rocks": {
+    "en": "Hollow Rocks",
+    "zh": "空心摇摆",
+    "fr": "Hollow Rocks",
+    "it": "Hollow Rocks"
+  },
+  "Hombros Cruzados": {
+    "en": "Cross Body Shoulder Stretch",
+    "zh": "交叉身体肩部伸展",
+    "fr": "Étirement des épaules croisées",
+    "it": "Stretching spalle incrociate"
+  },
+  "Inchworm (Oruga)": {
+    "en": "Inchworm",
+    "zh": "尺蠖爬行",
+    "fr": "Inchworm",
+    "it": "Inchworm"
+  },
+  "Intervalos 400m": {
+    "en": "400m Intervals",
+    "zh": "400米间歇跑",
+    "fr": "Intervalles de 400m",
+    "it": "Intervalli da 400m"
+  },
+  "Isquios Tumbado con Banda": {
+    "en": "Lying Hamstring Curl with Band",
+    "zh": "仰卧弹力带腿弯举",
+    "fr": "Flexion des ischio-jambiers couché avec bande",
+    "it": "Leg curl sdraiato con elastico"
+  },
+  "Isquios con Banda": {
+    "en": "Hamstring Curl with Band",
+    "zh": "弹力带腿弯举",
+    "fr": "Flexion des ischio-jambiers avec bande",
+    "it": "Leg curl con elastico"
+  },
+  "JM Press": {
+    "en": "JM Press",
+    "zh": "JM推举",
+    "fr": "JM Press",
+    "it": "JM Press"
+  },
+  "Jackknife": {
+    "en": "Jackknife",
+    "zh": "杰克刀式",
+    "fr": "Ciseau",
+    "it": "Jackknife"
+  },
+  "Jalón Agarre Cerrado": {
+    "en": "Close-Grip Pulldown",
+    "zh": "窄距高位下拉",
+    "fr": "Tirage poitrine prise serrée",
+    "it": "Lat Machine presa stretta"
+  },
+  "Jalón Agarre Supino": {
+    "en": "Underhand-Grip Pulldown",
+    "zh": "反握高位下拉",
+    "fr": "Tirage poitrine prise supination",
+    "it": "Lat Machine presa supina"
+  },
+  "Jalón Tras Nuca": {
+    "en": "Behind-the-Neck Pulldown",
+    "zh": "颈后高位下拉",
+    "fr": "Tirage nuque",
+    "it": "Lat Machine dietro la nuca"
+  },
+  "Jalón a 1 Brazo en Polea": {
+    "en": "Single-Arm Cable Pulldown",
+    "zh": "单臂绳索高位下拉",
+    "fr": "Tirage un bras à la poulie",
+    "it": "Lat Machine a un braccio al cavo"
+  },
+  "Jalón al Pecho": {
+    "en": "Lat Pulldown",
+    "zh": "高位下拉",
+    "fr": "Tirage poitrine",
+    "it": "Lat Machine al petto"
+  },
+  "Jalón con Banda": {
+    "en": "Band Pulldown",
+    "zh": "弹力带高位下拉",
+    "fr": "Tirage avec bande",
+    "it": "Lat Machine con elastico"
+  },
+  "Jefferson Curl": {
+    "en": "Jefferson Curl",
+    "zh": "杰斐逊卷腹",
+    "fr": "Jefferson Curl",
+    "it": "Jefferson Curl"
+  },
+  "Jefferson Squat": {
+    "en": "Jefferson Squat",
+    "zh": "杰斐逊深蹲",
+    "fr": "Jefferson Squat",
+    "it": "Jefferson Squat"
+  },
+  "Jumping Jacks": {
+    "en": "Jumping Jacks",
+    "zh": "开合跳",
+    "fr": "Jumping Jacks",
+    "it": "Jumping Jacks"
+  },
+  "Kettlebell Swing": {
+    "en": "Kettlebell Swing",
+    "zh": "壶铃摆动",
+    "fr": "Kettlebell Swing",
+    "it": "Kettlebell Swing"
+  },
+  "Kickback en Polea": {
+    "en": "Cable Kickback",
+    "zh": "绳索后踢",
+    "fr": "Kickback à la poulie",
+    "it": "Kickback al cavo"
+  },
+  "Knee Tuck en Banco": {
+    "en": "Bench Knee Tuck",
+    "zh": "仰卧提膝（凳上）",
+    "fr": "Relevé de genoux sur banc",
+    "it": "Knee Tuck su Panca"
+  },
+  "Knee Tucks en Banco": {
+    "en": "Bench Knee Tucks",
+    "zh": "仰卧提膝（凳上）",
+    "fr": "Relevés de genoux sur banc",
+    "it": "Knee Tucks su Panca"
+  },
+  "L-Sit": {
+    "en": "L-Sit",
+    "zh": "L型坐姿",
+    "fr": "L-Sit",
+    "it": "L-Sit"
+  },
+  "Lacrosse Ball en Glúteos": {
+    "en": "Lacrosse Ball Glute Release",
+    "zh": "筋膜球臀部放松",
+    "fr": "Relâchement des fessiers avec balle de Lacrosse",
+    "it": "Rilascio Glutei con Palla da Lacrosse"
+  },
+  "Landmine Press 1 Brazo": {
+    "en": "Single-Arm Landmine Press",
+    "zh": "单臂地雷架推举",
+    "fr": "Développé Landmine à un bras",
+    "it": "Landmine Press a un braccio"
+  },
+  "Landmine Press a 1 brazo": {
+    "en": "Single-Arm Landmine Press",
+    "zh": "单臂地雷架推举",
+    "fr": "Développé Landmine à un bras",
+    "it": "Landmine Press a un braccio"
+  },
+  "Lanzaderas (Shuttles)": {
+    "en": "Shuttles",
+    "zh": "折返跑",
+    "fr": "Navettes",
+    "it": "Navette"
+  },
+  "Lanzamiento Mancuerna": {
+    "en": "Dumbbell Throw",
+    "zh": "哑铃投掷",
+    "fr": "Lancer de haltère",
+    "it": "Lancio Manubrio"
+  },
+  "Lanzamiento contra Pared": {
+    "en": "Wall Ball Throw",
+    "zh": "墙球投掷",
+    "fr": "Lancer de ballon contre mur",
+    "it": "Lancio contro Parete"
+  },
+  "Larsen Press": {
+    "en": "Larsen Press",
+    "zh": "拉斯森推举",
+    "fr": "Larsen Press",
+    "it": "Larsen Press"
+  },
+  "Lateral Raise en Máquina": {
+    "en": "Machine Lateral Raise",
+    "zh": "器械侧平举",
+    "fr": "Élévation latérale à la machine",
+    "it": "Alzate Laterali alla Macchina"
+  },
+  "Leg Pull Back": {
+    "en": "Leg Pull Back",
+    "zh": "腿后拉",
+    "fr": "Tirage de jambe arrière",
+    "it": "Spinta della Gamba Indietro"
+  },
+  "Leg Pull Front": {
+    "en": "Leg Pull Front",
+    "zh": "腿前拉",
+    "fr": "Tirage de jambe avant",
+    "it": "Spinta della Gamba Avanti"
+  },
+  "Limpiaparabrisas": {
+    "en": "Windshield Wipers",
+    "zh": "雨刷式腹肌",
+    "fr": "Essuie-glaces",
+    "it": "Tergicristallo"
+  },
+  "Marcha": {
+    "en": "Marching",
+    "zh": "原地踏步",
+    "fr": "Marche",
+    "it": "Marcia"
+  },
+  "Marcha con Banda": {
+    "en": "Banded March",
+    "zh": "弹力带原地踏步",
+    "fr": "Marche avec bande",
+    "it": "Marcia con Banda"
+  },
+  "Marcha de Pie": {
+    "en": "Standing March",
+    "zh": "站立原地踏步",
+    "fr": "Marche debout",
+    "it": "Marcia in Piedi"
+  },
+  "Marcha en Silla": {
+    "en": "Seated March",
+    "zh": "坐姿原地踏步",
+    "fr": "Marche assise",
+    "it": "Marcia su Sedia"
+  },
+  "Mariposa": {
+    "en": "Butterfly (Pec Deck Fly)",
+    "zh": "蝴蝶机夹胸",
+    "fr": "Papillon (Pec Deck)",
+    "it": "Butterfly (Pec Deck)"
+  },
+  "Mariposa Tumbada": {
+    "en": "Lying Dumbbell Fly",
+    "zh": "仰卧飞鸟",
+    "fr": "Écarté couché avec haltères",
+    "it": "Croci su Panca"
+  },
+  "Meadows Row": {
+    "en": "Meadows Row",
+    "zh": "草地划船",
+    "fr": "Meadows Row",
+    "it": "Meadows Row"
+  },
+  "Meadows Row (Landmine)": {
+    "en": "Meadows Row (Landmine)",
+    "zh": "草地划船（地雷架）",
+    "fr": "Meadows Row (Landmine)",
+    "it": "Meadows Row (Landmine)"
+  },
+  "Mecedora de Tobillos": {
+    "en": "Ankle Rocker",
+    "zh": "脚踝摇摆",
+    "fr": "Balancier de chevilles",
+    "it": "Dondolio Caviglie"
+  },
+  "Mecedoras de Tobillo": {
+    "en": "Ankle Rockers",
+    "zh": "脚踝摇摆",
+    "fr": "Balanciers de chevilles",
+    "it": "Dondolii Caviglie"
+  },
+  "Medicine Ball Slam": {
+    "en": "Medicine Ball Slam",
+    "zh": "药球砸地",
+    "fr": "Slam de Medecine Ball",
+    "it": "Medicine Ball Slam"
+  },
+  "Medio Burpee": {
+    "en": "Half Burpee",
+    "zh": "半波比跳",
+    "fr": "Demi Burpee",
+    "it": "Mezzo Burpee"
+  },
+  "Monster Walk": {
+    "en": "Monster Walk",
+    "zh": "怪兽行走",
+    "fr": "Marche du monstre",
+    "it": "Monster Walk"
+  },
+  "Mountain Climbers": {
+    "en": "Mountain Climbers",
+    "zh": "登山跑",
+    "fr": "Mountain Climbers",
+    "it": "Mountain Climbers"
+  },
+  "Movilidad Muñeca y Mano": {
+    "en": "Wrist and Hand Mobility",
+    "zh": "手腕和手部活动度",
+    "fr": "Mobilité du poignet et de la main",
+    "it": "Mobilità Polso e Mano"
+  },
+  "Movilidad Tobillo con Banda": {
+    "en": "Banded Ankle Mobility",
+    "zh": "弹力带脚踝活动度",
+    "fr": "Mobilité de la cheville avec bande",
+    "it": "Mobilità Caviglia con Banda"
+  },
+  "Máquina Abductor": {
+    "en": "Abductor Machine",
+    "zh": "外展机",
+    "fr": "Machine à Abducteurs",
+    "it": "Macchina Abduttori"
+  },
+  "Natación Suave": {
+    "en": "Gentle Swimming",
+    "zh": "轻松游泳",
+    "fr": "Nage douce",
+    "it": "Nuoto Leggero"
+  },
+  "Nordic Curl (Isquios)": {
+    "en": "Nordic Hamstring Curl",
+    "zh": "诺迪克腿筋弯举",
+    "fr": "Curl Nordique (Ischio-jambiers)",
+    "it": "Nordic Curl (Ischiocrurali)"
+  },
+  "Nordic Hamstring Curl": {
+    "en": "Nordic Hamstring Curl",
+    "zh": "诺迪克腿筋弯举",
+    "fr": "Curl Nordique (Ischio-jambiers)",
+    "it": "Nordic Hamstring Curl"
+  },
+  "Overhead Squat": {
+    "en": "Overhead Squat",
+    "zh": "过头深蹲",
+    "fr": "Squat overhead",
+    "it": "Overhead Squat"
+  },
+  "Pallof Press": {
+    "en": "Pallof Press",
+    "zh": "帕洛夫推举",
+    "fr": "Pallof Press",
+    "it": "Pallof Press"
+  },
+  "Pallof Press con Banda": {
+    "en": "Banded Pallof Press",
+    "zh": "弹力带帕洛夫推举",
+    "fr": "Pallof Press avec bande",
+    "it": "Pallof Press con Banda"
+  },
+  "Pallof Press en Polea": {
+    "en": "Cable Pallof Press",
+    "zh": "绳索帕洛夫推举",
+    "fr": "Pallof Press à la poulie",
+    "it": "Pallof Press al Cavo"
+  },
+  "Paloma (Pigeon)": {
+    "en": "Pigeon Pose",
+    "zh": "鸽子式",
+    "fr": "Posture du Pigeon",
+    "it": "Posizione del Piccione"
+  },
+  "Paloma Activa": {
+    "en": "Active Pigeon Pose",
+    "zh": "动态鸽子式",
+    "fr": "Posture du Pigeon Active",
+    "it": "Piccione Attivo"
+  },
+  "Pasa el Hilo": {
+    "en": "Thread the Needle",
+    "zh": "穿针引线",
+    "fr": "Enfiler l'aiguille",
+    "it": "Infilare l'ago"
+  },
+  "Pasadas de Hombro con Banda": {
+    "en": "Band Shoulder Pass-Throughs",
+    "zh": "弹力带肩部环绕",
+    "fr": "Passages d'épaule avec bande",
+    "it": "Passaggi per le spalle con elastico"
+  },
+  "Pase de Pelota Medicinal": {
+    "en": "Medicine Ball Pass",
+    "zh": "药球传接",
+    "fr": "Passe de médecine-ball",
+    "it": "Passaggio di palla medica"
+  },
+  "Paseo del Granjero": {
+    "en": "Farmer's Walk",
+    "zh": "农夫行走",
+    "fr": "Marche du fermier",
+    "it": "Camminata del contadino"
+  },
+  "Pases de Hombro con Banda": {
+    "en": "Band Shoulder Pass-Throughs",
+    "zh": "弹力带肩部环绕",
+    "fr": "Passages d'épaule avec bande",
+    "it": "Passaggi per le spalle con elastico"
+  },
+  "Paso Largo y Vuelta Rápida": {
+    "en": "Long Stride and Quick Turn",
+    "zh": "大步快转",
+    "fr": "Grande enjambée et virage rapide",
+    "it": "Passo lungo e svolta rapida"
+  },
+  "Paso Saltado (Bounding)": {
+    "en": "Bounding",
+    "zh": "跨步跳",
+    "fr": "Foulées bondissantes (Bounding)",
+    "it": "Balzi (Bounding)"
+  },
+  "Pasos Rápidos en Sitio": {
+    "en": "Quick Feet in Place",
+    "zh": "原地快速踏步",
+    "fr": "Pas rapides sur place",
+    "it": "Passi veloci sul posto"
+  },
+  "Patada Doble Pierna": {
+    "en": "Double Leg Kick",
+    "zh": "双腿踢",
+    "fr": "Coup de pied à deux jambes",
+    "it": "Calcio a doppia gamba"
+  },
+  "Patada Una Pierna": {
+    "en": "Single Leg Kick",
+    "zh": "单腿踢",
+    "fr": "Coup de pied à une jambe",
+    "it": "Calcio a una gamba"
+  },
+  "Patada de Glúteo en Polea": {
+    "en": "Cable Glute Kickback",
+    "zh": "绳索臀部后踢",
+    "fr": "Coup de pied fessier à la poulie",
+    "it": "Calcio indietro per i glutei al cavo"
+  },
+  "Patada de Tríceps": {
+    "en": "Triceps Kickback",
+    "zh": "肱三头肌后踢",
+    "fr": "Extension des triceps (kickback)",
+    "it": "Estensioni per tricipiti (kickback)"
+  },
+  "Patada de Tríceps (Kickback)": {
+    "en": "Triceps Kickback",
+    "zh": "肱三头肌后踢",
+    "fr": "Extension des triceps (kickback)",
+    "it": "Estensioni per tricipiti (kickback)"
+  },
+  "Patada en Cable": {
+    "en": "Cable Kick",
+    "zh": "绳索踢",
+    "fr": "Coup de pied au câble",
+    "it": "Calcio al cavo"
+  },
+  "Pec Deck (Contractor)": {
+    "en": "Pec Deck Fly",
+    "zh": "蝴蝶机夹胸",
+    "fr": "Pec Deck (écarté à la machine)",
+    "it": "Pec Deck (aperture al macchinario)"
+  },
+  "Pendlay Row": {
+    "en": "Pendlay Row",
+    "zh": "彭德雷划船",
+    "fr": "Pendlay Row",
+    "it": "Pendlay Row"
+  },
+  "Perro Boca Abajo": {
+    "en": "Downward-Facing Dog",
+    "zh": "下犬式",
+    "fr": "Chien tête en bas",
+    "it": "Cane a testa in giù"
+  },
+  "Perro Cabeza Abajo": {
+    "en": "Downward-Facing Dog",
+    "zh": "下犬式",
+    "fr": "Chien tête en bas",
+    "it": "Cane a testa in giù"
+  },
+  "Peso Muerto": {
+    "en": "Deadlift",
+    "zh": "硬拉",
+    "fr": "Soulevé de terre",
+    "it": "Stacco da terra"
+  },
+  "Peso Muerto Convencional": {
+    "en": "Conventional Deadlift",
+    "zh": "传统硬拉",
+    "fr": "Soulevé de terre conventionnel",
+    "it": "Stacco da terra convenzionale"
+  },
+  "Peso Muerto Piernas Rígidas": {
+    "en": "Stiff-Leg Deadlift (SLDL)",
+    "zh": "直腿硬拉",
+    "fr": "Soulevé de terre jambes tendues",
+    "it": "Stacco da terra a gambe tese"
+  },
+  "Peso Muerto Rumano": {
+    "en": "Romanian Deadlift (RDL)",
+    "zh": "罗马尼亚硬拉",
+    "fr": "Soulevé de terre roumain",
+    "it": "Stacco da terra rumeno"
+  },
+  "Peso Muerto Rumano (RDL)": {
+    "en": "Romanian Deadlift (RDL)",
+    "zh": "罗马尼亚硬拉",
+    "fr": "Soulevé de terre roumain",
+    "it": "Stacco da terra rumeno"
+  },
+  "Peso Muerto Rumano 1 Pierna": {
+    "en": "Single-Leg Romanian Deadlift",
+    "zh": "单腿罗马尼亚硬拉",
+    "fr": "Soulevé de terre roumain à une jambe",
+    "it": "Stacco da terra rumeno a una gamba"
+  },
+  "Peso Muerto Rumano con Mancuernas": {
+    "en": "Dumbbell Romanian Deadlift",
+    "zh": "哑铃罗马尼亚硬拉",
+    "fr": "Soulevé de terre roumain avec haltères",
+    "it": "Stacco da terra rumeno con manubri"
+  },
+  "Peso Muerto Sumo": {
+    "en": "Sumo Deadlift",
+    "zh": "相扑硬拉",
+    "fr": "Soulevé de terre sumo",
+    "it": "Stacco da terra sumo"
+  },
+  "Peso Muerto Unilateral": {
+    "en": "Unilateral Deadlift",
+    "zh": "单边硬拉",
+    "fr": "Soulevé de terre unilatéral",
+    "it": "Stacco da terra unilaterale"
+  },
+  "Peso Muerto con Déficit": {
+    "en": "Deficit Deadlift",
+    "zh": "欠程硬拉",
+    "fr": "Soulevé de terre avec déficit",
+    "it": "Stacco da terra con deficit"
+  },
+  "Peso Muerto en Trap Bar": {
+    "en": "Trap Bar Deadlift",
+    "zh": "六角杠硬拉",
+    "fr": "Soulevé de terre à la barre hexagonale",
+    "it": "Stacco da terra con trap bar"
+  },
+  "Piernas Rectas Colgado": {
+    "en": "Hanging Straight Leg Raise",
+    "zh": "悬垂直腿抬高",
+    "fr": "Relevé de jambes tendues suspendu",
+    "it": "Sollevamento gambe tese alla sbarra"
+  },
+  "Piernas en la Pared": {
+    "en": "Legs Up the Wall",
+    "zh": "靠墙抬腿",
+    "fr": "Jambes au mur",
+    "it": "Gambe al muro"
+  },
+  "Piernas en la Pared (Recuperación)": {
+    "en": "Legs Up the Wall (Recovery)",
+    "zh": "靠墙抬腿 (恢复)",
+    "fr": "Jambes au mur (Récupération)",
+    "it": "Gambe al muro (Recupero)"
+  },
+  "Pike Push-up": {
+    "en": "Pike Push-up",
+    "zh": "屈体俯卧撑",
+    "fr": "Pompes brochet (Pike Push-up)",
+    "it": "Pike Push-up"
+  },
+  "Pinch Curl con Disco": {
+    "en": "Plate Pinch Curl",
+    "zh": "碟片捏握弯举",
+    "fr": "Curl par pincement avec disque",
+    "it": "Curl con pizzicamento del disco"
+  },
+  "Pinch Press (mancuernas juntas)": {
+    "en": "Dumbbell Pinch Press",
+    "zh": "哑铃挤压推举",
+    "fr": "Développé pincé (avec haltères)",
+    "it": "Pinch Press (con manubri uniti)"
+  },
+  "Pinza de Antebrazo": {
+    "en": "Forearm Pinch",
+    "zh": "前臂捏握",
+    "fr": "Pincement avant-bras",
+    "it": "Presa a pinza per avambracci"
+  },
+  "Pistol Squat": {
+    "en": "Pistol Squat",
+    "zh": "手枪深蹲",
+    "fr": "Squat pistolet",
+    "it": "Pistol Squat"
+  },
+  "Plancha": {
+    "en": "Plank",
+    "zh": "平板支撑",
+    "fr": "Planche",
+    "it": "Plank"
+  },
+  "Plancha Frontal": {
+    "en": "Front Plank",
+    "zh": "前平板支撑",
+    "fr": "Planche frontale",
+    "it": "Plank frontale"
+  },
+  "Plancha Lateral": {
+    "en": "Side Plank",
+    "zh": "侧平板支撑",
+    "fr": "Planche latérale",
+    "it": "Plank laterale"
+  },
+  "Plancha Lateral con Caída": {
+    "en": "Side Plank with Dip",
+    "zh": "侧平板下放",
+    "fr": "Planche latérale avec descente",
+    "it": "Plank laterale con abbassamento"
+  },
+  "Plancha Lateral con Elevación": {
+    "en": "Side Plank with Hip Raise",
+    "zh": "侧平板抬髋",
+    "fr": "Planche latérale avec élévation",
+    "it": "Plank laterale con sollevamento"
+  },
+  "Plancha Lateral con Polea": {
+    "en": "Cable Side Plank",
+    "zh": "绳索侧平板",
+    "fr": "Planche latérale à la poulie",
+    "it": "Plank laterale al cavo"
+  },
+  "Plancha Pilates": {
+    "en": "Pilates Plank",
+    "zh": "普拉提平板",
+    "fr": "Planche Pilates",
+    "it": "Plank Pilates"
+  },
+  "Plancha Tocar Hombro": {
+    "en": "Plank Shoulder Tap",
+    "zh": "平板触肩",
+    "fr": "Planche touche épaule",
+    "it": "Plank tocco spalla"
+  },
+  "Plancha Up-Down": {
+    "en": "Plank Up-Down",
+    "zh": "平板撑上下",
+    "fr": "Planche montées-descentes",
+    "it": "Plank up-down"
+  },
+  "Plancha con Disco": {
+    "en": "Plate Plank",
+    "zh": "杠铃片平板",
+    "fr": "Planche avec disque",
+    "it": "Plank con disco"
+  },
+  "Plancha con Extensión": {
+    "en": "Plank with Extension",
+    "zh": "平板支撑延伸",
+    "fr": "Planche avec extension",
+    "it": "Plank con estensione"
+  },
+  "Plancha con Toque de Hombro": {
+    "en": "Plank Shoulder Tap",
+    "zh": "平板触肩",
+    "fr": "Planche avec touche d'épaule",
+    "it": "Plank con tocco di spalla"
+  },
+  "Plate Pinch": {
+    "en": "Plate Pinch",
+    "zh": "杠铃片捏握",
+    "fr": "Pincement de plaque",
+    "it": "Pizzico piastra"
+  },
+  "Pogo Hops": {
+    "en": "Pogo Hops",
+    "zh": "跳跃触地",
+    "fr": "Sauts pogo",
+    "it": "Saltelli pogo"
+  },
+  "Posición Defensiva Rápida": {
+    "en": "Quick Defensive Stance",
+    "zh": "快速防守姿势",
+    "fr": "Position défensive rapide",
+    "it": "Posizione difensiva rapida"
+  },
+  "Postura Defensiva Lateral": {
+    "en": "Lateral Defensive Stance",
+    "zh": "侧向防守姿势",
+    "fr": "Posture défensive latérale",
+    "it": "Postura difensiva laterale"
+  },
+  "Postura de Cobra": {
+    "en": "Cobra Pose",
+    "zh": "眼镜蛇式",
+    "fr": "Posture du cobra",
+    "it": "Posizione del cobra"
+  },
+  "Postura de Oración": {
+    "en": "Prayer Pose",
+    "zh": "祈祷式",
+    "fr": "Posture de prière",
+    "it": "Posizione della preghiera"
+  },
+  "Postura de Recuperación": {
+    "en": "Recovery Pose",
+    "zh": "恢复姿势",
+    "fr": "Posture de récupération",
+    "it": "Posizione di recupero"
+  },
+  "Postura de la Paloma": {
+    "en": "Pigeon Pose",
+    "zh": "鸽子式",
+    "fr": "Posture du pigeon",
+    "it": "Posizione del piccione"
+  },
+  "Postura del Camello": {
+    "en": "Camel Pose",
+    "zh": "骆驼式",
+    "fr": "Posture du chameau",
+    "it": "Posizione del cammello"
+  },
+  "Postura del Guerrero": {
+    "en": "Warrior Pose",
+    "zh": "战士式",
+    "fr": "Posture du guerrier",
+    "it": "Posizione del guerriero"
+  },
+  "Postura del Lagarto": {
+    "en": "Lizard Pose",
+    "zh": "蜥蜴式",
+    "fr": "Posture du lézard",
+    "it": "Posizione della lucertola"
+  },
+  "Postura del Niño": {
+    "en": "Child's Pose",
+    "zh": "儿童式",
+    "fr": "Posture de l'enfant",
+    "it": "Posizione del bambino"
+  },
+  "Postura del Niño Modificada": {
+    "en": "Modified Child's Pose",
+    "zh": "改良儿童式",
+    "fr": "Posture de l'enfant modifiée",
+    "it": "Posizione del bambino modificata"
+  },
+  "Postura del Niño con Movimiento": {
+    "en": "Child's Pose with Movement",
+    "zh": "动态儿童式",
+    "fr": "Posture de l'enfant avec mouvement",
+    "it": "Posizione del bambino con movimento"
+  },
+  "Postura del Triángulo": {
+    "en": "Triangle Pose",
+    "zh": "三角式",
+    "fr": "Posture du triangle",
+    "it": "Posizione del triangolo"
+  },
+  "Prensa Pies Altos": {
+    "en": "High Foot Press",
+    "zh": "高位脚蹬腿",
+    "fr": "Presse pieds hauts",
+    "it": "Leg press piedi alti"
+  },
+  "Prensa Pies Anchos": {
+    "en": "Wide Foot Press",
+    "zh": "宽距脚蹬腿",
+    "fr": "Presse pieds larges",
+    "it": "Leg press piedi larghi"
+  },
+  "Prensa Pies Bajos": {
+    "en": "Low Foot Press",
+    "zh": "低位脚蹬腿",
+    "fr": "Presse pieds bas",
+    "it": "Leg press piedi bassi"
+  },
+  "Prensa Pies Juntos": {
+    "en": "Close Foot Press",
+    "zh": "窄距脚蹬腿",
+    "fr": "Presse pieds joints",
+    "it": "Leg press piedi uniti"
+  },
+  "Prensa Unilateral": {
+    "en": "Unilateral Press",
+    "zh": "单边推举",
+    "fr": "Presse unilatérale",
+    "it": "Pressa unilaterale"
+  },
+  "Prensa a 1 Pierna": {
+    "en": "Single Leg Press",
+    "zh": "单腿蹬腿",
+    "fr": "Presse à une jambe",
+    "it": "Pressa a una gamba"
+  },
+  "Prensa de Piernas": {
+    "en": "Leg Press",
+    "zh": "腿部推蹬",
+    "fr": "Presse à jambes",
+    "it": "Leg press"
+  },
+  "Prensa para Corredores": {
+    "en": "Runner's Press",
+    "zh": "跑者推举",
+    "fr": "Presse pour coureurs",
+    "it": "Pressa per corridori"
+  },
+  "Press Arnold": {
+    "en": "Arnold Press",
+    "zh": "阿诺德推举",
+    "fr": "Développé Arnold",
+    "it": "Arnold Press"
+  },
+  "Press Banca Agarre Cerrado": {
+    "en": "Close Grip Bench Press",
+    "zh": "窄握卧推",
+    "fr": "Développé couché prise serrée",
+    "it": "Panca piana presa stretta"
+  },
+  "Press Banca Agarre Pausa": {
+    "en": "Pause Bench Press",
+    "zh": "暂停卧推",
+    "fr": "Développé couché avec pause",
+    "it": "Panca piana con pausa"
+  },
+  "Press Banca Cerrado": {
+    "en": "Close Grip Bench Press",
+    "zh": "窄距卧推",
+    "fr": "Développé couché serré",
+    "it": "Panca piana presa stretta"
+  },
+  "Press Banca Declinado": {
+    "en": "Decline Bench Press",
+    "zh": "下斜卧推",
+    "fr": "Développé couché décliné",
+    "it": "Panca declinata"
+  },
+  "Press Banca Inclinado": {
+    "en": "Incline Bench Press",
+    "zh": "上斜卧推",
+    "fr": "Développé couché incliné",
+    "it": "Panca inclinata"
+  },
+  "Press Bottoms-Up con Pesa Rusa": {
+    "en": "Bottoms-Up Kettlebell Press",
+    "zh": "壶铃底部朝上推举",
+    "fr": "Développé Kettlebell bottoms-up",
+    "it": "Pressa kettlebell bottoms-up"
+  },
+  "Press Francés": {
+    "en": "French Press",
+    "zh": "法式推举",
+    "fr": "Barre au front",
+    "it": "French press"
+  },
+  "Press Francés (Skull Crusher)": {
+    "en": "French Press (Skull Crusher)",
+    "zh": "法式推举 (碎颅者)",
+    "fr": "Extension nuque couché (Skull Crusher)",
+    "it": "French Press (Skull Crusher)"
+  },
+  "Press Francés Suelo": {
+    "en": "Floor French Press",
+    "zh": "俯卧法式推举",
+    "fr": "Extension nuque au sol",
+    "it": "French Press a terra"
+  },
+  "Press Guillotina": {
+    "en": "Guillotine Press",
+    "zh": "断头台推举",
+    "fr": "Développé guillotine",
+    "it": "Pressa Ghigliottina"
+  },
+  "Press Inclinado Agarre Neutro": {
+    "en": "Incline Neutral Grip Press",
+    "zh": "上斜中立握推举",
+    "fr": "Développé incliné prise neutre",
+    "it": "Pressa Inclinata Presa Neutra"
+  },
+  "Press Mancuernas Declinado": {
+    "en": "Decline Dumbbell Press",
+    "zh": "下斜哑铃推举",
+    "fr": "Développé décliné avec haltères",
+    "it": "Pressa Declinata con Manubri"
+  },
+  "Press Mancuernas Hombro": {
+    "en": "Dumbbell Shoulder Press",
+    "zh": "哑铃肩部推举",
+    "fr": "Développé épaules avec haltères",
+    "it": "Pressa Spalle con Manubri"
+  },
+  "Press Mancuernas Inclinado": {
+    "en": "Incline Dumbbell Press",
+    "zh": "上斜哑铃推举",
+    "fr": "Développé incliné avec haltères",
+    "it": "Pressa Inclinata con Manubri"
+  },
+  "Press Mancuernas Sentado": {
+    "en": "Seated Dumbbell Press",
+    "zh": "坐姿哑铃推举",
+    "fr": "Développé assis avec haltères",
+    "it": "Pressa Seduta con Manubri"
+  },
+  "Press Mancuernas de Pie": {
+    "en": "Standing Dumbbell Press",
+    "zh": "站姿哑铃推举",
+    "fr": "Développé debout avec haltères",
+    "it": "Pressa in Piedi con Manubri"
+  },
+  "Press Militar": {
+    "en": "Military Press",
+    "zh": "军事推举",
+    "fr": "Développé militaire",
+    "it": "Military Press"
+  },
+  "Press Militar Sentado con Barra": {
+    "en": "Seated Barbell Military Press",
+    "zh": "坐姿杠铃军事推举",
+    "fr": "Développé militaire assis avec barre",
+    "it": "Military Press Seduto con Bilanciere"
+  },
+  "Press Militar de Pie": {
+    "en": "Standing Military Press",
+    "zh": "站姿军事推举",
+    "fr": "Développé militaire debout",
+    "it": "Military Press in Piedi"
+  },
+  "Press Pectoral con Banda": {
+    "en": "Band Chest Press",
+    "zh": "弹力带胸部推举",
+    "fr": "Développé pectoral avec bande",
+    "it": "Chest Press con Banda"
+  },
+  "Press Spoto (pausa en pecho)": {
+    "en": "Spoto Press (pause at chest)",
+    "zh": "Spoto推举 (胸部暂停)",
+    "fr": "Développé Spoto (pause à la poitrine)",
+    "it": "Spoto Press (pausa al petto)"
+  },
+  "Press con Mancuernas": {
+    "en": "Dumbbell Press",
+    "zh": "哑铃推举",
+    "fr": "Développé avec haltères",
+    "it": "Pressa con Manubri"
+  },
+  "Press con Pines (Pin Press)": {
+    "en": "Pin Press",
+    "zh": "销钉推举",
+    "fr": "Développé avec butées (Pin Press)",
+    "it": "Pin Press"
+  },
+  "Press con Rotación Polea": {
+    "en": "Cable Press with Rotation",
+    "zh": "绳索旋转推举",
+    "fr": "Développé avec rotation à la poulie",
+    "it": "Pressa con Rotazione al Cavo"
+  },
+  "Press contra Pared con Pelota": {
+    "en": "Wall Press with Ball",
+    "zh": "靠墙球推举",
+    "fr": "Développé mural avec ballon",
+    "it": "Pressa contro Parete con Palla"
+  },
+  "Press de Banca": {
+    "en": "Bench Press",
+    "zh": "卧推",
+    "fr": "Développé couché",
+    "it": "Panca Piana"
+  },
+  "Press de Banca Cerrado": {
+    "en": "Close-Grip Bench Press",
+    "zh": "窄距卧推",
+    "fr": "Développé couché prise serrée",
+    "it": "Panca Piana a Presa Stretta"
+  },
+  "Press de Hombro en Máquina": {
+    "en": "Machine Shoulder Press",
+    "zh": "器械肩部推举",
+    "fr": "Développé épaules à la machine",
+    "it": "Pressa Spalle alla Macchina"
+  },
+  "Press de Pecho con Cables": {
+    "en": "Cable Chest Press",
+    "zh": "绳索胸部推举",
+    "fr": "Développé couché aux câbles",
+    "it": "Chest Press ai Cavi"
+  },
+  "Press de Suelo (Floor Press)": {
+    "en": "Floor Press",
+    "zh": "地板推举",
+    "fr": "Développé au sol (Floor Press)",
+    "it": "Floor Press"
+  },
+  "Press de Tríceps en Máquina": {
+    "en": "Machine Triceps Press",
+    "zh": "器械三头肌推举",
+    "fr": "Développé triceps à la machine",
+    "it": "Pressa Tricipiti alla Macchina"
+  },
+  "Press en Máquina (Hammer Strength)": {
+    "en": "Machine Press (Hammer Strength)",
+    "zh": "器械推举 (悍马力量)",
+    "fr": "Développé à la machine (Hammer Strength)",
+    "it": "Pressa alla Macchina (Hammer Strength)"
+  },
+  "Pseudo Planche Push-up": {
+    "en": "Pseudo Planche Push-up",
+    "zh": "伪水平支撑俯卧撑",
+    "fr": "Pompes pseudo planche",
+    "it": "Pseudo Planche Push-up"
+  },
+  "Puente Glúteos": {
+    "en": "Glute Bridge",
+    "zh": "臀桥",
+    "fr": "Pont fessiers",
+    "it": "Ponte Glutei"
+  },
+  "Puente Modificado": {
+    "en": "Modified Bridge",
+    "zh": "改进版臀桥",
+    "fr": "Pont modifié",
+    "it": "Ponte Modificato"
+  },
+  "Puente con Marcha": {
+    "en": "Marching Bridge",
+    "zh": "行进臀桥",
+    "fr": "Pont avec marche",
+    "it": "Ponte con Marcia"
+  },
+  "Puente con Pelota Suiza": {
+    "en": "Swiss Ball Bridge",
+    "zh": "瑞士球臀桥",
+    "fr": "Pont avec ballon suisse",
+    "it": "Ponte con Palla Svizzera"
+  },
+  "Puente con Una Pierna": {
+    "en": "Single-Leg Bridge",
+    "zh": "单腿臀桥",
+    "fr": "Pont sur une jambe",
+    "it": "Ponte a Una Gamba"
+  },
+  "Puente de Glúteo": {
+    "en": "Glute Bridge",
+    "zh": "臀桥",
+    "fr": "Pont fessiers",
+    "it": "Ponte Glutei"
+  },
+  "Puente de Glúteo Unilateral": {
+    "en": "Unilateral Glute Bridge",
+    "zh": "单侧臀桥",
+    "fr": "Pont fessiers unilatéral",
+    "it": "Ponte Glutei Unilaterale"
+  },
+  "Puente de Glúteos": {
+    "en": "Glute Bridge",
+    "zh": "臀桥",
+    "fr": "Pont fessiers",
+    "it": "Ponte Glutei"
+  },
+  "Puente de Glúteos con Disco": {
+    "en": "Weighted Glute Bridge (with plate)",
+    "zh": "负重臀桥 (带杠铃片)",
+    "fr": "Pont fessiers avec disque",
+    "it": "Ponte Glutei con Disco"
+  },
+  "Puente de Glúteos en Suelo": {
+    "en": "Floor Glute Bridge",
+    "zh": "地板臀桥",
+    "fr": "Pont fessiers au sol",
+    "it": "Ponte Glutei a Terra"
+  },
+  "Puente sobre Hombros": {
+    "en": "Shoulder Bridge",
+    "zh": "肩桥",
+    "fr": "Pont sur les épaules",
+    "it": "Ponte sulle Spalle"
+  },
+  "Pull-over en Polea Brazos Rectos": {
+    "en": "Straight-Arm Cable Pull-over",
+    "zh": "直臂绳索过顶拉",
+    "fr": "Pull-over à la poulie bras tendus",
+    "it": "Pull-over ai Cavi a Braccia Tese"
+  },
+  "Pulldown Brazos Rectos": {
+    "en": "Straight-Arm Pulldown",
+    "zh": "直臂下压",
+    "fr": "Tirage bras tendus",
+    "it": "Pulldown a Braccia Tese"
+  },
+  "Pullover": {
+    "en": "Pullover",
+    "zh": "过顶拉",
+    "fr": "Pull-over",
+    "it": "Pullover"
+  },
+  "Pullover con Barra": {
+    "en": "Barbell Pullover",
+    "zh": "杠铃仰卧屈臂上举",
+    "fr": "Pull-over avec barre",
+    "it": "Pullover con bilanciere"
+  },
+  "Pullover con Mancuerna": {
+    "en": "Dumbbell Pullover",
+    "zh": "哑铃仰卧屈臂上举",
+    "fr": "Pull-over avec haltère",
+    "it": "Pullover con manubrio"
+  },
+  "Pullover en Polea": {
+    "en": "Cable Pullover",
+    "zh": "绳索仰卧屈臂上举",
+    "fr": "Pull-over à la poulie",
+    "it": "Pullover al cavo"
+  },
+  "Pulsos de Puente de Glúteo": {
+    "en": "Glute Bridge Pulses",
+    "zh": "臀桥脉冲",
+    "fr": "Pont fessier en pulsions",
+    "it": "Pulsazioni del ponte gluteo"
+  },
+  "Push Press": {
+    "en": "Push Press",
+    "zh": "推举",
+    "fr": "Push press",
+    "it": "Push press"
+  },
+  "Push-down Agarre Supino": {
+    "en": "Reverse Grip Push-down",
+    "zh": "反握下压",
+    "fr": "Extension triceps prise supination",
+    "it": "Push-down presa supina"
+  },
+  "Push-down con Barra Recta": {
+    "en": "Straight Bar Push-down",
+    "zh": "直杆下压",
+    "fr": "Extension triceps à la barre droite",
+    "it": "Push-down con barra dritta"
+  },
+  "Push-down con Barra Z": {
+    "en": "EZ Bar Push-down",
+    "zh": "曲杆下压",
+    "fr": "Extension triceps à la barre EZ",
+    "it": "Push-down con bilanciere a Z"
+  },
+  "Push-down con Cuerda": {
+    "en": "Rope Push-down",
+    "zh": "绳索下压",
+    "fr": "Extension triceps à la corde",
+    "it": "Push-down con corda"
+  },
+  "Pájaros (Reverse Fly)": {
+    "en": "Reverse Fly",
+    "zh": "反向飞鸟",
+    "fr": "Élévations latérales buste penché (Oiseau)",
+    "it": "Croci inverse (Reverse Fly)"
+  },
+  "Pájaros (Reverse Fly) Mancuerna": {
+    "en": "Dumbbell Reverse Fly",
+    "zh": "哑铃反向飞鸟",
+    "fr": "Élévations latérales buste penché avec haltères",
+    "it": "Croci inverse con manubri"
+  },
+  "RDL a 1 Pierna": {
+    "en": "Single-Leg RDL",
+    "zh": "单腿罗马尼亚硬拉",
+    "fr": "Soulevé de terre roumain à une jambe",
+    "it": "RDL su una gamba"
+  },
+  "Rack Pull (peso muerto parcial)": {
+    "en": "Rack Pull",
+    "zh": "架上硬拉",
+    "fr": "Rack pull (Soulevé de terre partiel)",
+    "it": "Rack Pull (Stacco parziale)"
+  },
+  "Rebote en Pelota Suiza": {
+    "en": "Swiss Ball Bounce",
+    "zh": "瑞士球弹跳",
+    "fr": "Rebond sur ballon suisse",
+    "it": "Rimbalzo su palla svizzera"
+  },
+  "Remo Apoyado en Banco Inclinado": {
+    "en": "Incline Bench Dumbbell Row",
+    "zh": "上斜凳支撑划船",
+    "fr": "Tirage buste penché sur banc incliné",
+    "it": "Rematore su panca inclinata"
+  },
+  "Remo Gorila": {
+    "en": "Gorilla Row",
+    "zh": "大猩猩划船",
+    "fr": "Gorilla Row",
+    "it": "Gorilla Row"
+  },
+  "Remo Sentado en Polea": {
+    "en": "Seated Cable Row",
+    "zh": "坐姿绳索划船",
+    "fr": "Tirage assis à la poulie basse",
+    "it": "Rematore da seduto al cavo"
+  },
+  "Remo a la Cintura con Cable": {
+    "en": "Cable Low Row",
+    "zh": "绳索低位划船",
+    "fr": "Tirage bas à la taille avec câble",
+    "it": "Rematore al cavo alla vita"
+  },
+  "Remo al Mentón": {
+    "en": "Upright Row",
+    "zh": "直立划船",
+    "fr": "Tirage menton",
+    "it": "Rematore al mento"
+  },
+  "Remo con Banda": {
+    "en": "Resistance Band Row",
+    "zh": "弹力带划船",
+    "fr": "Tirage avec bande de résistance",
+    "it": "Rematore con fascia elastica"
+  },
+  "Remo con Barra": {
+    "en": "Barbell Row",
+    "zh": "杠铃划船",
+    "fr": "Rowing barre (Tirage barre buste penché)",
+    "it": "Rematore con bilanciere"
+  },
+  "Remo con Mancuerna": {
+    "en": "Dumbbell Row",
+    "zh": "哑铃划船",
+    "fr": "Rowing haltère",
+    "it": "Rematore con manubrio"
+  },
+  "Remo con Mancuerna a 1 Mano": {
+    "en": "One-Arm Dumbbell Row",
+    "zh": "单臂哑铃划船",
+    "fr": "Tirage haltère à un bras",
+    "it": "Rematore con manubrio a un braccio"
+  },
+  "Remo con Mancuerna a una Mano": {
+    "en": "One-Arm Dumbbell Row",
+    "zh": "单臂哑铃划船",
+    "fr": "Tirage haltère à un bras",
+    "it": "Rematore con manubrio a un braccio"
+  },
+  "Remo con Toalla": {
+    "en": "Towel Row",
+    "zh": "毛巾划船",
+    "fr": "Tirage avec serviette",
+    "it": "Rematore con asciugamano"
+  },
+  "Remo en Máquina": {
+    "en": "Machine Row",
+    "zh": "器械划船",
+    "fr": "Tirage à la machine",
+    "it": "Rematore alla macchina"
+  },
+  "Remo en Polea Baja": {
+    "en": "Low Cable Row",
+    "zh": "低位绳索划船",
+    "fr": "Tirage à la poulie basse",
+    "it": "Rematore al cavo basso"
+  },
+  "Renegade Row": {
+    "en": "Renegade Row",
+    "zh": "叛逆划船",
+    "fr": "Renegade row",
+    "it": "Renegade Row"
+  },
+  "Respiración Diafragmática": {
+    "en": "Diaphragmatic Breathing",
+    "zh": "膈式呼吸",
+    "fr": "Respiration diaphragmatique",
+    "it": "Respirazione diaframmatica"
+  },
+  "Respiración con Mariposa": {
+    "en": "Butterfly Breath",
+    "zh": "蝴蝶式呼吸",
+    "fr": "Respiration papillon",
+    "it": "Respirazione a farfalla"
+  },
+  "Reverse Curl (agarre prono)": {
+    "en": "Reverse Curl",
+    "zh": "反向弯举",
+    "fr": "Curl inversé (Prise pronation)",
+    "it": "Curl inverso (presa prona)"
+  },
+  "Reverse Curl con Barra": {
+    "en": "Barbell Reverse Curl",
+    "zh": "杠铃反向弯举",
+    "fr": "Curl inversé à la barre",
+    "it": "Curl inverso con bilanciere"
+  },
+  "Reverse Pec Deck": {
+    "en": "Reverse Pec Deck Fly",
+    "zh": "反向夹胸器飞鸟",
+    "fr": "Écarté arrière à la machine (Reverse Pec Deck)",
+    "it": "Reverse Pec Deck"
+  },
+  "Reverse Wrist Curl": {
+    "en": "Reverse Wrist Curl",
+    "zh": "反向腕弯举",
+    "fr": "Flexion inversée des poignets",
+    "it": "Curl polsi inverso"
+  },
+  "Rodando Como Pelota": {
+    "en": "Rolling Like a Ball",
+    "zh": "像球一样滚动",
+    "fr": "Rouler comme une balle",
+    "it": "Rotolando come una palla"
+  },
+  "Rodillas al Pecho Colgado": {
+    "en": "Hanging Knees to Chest",
+    "zh": "悬垂举膝",
+    "fr": "Genoux à la poitrine suspendu",
+    "it": "Ginocchia al petto appeso"
+  },
+  "Roll Over": {
+    "en": "Roll Over",
+    "zh": "翻转",
+    "fr": "Roll Over",
+    "it": "Roll Over"
+  },
+  "Roll Up": {
+    "en": "Roll Up",
+    "zh": "卷腹起身",
+    "fr": "Roll Up",
+    "it": "Roll Up"
+  },
+  "Rompecráneos": {
+    "en": "Skullcrusher",
+    "zh": "碎颅者",
+    "fr": "Extension nuque (Skullcrusher)",
+    "it": "Skullcrusher"
+  },
+  "Rotaciones de Cadera": {
+    "en": "Hip Rotations",
+    "zh": "髋关节旋转",
+    "fr": "Rotations de hanche",
+    "it": "Rotazioni dell'anca"
+  },
+  "Rotaciones de Hombros": {
+    "en": "Shoulder Rotations",
+    "zh": "肩部旋转",
+    "fr": "Rotations d'épaules",
+    "it": "Rotazioni delle spalle"
+  },
+  "Rotaciones de Tronco": {
+    "en": "Torso Rotations",
+    "zh": "躯干旋转",
+    "fr": "Rotations du tronc",
+    "it": "Rotazioni del busto"
+  },
+  "Rotaciones de Tronco con Mancuerna": {
+    "en": "Dumbbell Torso Rotations",
+    "zh": "哑铃躯干旋转",
+    "fr": "Rotations du tronc avec haltère",
+    "it": "Rotazioni del busto con manubrio"
+  },
+  "Rotaciones en Pelota": {
+    "en": "Ball Rotations",
+    "zh": "球上旋转",
+    "fr": "Rotations sur ballon",
+    "it": "Rotazioni sulla palla"
+  },
+  "Rotación Externa Hombro Banda": {
+    "en": "Band External Shoulder Rotation",
+    "zh": "弹力带肩外旋",
+    "fr": "Rotation externe d'épaule avec bande",
+    "it": "Rotazione esterna della spalla con banda elastica"
+  },
+  "Rotación Interna Hombro Banda": {
+    "en": "Band Internal Shoulder Rotation",
+    "zh": "弹力带肩内旋",
+    "fr": "Rotation interne d'épaule avec bande",
+    "it": "Rotazione interna della spalla con banda elastica"
+  },
+  "Rotación Torácica": {
+    "en": "Thoracic Rotation",
+    "zh": "胸椎旋转",
+    "fr": "Rotation thoracique",
+    "it": "Rotazione toracica"
+  },
+  "Rotación Torácica T-Spine": {
+    "en": "Thoracic Spine Rotation",
+    "zh": "胸椎旋转",
+    "fr": "Rotation de la colonne thoracique",
+    "it": "Rotazione della colonna toracica"
+  },
+  "Rotación Tronco con Banda": {
+    "en": "Band Torso Rotation",
+    "zh": "弹力带躯干旋转",
+    "fr": "Rotation du tronc avec bande",
+    "it": "Rotazione del busto con banda elastica"
+  },
+  "Rotación Tronco con Pelota": {
+    "en": "Ball Torso Rotation",
+    "zh": "球上躯干旋转",
+    "fr": "Rotation du tronc avec ballon",
+    "it": "Rotazione del busto con palla"
+  },
+  "Rotación con Pelota Medicina": {
+    "en": "Medicine Ball Rotation",
+    "zh": "药球旋转",
+    "fr": "Rotation avec ballon médicinal",
+    "it": "Rotazione con palla medica"
+  },
+  "Rotación con Pelota Medicinal": {
+    "en": "Medicine Ball Rotation",
+    "zh": "药球旋转",
+    "fr": "Rotation avec ballon médicinal",
+    "it": "Rotazione con palla medica"
+  },
+  "Rotación de Cuello": {
+    "en": "Neck Rotations",
+    "zh": "颈部旋转",
+    "fr": "Rotations du cou",
+    "it": "Rotazioni del collo"
+  },
+  "Rotación de Espalda Tumbado": {
+    "en": "Supine Spinal Twist",
+    "zh": "仰卧脊柱扭转",
+    "fr": "Torsion vertébrale allongée",
+    "it": "Torsione spinale da sdraiato"
+  },
+  "Rueda Abdominal": {
+    "en": "Ab Wheel Rollout",
+    "zh": "健腹轮",
+    "fr": "Roue abdominale",
+    "it": "Ruota addominale"
+  },
+  "Russian Twist": {
+    "en": "Russian Twist",
+    "zh": "俄罗斯转体",
+    "fr": "Russian Twist",
+    "it": "Russian Twist"
+  },
+  "Russian Twist con Pelota": {
+    "en": "Medicine Ball Russian Twist",
+    "zh": "药球俄罗斯转体",
+    "fr": "Russian Twist avec ballon",
+    "it": "Russian Twist con palla"
+  },
+  "Rutina Completa de Estiramientos": {
+    "en": "Full Stretching Routine",
+    "zh": "全身拉伸训练",
+    "fr": "Routine complète d'étirements",
+    "it": "Routine completa di stretching"
+  },
+  "Rutina Movilidad Matutina": {
+    "en": "Morning Mobility Routine",
+    "zh": "早晨活动度训练",
+    "fr": "Routine de mobilité matinale",
+    "it": "Routine di mobilità mattutina"
+  },
+  "Rutina Pilates 30 min": {
+    "en": "30-min Pilates Routine",
+    "zh": "30分钟普拉提训练",
+    "fr": "Routine Pilates de 30 min",
+    "it": "Routine Pilates da 30 min"
+  },
+  "Saltar a la Comba": {
+    "en": "Jump Rope",
+    "zh": "跳绳",
+    "fr": "Saut à la corde",
+    "it": "Saltare la corda"
+  },
+  "Salto Largo (Broad Jump)": {
+    "en": "Broad Jump",
+    "zh": "立定跳远",
+    "fr": "Saut en longueur sans élan",
+    "it": "Salto in lungo da fermo"
+  },
+  "Saltos Asimétricos": {
+    "en": "Asymmetric Jumps",
+    "zh": "不对称跳跃",
+    "fr": "Sauts asymétriques",
+    "it": "Salti asimmetrici"
+  },
+  "Saltos Comba Pie a Pie": {
+    "en": "Jump Rope - Alternate Foot Jumps",
+    "zh": "交替脚跳绳",
+    "fr": "Saut à la corde - pied à pied",
+    "it": "Salti con la corda - piede a piede"
+  },
+  "Saltos Comba Pies Juntos": {
+    "en": "Jump Rope - Two-Foot Jumps",
+    "zh": "双脚跳绳",
+    "fr": "Saut à la corde - pieds joints",
+    "it": "Salti con la corda - piedi uniti"
+  },
+  "Saltos Laterales sobre Cono": {
+    "en": "Lateral Cone Jumps",
+    "zh": "侧向跨锥跳",
+    "fr": "Sauts latéraux sur cône",
+    "it": "Salti laterali sul cono"
+  },
+  "Saltos Múltiples": {
+    "en": "Multiple Jumps",
+    "zh": "连续跳跃",
+    "fr": "Sauts multiples",
+    "it": "Salti multipli"
+  },
+  "Saltos Múltiples a Caja": {
+    "en": "Multiple Box Jumps",
+    "zh": "连续跳箱",
+    "fr": "Sauts multiples sur boîte",
+    "it": "Salti multipli alla scatola"
+  },
+  "Saltos Skater": {
+    "en": "Skater Jumps",
+    "zh": "滑冰跳",
+    "fr": "Sauts du patineur",
+    "it": "Salti dello skater"
+  },
+  "Saltos Vallas Laterales": {
+    "en": "Lateral Hurdle Jumps",
+    "zh": "侧向跨栏跳",
+    "fr": "Sauts latéraux de haies",
+    "it": "Salti laterali sugli ostacoli"
+  },
+  "Saltos a Caja": {
+    "en": "Box Jumps",
+    "zh": "跳箱",
+    "fr": "Sauts sur boîte",
+    "it": "Salti alla scatola"
+  },
+  "Saltos a Caja Unilateral": {
+    "en": "Unilateral Box Jumps",
+    "zh": "单腿跳箱",
+    "fr": "Sauts unilatéraux sur boîte",
+    "it": "Salti alla scatola unilaterali"
+  },
+  "Saltos a Cajón": {
+    "en": "Box Jumps",
+    "zh": "跳箱",
+    "fr": "Sauts sur caisson",
+    "it": "Salti al cassone"
+  },
+  "Saltos sobre Una Pierna": {
+    "en": "Single Leg Jumps",
+    "zh": "单腿跳",
+    "fr": "Sauts sur une jambe",
+    "it": "Salti su una gamba"
+  },
+  "Saltos sobre Vallas": {
+    "en": "Hurdle Jumps",
+    "zh": "跨栏跳",
+    "fr": "Sauts sur haies",
+    "it": "Salti sugli ostacoli"
+  },
+  "Saw (Sierra)": {
+    "en": "Saw",
+    "zh": "锯式",
+    "fr": "La Scie",
+    "it": "La Sega"
+  },
+  "Scoop de Isquios": {
+    "en": "Hamstring Scoop",
+    "zh": "腘绳肌前伸拉伸",
+    "fr": "Scoop des ischio-jambiers",
+    "it": "Scoop degli ischiocrurali"
+  },
+  "Seal (Foca)": {
+    "en": "Seal",
+    "zh": "海豹式",
+    "fr": "Le Phoque",
+    "it": "La Foca"
+  },
+  "Sentadilla Asistida": {
+    "en": "Assisted Squat",
+    "zh": "辅助深蹲",
+    "fr": "Squat assisté",
+    "it": "Squat assistito"
+  },
+  "Sentadilla Búlgara": {
+    "en": "Bulgarian Split Squat",
+    "zh": "保加利亚分腿蹲",
+    "fr": "Fente bulgare",
+    "it": "Squat bulgaro"
+  },
+  "Sentadilla Búlgara con Barra": {
+    "en": "Barbell Bulgarian Split Squat",
+    "zh": "杠铃保加利亚分腿蹲",
+    "fr": "Squat Bulgare avec Barre",
+    "it": "Squat Bulgaro con Bilanciere"
+  },
+  "Sentadilla Búlgara con Mancuernas": {
+    "en": "Dumbbell Bulgarian Split Squat",
+    "zh": "哑铃保加利亚分腿蹲",
+    "fr": "Squat Bulgare avec Haltères",
+    "it": "Squat Bulgaro con Manubri"
+  },
+  "Sentadilla Cossack": {
+    "en": "Cossack Squat",
+    "zh": "哥萨克深蹲",
+    "fr": "Squat Cosaque",
+    "it": "Squat Cosacco"
+  },
+  "Sentadilla Frontal": {
+    "en": "Front Squat",
+    "zh": "前深蹲",
+    "fr": "Squat Frontal",
+    "it": "Squat Frontale"
+  },
+  "Sentadilla Frontal (Front Squat)": {
+    "en": "Front Squat",
+    "zh": "前深蹲",
+    "fr": "Squat Frontal",
+    "it": "Squat Frontale"
+  },
+  "Sentadilla Goblet": {
+    "en": "Goblet Squat",
+    "zh": "高脚杯深蹲",
+    "fr": "Squat Goblet",
+    "it": "Goblet Squat"
+  },
+  "Sentadilla Isométrica": {
+    "en": "Isometric Squat",
+    "zh": "等长深蹲",
+    "fr": "Squat Isométrique",
+    "it": "Squat Isometrico"
+  },
+  "Sentadilla Lateral con Salto": {
+    "en": "Lateral Squat Jump",
+    "zh": "侧向跳蹲",
+    "fr": "Saut Accroupi Latéral",
+    "it": "Salto Squat Laterale"
+  },
+  "Sentadilla Libre con Barra": {
+    "en": "Barbell Back Squat",
+    "zh": "杠铃自由深蹲",
+    "fr": "Squat Libre avec Barre",
+    "it": "Squat Libero con Bilanciere"
+  },
+  "Sentadilla Pistol": {
+    "en": "Pistol Squat",
+    "zh": "手枪深蹲",
+    "fr": "Squat Pistol",
+    "it": "Pistol Squat"
+  },
+  "Sentadilla Pliométrica": {
+    "en": "Plyometric Squat",
+    "zh": "增强式深蹲",
+    "fr": "Squat Pliométrique",
+    "it": "Squat Pliometrico"
+  },
+  "Sentadilla Sumo con Mancuerna": {
+    "en": "Dumbbell Sumo Squat",
+    "zh": "哑铃相扑深蹲",
+    "fr": "Squat Sumo avec Haltère",
+    "it": "Sumo Squat con Manubrio"
+  },
+  "Sentadilla Tempo (3-1-1)": {
+    "en": "Tempo Squat (3-1-1)",
+    "zh": "节奏深蹲 (3-1-1)",
+    "fr": "Squat Tempo (3-1-1)",
+    "it": "Squat Tempo (3-1-1)"
+  },
+  "Sentadilla Zercher": {
+    "en": "Zercher Squat",
+    "zh": "泽奇深蹲",
+    "fr": "Squat Zercher",
+    "it": "Zercher Squat"
+  },
+  "Sentadilla con Barra": {
+    "en": "Barbell Squat",
+    "zh": "杠铃深蹲",
+    "fr": "Squat avec Barre",
+    "it": "Squat con Bilanciere"
+  },
+  "Sentadilla con Pausa": {
+    "en": "Pause Squat",
+    "zh": "暂停深蹲",
+    "fr": "Squat avec Pause",
+    "it": "Squat con Pausa"
+  },
+  "Sentadilla con Pelota": {
+    "en": "Wall Ball Squat",
+    "zh": "靠墙球深蹲",
+    "fr": "Squat avec Ballon",
+    "it": "Squat con Palla"
+  },
+  "Sentadilla con Salto": {
+    "en": "Jump Squat",
+    "zh": "跳蹲",
+    "fr": "Squat Sauté",
+    "it": "Squat con Salto"
+  },
+  "Sentadilla en Pared": {
+    "en": "Wall Sit",
+    "zh": "靠墙静蹲",
+    "fr": "Squat Mural",
+    "it": "Squat al Muro"
+  },
+  "Serie de Patadas Laterales": {
+    "en": "Side Kick Series",
+    "zh": "侧踢腿系列",
+    "fr": "Série de Coups de Pied Latéraux",
+    "it": "Serie di Calci Laterali"
+  },
+  "Shoulder Tap": {
+    "en": "Shoulder Tap",
+    "zh": "触肩",
+    "fr": "Tapement d'Épaule",
+    "it": "Tappo Spalla"
+  },
+  "Side Bend": {
+    "en": "Side Bend",
+    "zh": "侧弯",
+    "fr": "Flexion Latérale",
+    "it": "Piegamento Laterale"
+  },
+  "Sirena (Mermaid)": {
+    "en": "Mermaid",
+    "zh": "美人鱼",
+    "fr": "Sirène",
+    "it": "Sirena"
+  },
+  "Sissy Squat": {
+    "en": "Sissy Squat",
+    "zh": "西西深蹲",
+    "fr": "Sissy Squat",
+    "it": "Sissy Squat"
+  },
+  "Sit-up Completo": {
+    "en": "Full Sit-up",
+    "zh": "完整仰卧起坐",
+    "fr": "Sit-up Complet",
+    "it": "Sit-up Completo"
+  },
+  "Sit-up Declinado": {
+    "en": "Decline Sit-up",
+    "zh": "下斜仰卧起坐",
+    "fr": "Sit-up Décliné",
+    "it": "Sit-up Declinato"
+  },
+  "Skipping Alto": {
+    "en": "High Skipping",
+    "zh": "高抬腿跳绳",
+    "fr": "Skipping Haut",
+    "it": "Skipping Alto"
+  },
+  "Skipping Bajo": {
+    "en": "Low Skipping",
+    "zh": "低抬腿跳绳",
+    "fr": "Skipping Bas",
+    "it": "Skipping Basso"
+  },
+  "Skipping Rodilla Alta": {
+    "en": "High Knee Skipping",
+    "zh": "高抬膝跳绳",
+    "fr": "Skipping Genoux Hauts",
+    "it": "Skipping Ginocchia Alte"
+  },
+  "Skull Crusher con Mancuernas": {
+    "en": "Dumbbell Skull Crusher",
+    "zh": "哑铃碎颅者",
+    "fr": "Skull Crusher avec Haltères",
+    "it": "Skull Crusher con Manubri"
+  },
+  "Skull Crusher en Polea": {
+    "en": "Cable Skull Crusher",
+    "zh": "绳索碎颅者",
+    "fr": "Skull Crusher à la Poulie",
+    "it": "Skull Crusher al Cavo"
+  },
+  "Spiderman Walk": {
+    "en": "Spiderman Walk",
+    "zh": "蜘蛛侠爬行",
+    "fr": "Marche Spiderman",
+    "it": "Camminata Spiderman"
+  },
+  "Sprint 30m": {
+    "en": "30m Sprint",
+    "zh": "30米冲刺",
+    "fr": "Sprint 30m",
+    "it": "Sprint 30m"
+  },
+  "Sprint con Arrancada": {
+    "en": "Standing Start Sprint",
+    "zh": "起跑冲刺",
+    "fr": "Sprint avec Départ Statique",
+    "it": "Sprint con Partenza"
+  },
+  "Sprint en Curva": {
+    "en": "Curve Sprint",
+    "zh": "弯道冲刺",
+    "fr": "Sprint en Courbe",
+    "it": "Sprint in Curva"
+  },
+  "Sprints Cortos": {
+    "en": "Short Sprints",
+    "zh": "短距离冲刺",
+    "fr": "Sprints Courts",
+    "it": "Sprint Corti"
+  },
+  "Sprints en Escaleras": {
+    "en": "Stair Sprints",
+    "zh": "楼梯冲刺",
+    "fr": "Sprints dans les Escaliers",
+    "it": "Sprint sulle Scale"
+  },
+  "Step Down": {
+    "en": "Step Down",
+    "zh": "下踏",
+    "fr": "Step Down",
+    "it": "Step Down"
+  },
+  "Step Touch Explosivo": {
+    "en": "Explosive Step Touch",
+    "zh": "爆发式踏步",
+    "fr": "Step Touch Explosif",
+    "it": "Step Touch Esplosivo"
+  },
+  "Step Up": {
+    "en": "Step Up",
+    "zh": "踏步",
+    "fr": "Step Up",
+    "it": "Step Up"
+  },
+  "Step Up Rápido": {
+    "en": "Quick Step Up",
+    "zh": "快速踏步",
+    "fr": "Step-up rapide",
+    "it": "Step-up veloce"
+  },
+  "Step Up con Elevación de Rodilla": {
+    "en": "Step Up with Knee Drive",
+    "zh": "抬膝踏步",
+    "fr": "Step-up avec élévation de genou",
+    "it": "Step-up con elevazione del ginocchio"
+  },
+  "Step-up": {
+    "en": "Step-up",
+    "zh": "踏步",
+    "fr": "Step-up",
+    "it": "Step-up"
+  },
+  "Step-up Alto": {
+    "en": "High Step-up",
+    "zh": "高踏步",
+    "fr": "Step-up haut",
+    "it": "Step-up alto"
+  },
+  "Suitcase Carry": {
+    "en": "Suitcase Carry",
+    "zh": "手提箱式行走",
+    "fr": "Porté valise",
+    "it": "Farmers Walk a braccio singolo"
+  },
+  "Superman": {
+    "en": "Superman",
+    "zh": "超人式",
+    "fr": "Superman",
+    "it": "Superman"
+  },
+  "Superman Hold": {
+    "en": "Superman Hold",
+    "zh": "超人式支撑",
+    "fr": "Maintien superman",
+    "it": "Mantenimento superman"
+  },
+  "Superman con Disco": {
+    "en": "Superman with Plate",
+    "zh": "负重超人式",
+    "fr": "Superman avec disque",
+    "it": "Superman con disco"
+  },
+  "Svend Press": {
+    "en": "Svend Press",
+    "zh": "史文德推举",
+    "fr": "Svend Press",
+    "it": "Svend Press"
+  },
+  "Svend Press con Disco": {
+    "en": "Svend Press with Plate",
+    "zh": "负重史文德推举",
+    "fr": "Svend Press avec disque",
+    "it": "Svend Press con disco"
+  },
+  "Swan (Cisne)": {
+    "en": "Swan (Pilates)",
+    "zh": "天鹅式 (普拉提)",
+    "fr": "Cygne (Pilates)",
+    "it": "Cigno (Pilates)"
+  },
+  "Swimming": {
+    "en": "Swimming",
+    "zh": "游泳",
+    "fr": "Natation",
+    "it": "Nuoto"
+  },
+  "T-Bar Row": {
+    "en": "T-Bar Row",
+    "zh": "T杆划船",
+    "fr": "T-Bar Row",
+    "it": "Rematore T-Bar"
+  },
+  "T-Drill": {
+    "en": "T-Drill",
+    "zh": "T字形跑",
+    "fr": "T-Drill",
+    "it": "T-Drill"
+  },
+  "Tabata 4 min": {
+    "en": "Tabata 4 min",
+    "zh": "4分钟塔巴塔",
+    "fr": "Tabata 4 min",
+    "it": "Tabata 4 min"
+  },
+  "Talones a Glúteos": {
+    "en": "Heel Kicks to Glutes",
+    "zh": "高抬腿后踢",
+    "fr": "Talons aux fessiers",
+    "it": "Talloni ai glutei"
+  },
+  "Talones al Glúteo": {
+    "en": "Heels to Glutes",
+    "zh": "脚跟踢臀",
+    "fr": "Talons aux fessiers",
+    "it": "Talloni al gluteo"
+  },
+  "Tate Curl": {
+    "en": "Tate Curl",
+    "zh": "泰特弯举",
+    "fr": "Curl Tate",
+    "it": "Tate Curl"
+  },
+  "Tate Press": {
+    "en": "Tate Press",
+    "zh": "泰特推举",
+    "fr": "Presse Tate",
+    "it": "Tate Press"
+  },
+  "Teaser": {
+    "en": "Teaser (Pilates)",
+    "zh": "诱惑式 (普拉提)",
+    "fr": "Teaser (Pilates)",
+    "it": "Teaser (Pilates)"
+  },
+  "Tempo Run": {
+    "en": "Tempo Run",
+    "zh": "节奏跑",
+    "fr": "Course au tempo",
+    "it": "Corsa a tempo"
+  },
+  "Tempo Run 20 min": {
+    "en": "Tempo Run 20 min",
+    "zh": "20分钟节奏跑",
+    "fr": "Course au tempo 20 min",
+    "it": "Corsa a tempo 20 min"
+  },
+  "The Hundred": {
+    "en": "The Hundred (Pilates)",
+    "zh": "百次拍打 (普拉提)",
+    "fr": "Le Cent (Pilates)",
+    "it": "Il Cento (Pilates)"
+  },
+  "Tijeras": {
+    "en": "Scissor Kicks",
+    "zh": "剪刀腿",
+    "fr": "Ciseaux",
+    "it": "Forbici"
+  },
+  "Tirón de Cuello": {
+    "en": "Neck Pull",
+    "zh": "颈部拉伸",
+    "fr": "Traction du cou",
+    "it": "Tirata del collo"
+  },
+  "Toe Tap": {
+    "en": "Toe Tap",
+    "zh": "脚尖轻触",
+    "fr": "Toucher de pointe de pied",
+    "it": "Toccata di punta"
+  },
+  "Toe Touch": {
+    "en": "Toe Touch",
+    "zh": "触趾",
+    "fr": "Toucher les orteils",
+    "it": "Toccata dei piedi"
+  },
+  "Toes to Bar": {
+    "en": "Toes to Bar",
+    "zh": "脚尖触杠",
+    "fr": "Pointes de pieds à la barre",
+    "it": "Punte dei piedi alla sbarra"
+  },
+  "Toques Rápidos en Cono": {
+    "en": "Quick Cone Taps",
+    "zh": "快速触碰圆锥",
+    "fr": "Touches rapides sur cône",
+    "it": "Tocchi rapidi sul cono"
+  },
+  "Toques de Talón": {
+    "en": "Heel Taps",
+    "zh": "脚跟轻触",
+    "fr": "Touches de talon",
+    "it": "Toccatine di tallone"
+  },
+  "Transición 90/90": {
+    "en": "90/90 Transition",
+    "zh": "90/90 转换",
+    "fr": "Transition 90/90",
+    "it": "Transizione 90/90"
+  },
+  "Trap Bar Shrug": {
+    "en": "Trap Bar Shrug",
+    "zh": "六角杠耸肩",
+    "fr": "Haussement d'épaules à la barre hexagonale",
+    "it": "Scrollata con trap bar"
+  },
+  "Twist Espinal Supino": {
+    "en": "Supine Spinal Twist",
+    "zh": "仰卧脊柱扭转",
+    "fr": "Torsion vertébrale couchée",
+    "it": "Torsione spinale supina"
+  },
+  "Twist Supino": {
+    "en": "Supine Twist",
+    "zh": "仰卧扭转",
+    "fr": "Torsion couchée",
+    "it": "Torsione supina"
+  },
+  "Twist de Columna": {
+    "en": "Spinal Twist",
+    "zh": "脊柱扭转",
+    "fr": "Torsion de la colonne vertébrale",
+    "it": "Torsione della colonna"
+  },
+  "V-Up": {
+    "en": "V-Up",
+    "zh": "V字两头起",
+    "fr": "V-Up",
+    "it": "V-Up"
+  },
+  "V-Up Completo": {
+    "en": "Full V-Up",
+    "zh": "完整V字两头起",
+    "fr": "V-Up complet",
+    "it": "V-Up completo"
+  },
+  "Vuelta a la Calma Corredor": {
+    "en": "Runner's Cool Down",
+    "zh": "跑步者放松",
+    "fr": "Retour au calme du coureur",
+    "it": "Defaticamento del corridore"
+  },
+  "Vuelta a la Calma Padel": {
+    "en": "Padel Cool Down",
+    "zh": "板式网球放松",
+    "fr": "Retour au calme Padel",
+    "it": "Defaticamento Padel"
+  },
+  "Vuelta a la Calma Post Partido": {
+    "en": "Post-Match Cool Down",
+    "zh": "赛后放松",
+    "fr": "Retour au calme après match",
+    "it": "Defaticamento post-partita"
+  },
+  "Walking Lunges": {
+    "en": "Walking Lunges",
+    "zh": "行进弓步",
+    "fr": "Fentes marchées",
+    "it": "Affondi camminati"
+  },
+  "Walks Diagonales con Banda": {
+    "en": "Banded Diagonal Walks",
+    "zh": "带阻力带对角线行走",
+    "fr": "Marches diagonales avec bande",
+    "it": "Camminate diagonali con banda"
+  },
+  "Wall Angels": {
+    "en": "Wall Angels",
+    "zh": "墙天使",
+    "fr": "Anges muraux",
+    "it": "Angeli al muro"
+  },
+  "Wall Slides": {
+    "en": "Wall Slides",
+    "zh": "靠墙滑动",
+    "fr": "Glissades murales",
+    "it": "Scivolate al muro"
+  },
+  "World's Greatest Stretch": {
+    "en": "World's Greatest Stretch",
+    "zh": "世界最佳伸展",
+    "fr": "Le meilleur étirement du monde",
+    "it": "Il miglior stretching del mondo"
+  },
+  "Wrist Curl (Flexión Muñeca)": {
+    "en": "Wrist Curl",
+    "zh": "腕弯举",
+    "fr": "Flexion des poignets",
+    "it": "Curl per i polsi"
+  },
+  "Y-Raise": {
+    "en": "Y-Raise",
+    "zh": "Y形上举",
+    "fr": "Élévation en Y",
+    "it": "Alzate a Y"
+  },
+  "Y-T-W Tumbado": {
+    "en": "Prone Y-T-W Raise",
+    "zh": "俯卧Y-T-W上举",
+    "fr": "Élévations Y-T-W couché",
+    "it": "Alzate Y-T-W prone"
+  },
+  "Yates Row": {
+    "en": "Yates Row",
+    "zh": "亚茨划船",
+    "fr": "Rowing Yates",
+    "it": "Rematore Yates"
+  },
+  "Yoga de Dedos del Pie": {
+    "en": "Toe Yoga",
+    "zh": "脚趾瑜伽",
+    "fr": "Yoga des orteils",
+    "it": "Yoga delle dita dei piedi"
+  },
+  "Z Press": {
+    "en": "Z Press",
+    "zh": "Z字推举",
+    "fr": "Développé Z",
+    "it": "Z Press"
+  },
+  "Zancada Andando": {
+    "en": "Walking Lunge",
+    "zh": "行进弓步",
+    "fr": "Fente marchée",
+    "it": "Affondo camminato"
+  },
+  "Zancada Atrás": {
+    "en": "Reverse Lunge",
+    "zh": "向后弓步",
+    "fr": "Fente arrière",
+    "it": "Affondo inverso"
+  },
+  "Zancada Lateral": {
+    "en": "Lateral Lunge",
+    "zh": "侧弓步",
+    "fr": "Fente latérale",
+    "it": "Affondo laterale"
+  },
+  "Zancada Lateral Dinámica": {
+    "en": "Dynamic Lateral Lunge",
+    "zh": "动态侧弓步",
+    "fr": "Fente latérale dynamique",
+    "it": "Affondo laterale dinamico"
+  },
+  "Zancada Reversa": {
+    "en": "Reverse Lunge",
+    "zh": "向后弓步",
+    "fr": "Fente arrière",
+    "it": "Affondo inverso"
+  },
+  "Zancada Saltada": {
+    "en": "Jumping Lunge",
+    "zh": "跳跃弓步",
+    "fr": "Fente sautée",
+    "it": "Affondo saltato"
+  },
+  "Zancada con Mancuernas": {
+    "en": "Dumbbell Lunge",
+    "zh": "哑铃弓步",
+    "fr": "Fente avec haltères",
+    "it": "Affondo con manubri"
+  },
+  "Zancada con Rotación": {
+    "en": "Lunge with Rotation",
+    "zh": "带旋转的弓步",
+    "fr": "Fente avec rotation",
+    "it": "Affondo con rotazione"
+  },
+  "Zancada con Salto": {
+    "en": "Jumping Lunge",
+    "zh": "跳跃弓步",
+    "fr": "Fente sautée",
+    "it": "Affondo saltato"
+  },
+  "Zancadas (Lunges)": {
+    "en": "Lunges",
+    "zh": "弓步",
+    "fr": "Fentes",
+    "it": "Affondi"
+  },
+  "Zancadas Andando": {
+    "en": "Walking Lunges",
+    "zh": "行进弓步",
+    "fr": "Fentes marchées",
+    "it": "Affondi camminati"
+  },
+  "Zancadas Inversas": {
+    "en": "Reverse Lunges",
+    "zh": "向后弓步",
+    "fr": "Fentes arrière",
+    "it": "Affondi inversi"
+  },
+  "Zancadas Largas Dinámicas": {
+    "en": "Dynamic Long Lunges",
+    "zh": "动态长弓步",
+    "fr": "Longues fentes dynamiques",
+    "it": "Affondi lunghi dinamici"
+  },
+  "Zancadas Laterales": {
+    "en": "Lateral Lunges",
+    "zh": "侧弓步",
+    "fr": "Fentes latérales",
+    "it": "Affondi laterali"
+  },
+  "Zancadas Saltadas": {
+    "en": "Jumping Lunges",
+    "zh": "跳跃弓步",
+    "fr": "Fentes sautées",
+    "it": "Affondi saltati"
+  },
+  "Zancadas en Cuesta": {
+    "en": "Incline Lunges",
+    "zh": "上坡弓步",
+    "fr": "Fentes en côte",
+    "it": "Affondi in salita"
+  },
+  "Zigzag entre Conos": {
+    "en": "Cone Zigzag Drill",
+    "zh": "绕锥筒S形跑",
+    "fr": "Slalom entre cônes",
+    "it": "Slalom tra i coni"
+  },
+  "Zottman Curl": {
+    "en": "Zottman Curl",
+    "zh": "佐特曼弯举",
+    "fr": "Curl Zottman",
+    "it": "Curl Zottman"
+  },
+  "Bear Crawl (Gateo del Oso)": {
+    "en": "Bear Crawl",
+    "zh": "熊爬",
+    "fr": "Marche de l'ours",
+    "it": "Camminata dell'orso"
+  },
+  "Burpee con Flexión Completa": {
+    "en": "Burpee with Full Push-up",
+    "zh": "带俯卧撑的波比跳",
+    "fr": "Burpee avec pompe complète",
+    "it": "Burpee con flessione completa"
+  },
+  "Clean con Kettlebell": {
+    "en": "Kettlebell Clean",
+    "zh": "壶铃翻",
+    "fr": "Clean avec kettlebell",
+    "it": "Clean con kettlebell"
+  },
+  "Couch Stretch (Sofá)": {
+    "en": "Couch Stretch",
+    "zh": "沙发拉伸",
+    "fr": "Étirement du canapé",
+    "it": "Stretching del divano"
+  },
+  "Crab Walk (Caminar Cangrejo)": {
+    "en": "Crab Walk",
+    "zh": "螃蟹步",
+    "fr": "Marche du crabe",
+    "it": "Camminata del granchio"
+  },
+  "Desplazamiento Lateral Rápido": {
+    "en": "Quick Lateral Shuffle",
+    "zh": "快速侧向移动",
+    "fr": "Déplacement latéral rapide",
+    "it": "Spostamento laterale rapido"
+  },
+  "Elevación de Piernas Colgado": {
+    "en": "Hanging Leg Raise",
+    "zh": "悬垂举腿",
+    "fr": "Élévation de jambes suspendu",
+    "it": "Sollevamento gambe appeso"
+  },
+  "Enhebrar la Aguja": {
+    "en": "Thread the Needle",
+    "zh": "穿针式",
+    "fr": "Enfiler l'aiguille",
+    "it": "Infilare l'ago"
+  },
+  "Estiramiento Figura 4 (Piriforme)": {
+    "en": "Figure 4 Stretch (Piriformis)",
+    "zh": "4字拉伸（梨状肌）",
+    "fr": "Étirement Figure 4 (Piriforme)",
+    "it": "Stretching Figura 4 (Piriforme)"
+  },
+  "Figure 8 con Kettlebell": {
+    "en": "Kettlebell Figure 8",
+    "zh": "壶铃8字绕环",
+    "fr": "Figure 8 avec kettlebell",
+    "it": "Figure 8 con kettlebell"
+  },
+  "Flexión de Arquero": {
+    "en": "Archer Push-up",
+    "zh": "射手俯卧撑",
+    "fr": "Pompe de l'archer",
+    "it": "Flessione dell'arciere"
+  },
+  "Flexión en Pino": {
+    "en": "Handstand Push-up",
+    "zh": "倒立撑",
+    "fr": "Pompe en équilibre sur les mains",
+    "it": "Flessione in verticale"
+  },
+  "Front Lever": {
+    "en": "Front Lever",
+    "zh": "前水平",
+    "fr": "Front Lever",
+    "it": "Front Lever"
+  },
+  "Gato-Vaca (Marjaryasana)": {
+    "en": "Cat-Cow (Marjaryasana)",
+    "zh": "猫牛式",
+    "fr": "Chat-Vache (Marjaryasana)",
+    "it": "Gatto-Mucca (Marjaryasana)"
+  },
+  "Guerrero I (Virabhadrasana)": {
+    "en": "Warrior I (Virabhadrasana)",
+    "zh": "战士一式",
+    "fr": "Guerrier I (Virabhadrasana)",
+    "it": "Guerriero I (Virabhadrasana)"
+  },
+  "Guerrero II": {
+    "en": "Warrior II",
+    "zh": "战士二式",
+    "fr": "Guerrier II",
+    "it": "Guerriero II"
+  },
+  "Limpiaparabrisas (Windshield Wipers)": {
+    "en": "Windshield Wipers",
+    "zh": "雨刷式",
+    "fr": "Essuie-glaces",
+    "it": "Tergi cristalli"
+  },
+  "Muscle-up en Barra": {
+    "en": "Bar Muscle-up",
+    "zh": "杠上双力臂",
+    "fr": "Muscle-up à la barre",
+    "it": "Muscle-up alla sbarra"
+  },
+  "Perro Boca Abajo (Adho Mukha)": {
+    "en": "Downward-Facing Dog (Adho Mukha)",
+    "zh": "下犬式",
+    "fr": "Chien tête en bas (Adho Mukha)",
+    "it": "Cane a testa in giù (Adho Mukha)"
+  },
+  "Planche Lean": {
+    "en": "Planche Lean",
+    "zh": "俄挺准备",
+    "fr": "Planche Lean",
+    "it": "Planche Lean"
+  },
+  "Postura de la Cobra": {
+    "en": "Cobra Pose",
+    "zh": "眼镜蛇式",
+    "fr": "Posture du cobra",
+    "it": "Posizione del cobra"
+  },
+  "Postura del Niño (Balasana)": {
+    "en": "Child's Pose (Balasana)",
+    "zh": "儿童式",
+    "fr": "Posture de l'enfant (Balasana)",
+    "it": "Posizione del bambino (Balasana)"
+  },
+  "Postura del Puente (Setu Bandha)": {
+    "en": "Bridge Pose (Setu Bandha)",
+    "zh": "桥式",
+    "fr": "Posture du pont (Setu Bandha)",
+    "it": "Posizione del ponte (Setu Bandha)"
+  },
+  "Postura del Árbol (Vrikshasana)": {
+    "en": "Tree Pose (Vrikshasana)",
+    "zh": "树式",
+    "fr": "Posture de l'arbre (Vrikshasana)",
+    "it": "Posizione dell'albero (Vrikshasana)"
+  },
+  "Rodillas Arriba (High Knees)": {
+    "en": "High Knees",
+    "zh": "高抬腿",
+    "fr": "Montées de genoux",
+    "it": "Ginocchia alte"
+  },
+  "Saludo al Sol (Surya Namaskar)": {
+    "en": "Sun Salutation (Surya Namaskar)",
+    "zh": "拜日式",
+    "fr": "Salut au soleil (Surya Namaskar)",
+    "it": "Saluto al sole (Surya Namaskar)"
+  },
+  "Sentadilla Pistol (a una pierna)": {
+    "en": "Pistol Squat (one-legged)",
+    "zh": "手枪深蹲（单腿）",
+    "fr": "Squat pistolet (à une jambe)",
+    "it": "Pistol Squat (a una gamba)"
+  },
+  "Skater Jumps (saltos de patinador)": {
+    "en": "Skater Jumps",
+    "zh": "滑冰跳",
+    "fr": "Sauts de patineur",
+    "it": "Salti da pattinatore"
+  },
+  "Snatch con Kettlebell": {
+    "en": "Kettlebell Snatch",
+    "zh": "壶铃抓举",
+    "fr": "Arraché avec kettlebell",
+    "it": "Snatch con kettlebell"
+  },
+  "Talones al Glúteo (Butt Kicks)": {
+    "en": "Butt Kicks",
+    "zh": "后踢腿",
+    "fr": "Talons-fesses",
+    "it": "Calci ai glutei"
+  },
+  "Tuck Jumps (saltos con rodillas al pecho)": {
+    "en": "Tuck Jumps",
+    "zh": "收膝跳",
+    "fr": "Sauts groupés",
+    "it": "Salti con ginocchia al petto"
+  },
+  "Turkish Get-Up": {
+    "en": "Turkish Get-Up",
+    "zh": "土耳其起立",
+    "fr": "Turkish Get-Up",
+    "it": "Turkish Get-Up"
+  },
+  "Windmill con Kettlebell": {
+    "en": "Kettlebell Windmill",
+    "zh": "壶铃风车",
+    "fr": "Windmill avec kettlebell",
+    "it": "Windmill con kettlebell"
+  }
+}

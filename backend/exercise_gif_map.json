@@ -1,0 +1,839 @@
+{
+  "press-banca": {
+    "exdb_id": "0025",
+    "exdb_name": "barbell bench press",
+    "score": 1.0,
+    "override": true
+  },
+  "press-banca-inclinado": {
+    "exdb_id": "0047",
+    "exdb_name": "barbell incline bench press",
+    "score": 1.0,
+    "override": true
+  },
+  "press-banca-declinado": {
+    "exdb_id": "0033",
+    "exdb_name": "barbell decline bench press",
+    "score": 1.0,
+    "override": true
+  },
+  "press-mancuernas": {
+    "exdb_id": "0289",
+    "exdb_name": "dumbbell bench press",
+    "score": 1.0,
+    "override": true
+  },
+  "aperturas-mancuernas": {
+    "exdb_id": "0308",
+    "exdb_name": "dumbbell fly",
+    "score": 1.0,
+    "override": true
+  },
+  "fondos-paralelas": {
+    "exdb_id": "0464",
+    "exdb_name": "front plank with twist",
+    "score": 1.0,
+    "override": true
+  },
+  "flexiones": {
+    "exdb_id": "0662",
+    "exdb_name": "push-up",
+    "score": 1.05
+  },
+  "remo-barra": {
+    "exdb_id": "0027",
+    "exdb_name": "barbell bent over row",
+    "score": 1.0,
+    "override": true
+  },
+  "remo-mancuerna": {
+    "exdb_id": "0293",
+    "exdb_name": "dumbbell bent over row",
+    "score": 1.0,
+    "override": true
+  },
+  "remo-polea": {
+    "exdb_id": "0164",
+    "exdb_name": "cable front shoulder raise",
+    "score": 1.0,
+    "override": true
+  },
+  "jalon-pecho": {
+    "exdb_id": "0150",
+    "exdb_name": "cable bar lateral pulldown",
+    "score": 1.0,
+    "override": true
+  },
+  "encogimientos": {
+    "exdb_id": "0329",
+    "exdb_name": "dumbbell incline shrug",
+    "score": 1.0,
+    "override": true
+  },
+  "press-militar": {
+    "exdb_id": "0086",
+    "exdb_name": "barbell seated behind head military press",
+    "score": 1.0,
+    "override": true
+  },
+  "press-arnold": {
+    "exdb_id": "2137",
+    "exdb_name": "dumbbell arnold press",
+    "score": 1.0,
+    "override": true
+  },
+  "pajaros": {
+    "exdb_id": "0376",
+    "exdb_name": "dumbbell raise",
+    "score": 1.0,
+    "override": true
+  },
+  "press-mancuernas-hombro": {
+    "exdb_id": "0426",
+    "exdb_name": "dumbbell standing overhead press",
+    "score": 1.0,
+    "override": true
+  },
+  "curl-barra": {
+    "exdb_id": "0031",
+    "exdb_name": "barbell curl",
+    "score": 1.0,
+    "override": true
+  },
+  "curl-mancuernas": {
+    "exdb_id": "0290",
+    "exdb_name": "dumbbell bench seated press",
+    "score": 1.0,
+    "override": true
+  },
+  "curl-martillo": {
+    "exdb_id": "0312",
+    "exdb_name": "dumbbell hammer curl v. 2",
+    "score": 1.0,
+    "override": true
+  },
+  "curl-predicador": {
+    "exdb_id": "0070",
+    "exdb_name": "barbell preacher curl",
+    "score": 1.0,
+    "override": true
+  },
+  "curl-concentrado": {
+    "exdb_id": "0297",
+    "exdb_name": "dumbbell concentration curl",
+    "score": 1.0,
+    "override": true
+  },
+  "curl-21": {
+    "exdb_id": "0031",
+    "exdb_name": "barbell curl",
+    "score": 1.0,
+    "override": true
+  },
+  "press-frances": {
+    "exdb_id": "0060",
+    "exdb_name": "barbell lying triceps extension skull crusher",
+    "score": 1.0,
+    "override": true
+  },
+  "extension-polea": {
+    "exdb_id": "0201",
+    "exdb_name": "cable pushdown",
+    "score": 1.0,
+    "override": true
+  },
+  "fondos-banco": {
+    "exdb_id": "0129",
+    "exdb_name": "bench dip (knees bent)",
+    "score": 1.0,
+    "override": true
+  },
+  "patada-triceps": {
+    "exdb_id": "0333",
+    "exdb_name": "dumbbell kickback",
+    "score": 1.0,
+    "override": true
+  },
+  "press-cerrado": {
+    "exdb_id": "0028",
+    "exdb_name": "barbell clean and press",
+    "score": 1.0,
+    "override": true
+  },
+  "rompecraneos": {
+    "exdb_id": "0060",
+    "exdb_name": "barbell lying triceps extension skull crusher",
+    "score": 1.0,
+    "override": true
+  },
+  "sentadilla": {
+    "exdb_id": "0043",
+    "exdb_name": "barbell full squat",
+    "score": 1.0,
+    "override": true
+  },
+  "sentadilla-frontal": {
+    "exdb_id": "0029",
+    "exdb_name": "barbell clean-grip front squat",
+    "score": 1.0,
+    "override": true
+  },
+  "zancadas": {
+    "exdb_id": "0054",
+    "exdb_name": "barbell lunge",
+    "score": 1.0,
+    "override": true
+  },
+  "curl-femoral": {
+    "exdb_id": "0586",
+    "exdb_name": "lever lying leg curl",
+    "score": 1.0,
+    "override": true
+  },
+  "peso-muerto-rumano": {
+    "exdb_id": "0085",
+    "exdb_name": "barbell romanian deadlift",
+    "score": 1.0,
+    "override": true
+  },
+  "sentadilla-bulgara": {
+    "exdb_id": "0358",
+    "exdb_name": "dumbbell one arm reverse wrist curl",
+    "score": 1.0,
+    "override": true
+  },
+  "sentadilla-goblet": {
+    "exdb_id": "1760",
+    "exdb_name": "dumbbell goblet squat",
+    "score": 1.0,
+    "override": true
+  },
+  "plancha": {
+    "exdb_id": "2135",
+    "exdb_name": "weighted front plank",
+    "score": 1.0,
+    "override": true
+  },
+  "plancha-lateral": {
+    "exdb_id": "0664",
+    "exdb_name": "push-up to side plank",
+    "score": 1.0,
+    "override": true
+  },
+  "dead-bug": {
+    "exdb_id": "0276",
+    "exdb_name": "dead bug",
+    "score": 1.0,
+    "override": true
+  },
+  "crunch-abdominal": {
+    "exdb_id": "0212",
+    "exdb_name": "cable seated crunch",
+    "score": 1.0,
+    "override": true
+  },
+  "rueda-abdominal": {
+    "exdb_id": "3220",
+    "exdb_name": "astride jumps (male)",
+    "score": 1.0,
+    "override": true
+  },
+  "russian-twist": {
+    "exdb_id": "0687",
+    "exdb_name": "russian twist",
+    "score": 1.0,
+    "override": true
+  },
+  "saltos-caja": {
+    "exdb_id": "0498",
+    "exdb_name": "inverted row with straps",
+    "score": 1.0,
+    "override": true
+  },
+  "burpees": {
+    "exdb_id": "0501",
+    "exdb_name": "jack burpee",
+    "score": 1.0,
+    "override": true
+  },
+  "mountain-climbers": {
+    "exdb_id": "2466",
+    "exdb_name": "bridge - mountain climber (cross body)",
+    "score": 1.0,
+    "override": true
+  },
+  "run-monster-walk": {
+    "exdb_id": "0628",
+    "exdb_name": "monster walk",
+    "score": 1.0
+  },
+  "pil-side-bend": {
+    "exdb_id": "0002",
+    "exdb_name": "45° side bend",
+    "score": 0.76
+  },
+  "fut-sentadilla-salto": {
+    "exdb_id": "0514",
+    "exdb_name": "jump squat",
+    "score": 0.9
+  },
+  "fut-lunge-salto": {
+    "exdb_id": "3582",
+    "exdb_name": "lunge with jump",
+    "score": 0.76
+  },
+  "fut-mountain-climbers-fut": {
+    "exdb_id": "0630",
+    "exdb_name": "mountain climber",
+    "score": 1.05
+  },
+  "fut-peso-muerto-rumano-fut": {
+    "exdb_id": "0085",
+    "exdb_name": "barbell romanian deadlift",
+    "score": 0.76
+  },
+  "fut-zancada-mancuernas-fut": {
+    "exdb_id": "0336",
+    "exdb_name": "dumbbell lunge",
+    "score": 0.92
+  },
+  "ab-rueda-abdominal": {
+    "exdb_id": "0857",
+    "exdb_name": "wheel rollout",
+    "score": 1.02
+  },
+  "ab-deadbug": {
+    "exdb_id": "0276",
+    "exdb_name": "dead bug",
+    "score": 1.05
+  },
+  "gym-pullover": {
+    "exdb_id": "0375",
+    "exdb_name": "dumbbell pullover",
+    "score": 0.89
+  },
+  "ch-press-banca-cerrado": {
+    "exdb_id": "0028",
+    "exdb_name": "barbell clean and press",
+    "score": 1.0,
+    "override": true
+  },
+  "ch-press-mancuerna-inclinado": {
+    "exdb_id": "0314",
+    "exdb_name": "dumbbell incline bench press",
+    "score": 1.0,
+    "override": true
+  },
+  "ch-press-mancuerna-declinado": {
+    "exdb_id": "0301",
+    "exdb_name": "dumbbell decline bench press",
+    "score": 1.0,
+    "override": true
+  },
+  "ch-flexion-clasica": {
+    "exdb_id": "0662",
+    "exdb_name": "push-up",
+    "score": 1.05
+  },
+  "ch-flexion-diamante": {
+    "exdb_id": "3203",
+    "exdb_name": "prisoner half sit-up (male)",
+    "score": 1.0,
+    "override": true
+  },
+  "ch-flexion-declinada": {
+    "exdb_id": "0279",
+    "exdb_name": "decline push-up",
+    "score": 1.0,
+    "override": true
+  },
+  "bk-remo-mancuerna": {
+    "exdb_id": "0293",
+    "exdb_name": "dumbbell bent over row",
+    "score": 1.0,
+    "override": true
+  },
+  "bk-remo-polea": {
+    "exdb_id": "0861",
+    "exdb_name": "cable seated row",
+    "score": 0.9
+  },
+  "bk-deadlift-rumano": {
+    "exdb_id": "0085",
+    "exdb_name": "barbell romanian deadlift",
+    "score": 1.0,
+    "override": true
+  },
+  "bk-shrug-barra": {
+    "exdb_id": "0095",
+    "exdb_name": "barbell shrug",
+    "score": 0.91
+  },
+  "bk-shrug-mancuerna": {
+    "exdb_id": "0329",
+    "exdb_name": "dumbbell incline shrug",
+    "score": 1.0,
+    "override": true
+  },
+  "sh-press-militar": {
+    "exdb_id": "0086",
+    "exdb_name": "barbell seated behind head military press",
+    "score": 1.0,
+    "override": true
+  },
+  "sh-press-mancuernas-sentado": {
+    "exdb_id": "0290",
+    "exdb_name": "dumbbell bench seated press",
+    "score": 0.79
+  },
+  "sh-press-mancuernas-pie": {
+    "exdb_id": "0426",
+    "exdb_name": "dumbbell standing overhead press",
+    "score": 0.76
+  },
+  "sh-arnold-press": {
+    "exdb_id": "2137",
+    "exdb_name": "dumbbell arnold press",
+    "score": 1.0,
+    "override": true
+  },
+  "sh-elevacion-lateral-mancuerna": {
+    "exdb_id": "0334",
+    "exdb_name": "dumbbell lateral raise",
+    "score": 1.0,
+    "override": true
+  },
+  "sh-elevacion-lateral-cable": {
+    "exdb_id": "0178",
+    "exdb_name": "cable lateral raise",
+    "score": 0.96
+  },
+  "sh-elevacion-frontal-disco": {
+    "exdb_id": "0834",
+    "exdb_name": "weighted front raise",
+    "score": 0.92
+  },
+  "sh-elevacion-frontal-mancuerna": {
+    "exdb_id": "0312",
+    "exdb_name": "dumbbell hammer curl v. 2",
+    "score": 1.0,
+    "override": true
+  },
+  "sh-elevacion-frontal-polea": {
+    "exdb_id": "0162",
+    "exdb_name": "cable front raise",
+    "score": 0.94
+  },
+  "sh-pajaro-mancuerna": {
+    "exdb_id": "0383",
+    "exdb_name": "dumbbell reverse fly",
+    "score": 0.92
+  },
+  "bi-curl-barra-z": {
+    "exdb_id": "0447",
+    "exdb_name": "ez barbell curl",
+    "score": 1.0
+  },
+  "bi-curl-barra-recta": {
+    "exdb_id": "0031",
+    "exdb_name": "barbell curl",
+    "score": 1.0,
+    "override": true
+  },
+  "bi-curl-mancuerna-alterno": {
+    "exdb_id": "0290",
+    "exdb_name": "dumbbell bench seated press",
+    "score": 1.0,
+    "override": true
+  },
+  "bi-curl-martillo-pie": {
+    "exdb_id": "0312",
+    "exdb_name": "dumbbell hammer curl v. 2",
+    "score": 1.0,
+    "override": true
+  },
+  "bi-curl-concentrado": {
+    "exdb_id": "0297",
+    "exdb_name": "dumbbell concentration curl",
+    "score": 1.0,
+    "override": true
+  },
+  "tr-press-frances": {
+    "exdb_id": "0060",
+    "exdb_name": "barbell lying triceps extension skull crusher",
+    "score": 1.0,
+    "override": true
+  },
+  "tr-kickback": {
+    "exdb_id": "0333",
+    "exdb_name": "dumbbell kickback",
+    "score": 1.0,
+    "override": true
+  },
+  "tr-kickback-cable": {
+    "exdb_id": "0860",
+    "exdb_name": "cable kickback",
+    "score": 0.92
+  },
+  "tr-fondos-banco-tri": {
+    "exdb_id": "0129",
+    "exdb_name": "bench dip (knees bent)",
+    "score": 1.0,
+    "override": true
+  },
+  "tr-diamond-pushup": {
+    "exdb_id": "0283",
+    "exdb_name": "diamond push-up",
+    "score": 1.05
+  },
+  "fa-reverse-wrist-curl": {
+    "exdb_id": "0385",
+    "exdb_name": "dumbbell reverse wrist curl",
+    "score": 0.81
+  },
+  "le-sentadilla-libre": {
+    "exdb_id": "0043",
+    "exdb_name": "barbell full squat",
+    "score": 1.0,
+    "override": true
+  },
+  "le-sentadilla-frontal": {
+    "exdb_id": "0029",
+    "exdb_name": "barbell clean-grip front squat",
+    "score": 1.0,
+    "override": true
+  },
+  "le-sentadilla-overhead": {
+    "exdb_id": "0069",
+    "exdb_name": "barbell overhead squat",
+    "score": 0.75
+  },
+  "le-sentadilla-goblet": {
+    "exdb_id": "1760",
+    "exdb_name": "dumbbell goblet squat",
+    "score": 1.0,
+    "override": true
+  },
+  "le-sentadilla-bulgara-mancuerna": {
+    "exdb_id": "0358",
+    "exdb_name": "dumbbell one arm reverse wrist curl",
+    "score": 1.0,
+    "override": true
+  },
+  "le-sentadilla-bulgara-barra": {
+    "exdb_id": "2810",
+    "exdb_name": "barbell split squat v. 2",
+    "score": 0.76
+  },
+  "le-hack-squat": {
+    "exdb_id": "0743",
+    "exdb_name": "sled hack squat",
+    "score": 0.76
+  },
+  "le-leg-extension": {
+    "exdb_id": "0585",
+    "exdb_name": "lever leg extension",
+    "score": 1.0,
+    "override": true
+  },
+  "le-leg-curl-tumbado": {
+    "exdb_id": "0586",
+    "exdb_name": "lever lying leg curl",
+    "score": 1.0,
+    "override": true
+  },
+  "le-stiff-leg-deadlift": {
+    "exdb_id": "1010",
+    "exdb_name": "band straight leg deadlift",
+    "score": 1.0,
+    "override": true
+  },
+  "le-good-morning-pierna": {
+    "exdb_id": "0044",
+    "exdb_name": "barbell good morning",
+    "score": 0.93
+  },
+  "le-zancada-andando": {
+    "exdb_id": "0054",
+    "exdb_name": "barbell lunge",
+    "score": 1.0,
+    "override": true
+  },
+  "le-sissy-squat": {
+    "exdb_id": "1489",
+    "exdb_name": "sissy squat",
+    "score": 1.05
+  },
+  "le-jefferson-squat": {
+    "exdb_id": "0051",
+    "exdb_name": "barbell jefferson squat",
+    "score": 0.75
+  },
+  "le-trap-bar-deadlift": {
+    "exdb_id": "0811",
+    "exdb_name": "trap bar deadlift",
+    "score": 0.89
+  },
+  "le-elevacion-talones-pie": {
+    "exdb_id": "0108",
+    "exdb_name": "barbell standing leg calf raise",
+    "score": 1.0,
+    "override": true
+  },
+  "le-elevacion-talones-sentado": {
+    "exdb_id": "0088",
+    "exdb_name": "barbell seated calf raise",
+    "score": 1.0,
+    "override": true
+  },
+  "le-donkey-calf-raise": {
+    "exdb_id": "0284",
+    "exdb_name": "donkey calf raise",
+    "score": 1.0
+  },
+  "gl-hip-thrust-barra": {
+    "exdb_id": "0087",
+    "exdb_name": "barbell seated bradford rocky press",
+    "score": 1.0,
+    "override": true
+  },
+  "gl-hip-thrust-mancuerna": {
+    "exdb_id": "3236",
+    "exdb_name": "resistance band hip thrusts on knees (female)",
+    "score": 1.0,
+    "override": true
+  },
+  "gl-rdl-mancuerna": {
+    "exdb_id": "1459",
+    "exdb_name": "dumbbell romanian deadlift",
+    "score": 1.0,
+    "override": true
+  },
+  "co-cable-crunch": {
+    "exdb_id": "0175",
+    "exdb_name": "cable kneeling crunch",
+    "score": 1.0,
+    "override": true
+  },
+  "co-decline-situp": {
+    "exdb_id": "0282",
+    "exdb_name": "decline sit-up",
+    "score": 0.9
+  },
+  "co-ab-wheel": {
+    "exdb_id": "3220",
+    "exdb_name": "astride jumps (male)",
+    "score": 1.0,
+    "override": true
+  },
+  "co-russian-twist-medicina": {
+    "exdb_id": "0014",
+    "exdb_name": "assisted motion russian twist",
+    "score": 1.0,
+    "override": true
+  },
+  "co-bicycle-crunch": {
+    "exdb_id": "0003",
+    "exdb_name": "air bike",
+    "score": 1.0,
+    "override": true
+  },
+  "co-mountain-climber": {
+    "exdb_id": "2466",
+    "exdb_name": "bridge - mountain climber (cross body)",
+    "score": 1.0,
+    "override": true
+  },
+  "press-suelo": {
+    "exdb_id": "0306",
+    "exdb_name": "dumbbell decline triceps extension",
+    "score": 1.0,
+    "override": true
+  },
+  "dominadas": {
+    "exdb_id": "0652",
+    "exdb_name": "pull-up",
+    "score": 1.0,
+    "override": true
+  },
+  "dominadas-supinas": {
+    "exdb_id": "0651",
+    "exdb_name": "pull up (neutral grip)",
+    "score": 1.0,
+    "override": true
+  },
+  "peso-muerto": {
+    "exdb_id": "0032",
+    "exdb_name": "barbell deadlift",
+    "score": 1.0,
+    "override": true
+  },
+  "pullover": {
+    "exdb_id": "0413",
+    "exdb_name": "dumbbell squat",
+    "score": 1.0,
+    "override": true
+  },
+  "hiperextensiones": {
+    "exdb_id": "0467",
+    "exdb_name": "gorilla chin",
+    "score": 1.0,
+    "override": true
+  },
+  "elevaciones-laterales": {
+    "exdb_id": "0334",
+    "exdb_name": "dumbbell lateral raise",
+    "score": 1.0,
+    "override": true
+  },
+  "elevaciones-frontales": {
+    "exdb_id": "0312",
+    "exdb_name": "dumbbell hammer curl v. 2",
+    "score": 1.0,
+    "override": true
+  },
+  "remo-menton": {
+    "exdb_id": "0120",
+    "exdb_name": "barbell upright row",
+    "score": 1.0,
+    "override": true
+  },
+  "push-press": {
+    "exdb_id": "0182",
+    "exdb_name": "cable lying close-grip curl",
+    "score": 1.0,
+    "override": true
+  },
+  "prensa": {
+    "exdb_id": "0739",
+    "exdb_name": "sled 45° leg press",
+    "score": 1.0,
+    "override": true
+  },
+  "extensiones-cuadriceps": {
+    "exdb_id": "0585",
+    "exdb_name": "lever leg extension",
+    "score": 1.0,
+    "override": true
+  },
+  "buenos-dias": {
+    "exdb_id": "0046",
+    "exdb_name": "barbell hack squat",
+    "score": 1.0,
+    "override": true
+  },
+  "hip-thrust": {
+    "exdb_id": "3236",
+    "exdb_name": "resistance band hip thrusts on knees (female)",
+    "score": 1.0,
+    "override": true
+  },
+  "gemelos-de-pie": {
+    "exdb_id": "0108",
+    "exdb_name": "barbell standing leg calf raise",
+    "score": 1.0,
+    "override": true
+  },
+  "gemelos-sentado": {
+    "exdb_id": "0088",
+    "exdb_name": "barbell seated calf raise",
+    "score": 1.0,
+    "override": true
+  },
+  "step-up": {
+    "exdb_id": "0114",
+    "exdb_name": "barbell step-up",
+    "score": 1.0,
+    "override": true
+  },
+  "bird-dog": {
+    "exdb_id": "2432",
+    "exdb_name": "ez-bar close-grip bench press",
+    "score": 1.0,
+    "override": true
+  },
+  "hollow-hold": {
+    "exdb_id": "0471",
+    "exdb_name": "handstand push-up",
+    "score": 1.0,
+    "override": true
+  },
+  "elevaciones-piernas": {
+    "exdb_id": "0472",
+    "exdb_name": "hanging leg raise",
+    "score": 1.0,
+    "override": true
+  },
+  "pallof-press": {
+    "exdb_id": "0979",
+    "exdb_name": "band horizontal pallof press",
+    "score": 1.0,
+    "override": true
+  },
+  "kettlebell-swing": {
+    "exdb_id": "0549",
+    "exdb_name": "kettlebell swing",
+    "score": 1.0,
+    "override": true
+  },
+  "bk-dominada-prona": {
+    "exdb_id": "0652",
+    "exdb_name": "pull-up",
+    "score": 1.0,
+    "override": true
+  },
+  "bk-dominada-supina": {
+    "exdb_id": "0651",
+    "exdb_name": "pull up (neutral grip)",
+    "score": 1.0,
+    "override": true
+  },
+  "bk-deadlift-convencional": {
+    "exdb_id": "0032",
+    "exdb_name": "barbell deadlift",
+    "score": 1.0,
+    "override": true
+  },
+  "sh-push-press": {
+    "exdb_id": "0182",
+    "exdb_name": "cable lying close-grip curl",
+    "score": 1.0,
+    "override": true
+  },
+  "bi-curl-predicador": {
+    "exdb_id": "0070",
+    "exdb_name": "barbell preacher curl",
+    "score": 1.0,
+    "override": true
+  },
+  "tr-pushdown-cuerda": {
+    "exdb_id": "0200",
+    "exdb_name": "cable pushdown (with rope attachment)",
+    "score": 1.0,
+    "override": true
+  },
+  "tr-pushdown-barra": {
+    "exdb_id": "0201",
+    "exdb_name": "cable pushdown",
+    "score": 1.0,
+    "override": true
+  },
+  "le-prensa": {
+    "exdb_id": "0739",
+    "exdb_name": "sled 45° leg press",
+    "score": 1.0,
+    "override": true
+  },
+  "co-hanging-knee-raise": {
+    "exdb_id": "0472",
+    "exdb_name": "hanging leg raise",
+    "score": 1.0,
+    "override": true
+  },
+  "co-flutter-kicks": {
+    "exdb_id": "0476",
+    "exdb_name": "hanging straight twisting leg hip raise",
+    "score": 1.0,
+    "override": true
+  }
+}
