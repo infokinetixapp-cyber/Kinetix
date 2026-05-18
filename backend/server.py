@@ -817,6 +817,24 @@ async def update_profile(body: ProfileUpdateIn, user=Depends(get_current_user)):
         await db.users.update_one({"id": user["id"]}, {"$set": upd})
     return {"ok": True, **upd}
 
+
+class ChangePasswordIn(BaseModel):
+    current_password: str
+    new_password: str
+
+@api.post("/auth/change-password")
+async def change_password(body: ChangePasswordIn, user=Depends(get_current_user)):
+    """Cambiar contraseña estando logueado (requiere contraseña actual)."""
+    if not body.new_password or len(body.new_password) < 6:
+        raise HTTPException(400, "La nueva contraseña debe tener al menos 6 caracteres")
+    # Verificar password actual
+    full_user = await db.users.find_one({"id": user["id"]})
+    if not full_user or not verify_password(body.current_password, full_user.get("password_hash", "")):
+        raise HTTPException(401, "Contraseña actual incorrecta")
+    new_hash = hash_password(body.new_password)
+    await db.users.update_one({"id": user["id"]}, {"$set": {"password_hash": new_hash}})
+    return {"ok": True, "message": "Contraseña actualizada correctamente"}
+
 # ---------------- Workout Sessions ----------------
 @api.post("/workouts", response_model=WorkoutSession)
 async def log_workout(body: WorkoutSessionIn, user=Depends(get_current_user)):
