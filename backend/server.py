@@ -36,7 +36,13 @@ db = client[os.environ['DB_NAME']]
 
 JWT_SECRET = os.environ['JWT_SECRET']
 JWT_ALG = "HS256"
-EMERGENT_LLM_KEY = os.environ.get("EMERGENT_LLM_KEY", "")
+EMERGENT_LLM_KEY = (
+    os.environ.get("EMERGENT_LLM_KEY")
+    or os.environ.get("EMERGENT_LLM_KEY1")
+    or os.environ.get("GEMINI_API_KEY")
+    or os.environ.get("GOOGLE_API_KEY")
+    or ""
+)
 STRIPE_API_KEY = os.environ.get("STRIPE_API_KEY", "")
 if STRIPE_API_KEY:
     stripe_sdk.api_key = STRIPE_API_KEY
